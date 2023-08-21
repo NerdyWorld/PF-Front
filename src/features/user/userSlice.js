@@ -89,14 +89,14 @@ export const userSlice = createSlice({
             state.isLoading = false;
             state.isSuccess = true;
             state.isError = false;
-            state.message = "User logged in";
-            state.user = action.payload;
+            state.message = "Github user logged";
+            state.user = action.payload.data;
           })
           .addCase(githubAuth.rejected, (state, action) =>{
             state.isLoading = false;
             state.isSuccess = false;
             state.isError = true;
-            state.message = "User logged error";
+            state.message = "Github user log error";
             state.user = null;
           })
 
