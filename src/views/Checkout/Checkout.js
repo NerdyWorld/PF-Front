@@ -1,21 +1,22 @@
 import React, { useEffect, useState } from 'react';
 import{ loadStripe } from "@stripe/stripe-js";
-import { STRIPE_P_KEY, STRIPE_S_KEY } from '../../utils/utilities';
+import { STRIPE_P_KEY } from '../../utils/utilities';
 import axios from "axios";
-import { Elements } from '@stripe/react-stripe-js';
+import { Elements, useStripe, useElements } from '@stripe/react-stripe-js';
 
 const stripePromise = loadStripe(STRIPE_P_KEY);
 
 const Checkout = () => {
 
   const [clientSecret, setClientSecret] = useState(null);
+  const [isProcessing, setIsProcessing] = useState(false);
 
   useEffect(() => {
     // STRIPE PAYMENT IMPLEMENTATION
     (async()=>{
       const getClientSecret = await axios.post("http://localhost:3001/api/stripe/create-payment-intent", {
         data: {
-          currency: "ars",
+          currency: "usd",
           amount: 1900
         }
       });
@@ -24,11 +25,29 @@ const Checkout = () => {
     })()
   }, []);
 
+
+
+
+  const handleSubmit = async(e) =>{
+    e.preventDefault();
+  }
+
   return ( 
     <div>
-      <Elements stripe={stripePromise} options={{ clientSecret }}>
-
-      </Elements>
+      {
+        stripePromise && clientSecret &&
+        <Elements stripe={stripePromise} options={{ clientSecret }}>
+          <form onSubmit={handleSubmit}>
+            <button>
+              <span>
+                {
+                  isProcessing ? "Processing..." : "Pay now"
+                }
+              </span>
+            </button>
+          </form>
+        </Elements>
+      }
     </div>
    );
 }
