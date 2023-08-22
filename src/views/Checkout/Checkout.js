@@ -1,15 +1,31 @@
-import React, { useEffect, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
+import styles from "./Checkout.module.css";
 import{ loadStripe } from "@stripe/stripe-js";
 import { STRIPE_P_KEY } from '../../utils/utilities';
 import axios from "axios";
-import { Elements, useStripe, useElements } from '@stripe/react-stripe-js';
+import { Elements } from '@stripe/react-stripe-js';
+import Stripe from '../../components/Checkout/PayWithStripe/PayWithStripe';
+import Payment from '../../components/Checkout/Payment/PaymentSection';
+import { GlobalContext } from '../../context/globalContext';
+import Information from '../../components/Checkout/Information/InfoSection';
+import Shipping from '../../components/Checkout/Shipping/ShippingSection';
 
 const stripePromise = loadStripe(STRIPE_P_KEY);
 
 const Checkout = () => {
 
+  // CONTEXT API
+  const globalContext = useContext(GlobalContext);
+  const { 
+    payWithStripe, 
+    setPayWithStripe ,
+    showInfo,
+    showShipping,
+    showPayment
+  } = globalContext;
+
+  // STRIPE IMPLEMENTATION
   const [clientSecret, setClientSecret] = useState(null);
-  const [isProcessing, setIsProcessing] = useState(false);
 
   useEffect(() => {
     // STRIPE PAYMENT IMPLEMENTATION
@@ -24,30 +40,39 @@ const Checkout = () => {
       setClientSecret(getClientSecret.data.clientSecret);
     })()
   }, []);
+  // ------- STRIPE ENDS ----------->
 
 
 
-
-  const handleSubmit = async(e) =>{
-    e.preventDefault();
-  }
 
   return ( 
-    <div>
-      {
-        stripePromise && clientSecret &&
-        <Elements stripe={stripePromise} options={{ clientSecret }}>
-          <form onSubmit={handleSubmit}>
-            <button>
-              <span>
-                {
-                  isProcessing ? "Processing..." : "Pay now"
-                }
-              </span>
-            </button>
-          </form>
-        </Elements>
-      }
+    <div className={styles.wrapper}>
+        <div className={styles.left}>
+
+        </div>
+        <div className={styles.right}>
+          {
+            showInfo &&
+            <Information/>
+          }
+          {
+            showShipping &&
+            <Shipping/>
+          }
+          {
+            showPayment && 
+            <Payment setPayWithStripe={setPayWithStripe}/>
+          }
+
+
+
+          {
+            payWithStripe && stripePromise && clientSecret &&
+            <Elements stripe={stripePromise} options={{ clientSecret }}>
+              <Stripe/>
+            </Elements>
+          }
+        </div>
     </div>
    );
 }

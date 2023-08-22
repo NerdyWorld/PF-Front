@@ -7,20 +7,17 @@ import { Provider } from 'react-redux';
 import { store } from './store/store';
 import { PayPalScriptProvider } from "@paypal/react-paypal-js";
 import { GoogleOAuthProvider } from '@react-oauth/google';
-import { LanguageProvider } from './context/languageContext';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store={store}>
     <GlobalProvider>
-      <LanguageProvider>
         <PayPalScriptProvider options={{"client-id": "Ad7WNItmuBn4ealmFHbGctFRd3eOmiqHpTuhpNjw44ryXmACwZypE9gIo4fBPmtvaO0ff6iIUIoE00sM"}}>
           <GoogleOAuthProvider clientId='210798772682-fdg2e07n7b12fa7hbm0578ni793fca7e.apps.googleusercontent.com'>
               <App />
           </GoogleOAuthProvider>
         </PayPalScriptProvider>
-      </LanguageProvider>
     </GlobalProvider>
   </Provider>
 );

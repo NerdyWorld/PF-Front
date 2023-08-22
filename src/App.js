@@ -3,7 +3,10 @@ import { GlobalContext } from "./context/globalContext";
 import Login from "./views/Login/Login";
 import "./App.css"
 import { Translator } from 'react-auto-translate';
-import Checkout from "./views/Checkout/Checkout";
+import { initMercadoPago } from '@mercadopago/sdk-react'
+import { MP_KEY } from "./utils/utilities";
+import Router from "./router";
+
 
 
 function App() {
@@ -26,7 +29,9 @@ function App() {
     const getLanguageFromLocalStorage = localStorage.getItem("nerdyLanguage");
     if(getLanguageFromLocalStorage){
       setLanguage(getLanguageFromLocalStorage);
-    }
+    };
+
+    initMercadoPago(MP_KEY);
   
   }, []);
 
@@ -38,8 +43,7 @@ function App() {
         to={language}
         googleApiKey='AIzaSyDsFDcb0OMaD049cN99Pxr95sJmO863NFo'
       >
-        <Login/>
-        <Checkout/>
+        <Router/>
       </Translator>
     </div>
   );

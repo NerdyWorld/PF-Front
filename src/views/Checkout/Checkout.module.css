@@ -1,0 +1,20 @@
+.wrapper{
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+
+
+.left{
+  width: 50%;
+  height: 100vh;
+  background-color: peru;
+}
+
+.right{
+  width: 50%;
+}
