@@ -2,7 +2,9 @@ import React, { useEffect, useState } from 'react';
 import{ loadStripe } from "@stripe/stripe-js";
 import { STRIPE_P_KEY } from '../../utils/utilities';
 import axios from "axios";
-import { Elements, useStripe, useElements } from '@stripe/react-stripe-js';
+import { Elements, PaymentElement } from '@stripe/react-stripe-js';
+import Stripe from '../../components/Stripe';
+import Payment from '../../components/Payment';
 
 const stripePromise = loadStripe(STRIPE_P_KEY);
 
@@ -10,6 +12,7 @@ const Checkout = () => {
 
   const [clientSecret, setClientSecret] = useState(null);
   const [isProcessing, setIsProcessing] = useState(false);
+  
 
   useEffect(() => {
     // STRIPE PAYMENT IMPLEMENTATION
@@ -33,19 +36,12 @@ const Checkout = () => {
   }
 
   return ( 
-    <div>
+    <div className='checkOut'>
       {
         stripePromise && clientSecret &&
         <Elements stripe={stripePromise} options={{ clientSecret }}>
-          <form onSubmit={handleSubmit}>
-            <button>
-              <span>
-                {
-                  isProcessing ? "Processing..." : "Pay now"
-                }
-              </span>
-            </button>
-          </form>
+            <Stripe />
+            <Payment />          
         </Elements>
       }
     </div>

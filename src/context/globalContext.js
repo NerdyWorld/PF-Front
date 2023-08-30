@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState } from "react";
+import { createContext, useContext, useEffect, useState } from "react";
 
 
 export const GlobalContext = createContext();
@@ -11,7 +11,6 @@ export const GlobalProvider = ({children}) =>{
   useEffect(() => {
     localStorage.setItem("nerdyLanguage", language);
   }, [language]);
-
 
   // LOGIN PERSISTANCE
   useEffect(() => {
@@ -38,3 +37,20 @@ export const GlobalProvider = ({children}) =>{
 
   return <GlobalContext.Provider value={data}>{children}</GlobalContext.Provider>
 };
+
+export const ThemeContext = createContext();
+
+export const ThemeContextProvider = ({children}) => {
+  const [contextTheme, setContextTheme] = useState('Light')
+  const values = {contextTheme, setContextTheme}
+  return (
+    <ThemeContext.Provider value={values}>
+          {children}
+    </ThemeContext.Provider>
+  )
+}
+
+export const useThemeContext = () => {
+  const context = useContext(ThemeContext)
+  return context
+}

@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { GlobalProvider } from './context/globalContext';
+import { GlobalProvider, ThemeContextProvider } from './context/globalContext';
 import { Provider } from 'react-redux';
 import { store } from './store/store';
 import { PayPalScriptProvider } from "@paypal/react-paypal-js";
@@ -13,6 +13,7 @@ import { LanguageProvider } from './context/languageContext';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store={store}>
+    <ThemeContextProvider>
     <GlobalProvider>
       <LanguageProvider>
         <PayPalScriptProvider options={{"client-id": "Ad7WNItmuBn4ealmFHbGctFRd3eOmiqHpTuhpNjw44ryXmACwZypE9gIo4fBPmtvaO0ff6iIUIoE00sM"}}>
@@ -22,6 +23,7 @@ root.render(
         </PayPalScriptProvider>
       </LanguageProvider>
     </GlobalProvider>
+    </ThemeContextProvider>
   </Provider>
 );
 
