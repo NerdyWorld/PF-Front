@@ -172,6 +172,7 @@
   font-size: 30px;
   padding: 15px;
   margin-top: 10px;
+  width: 100%;
   text-transform: uppercase;
   letter-spacing: 1.3px;
 }
