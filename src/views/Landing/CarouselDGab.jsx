@@ -5,7 +5,8 @@ const LandingDGabanna = ({ buttonText, onButtonClick, brandName }) => {
     const carouselRef = useRef(null);
 
     const handleScroll = () => {
-        if (carouselRef.current) {
+      requestAnimationFrame(() => {
+         if (carouselRef.current) {
           const rect = carouselRef.current.getBoundingClientRect();
       
           if (rect.bottom > 0 && rect.bottom <= window.innerHeight / 2) {
@@ -14,7 +15,9 @@ const LandingDGabanna = ({ buttonText, onButtonClick, brandName }) => {
             setIsButtonFixed(false);
           }
         }
-      };
+      });
+    };
+       
     
       useEffect(() => {
         window.addEventListener("scroll", handleScroll);

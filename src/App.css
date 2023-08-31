@@ -1,10 +1,9 @@
-@font-face{
+@font-face {
   font-family: "futuraStd";
-  src: local("futuraStd"),
-  url("./Fonts/FuturaStd-Medium.woff2") format("woff2")
+  src: local("futuraStd"), url("./Fonts/FuturaStd-Medium.woff2") format("woff2");
 }
-@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Macondo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap");
 
 .App {
   text-align: center;
@@ -26,9 +25,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-.body{
-  margin: 0;
-  overflow-x: hidden;
+
+body {
+  overflow-x: hidden !important;
 }
 .App-header {
   background-color: #282c34;
@@ -75,7 +74,7 @@
 .header-links p {
   color: #ffffff;
   background: transparent;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   font-weight: 900;
   transition: all 0.4s ease;
   cursor: pointer;
@@ -87,13 +86,16 @@
   color: #dfdfdf;
   border-bottom-color: #dfdfdf;
 }
-
-
 .header {
-  background-image: linear-gradient(#8f8f8f, #f2f4f6);
+  position: relative;
+  background: #0e0e0e;
+  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1);
   padding: 2rem;
   width: 100%;
   gap: auto;
+  overflow-x: hidden;
+  
+  z-index: 1000;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -106,13 +108,66 @@
   letter-spacing: 4px;
 }
 
+.toggleMenuHome {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 100vh;
+  background-color: #070707;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 0;
+  z-index: 1000;
+  text-align: center;
+  transition: transform 0.5s ease-out;
+  transform: translateX(-100%);
+}
+
+.toggleMenuHome.open {
+  transform: translateX(0);
+}
+
+.menu-toggle {
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  z-index: 1020;
+  letter-spacing: 1.5px;
+  font-family: "futuraStd";
+  font-size: 15px !important;
+  border-bottom: none !important;
+  text-transform: capitalize !important;
+  cursor: pointer;
+}
+.textMenu {
+  margin-top: 100px;
+  cursor: pointer;
+  font-family: "futuraStd";
+  text-transform: uppercase;
+  transition: color 0.3s;
+}
+
+.menu-content p:hover {
+  color: #888;
+}
+
+/* HOME */
+
+.homeContainer {
+  position: relative;
+  background: #0e0e0e;
+  height: 100vh;
+}
+
 /* FOOTER */
 
 .footer {
   background-image: linear-gradient(#f2f4f6, #8f8f8f);
   padding: 1.5rem;
   height: fit-content;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   margin-bottom: -10px;
   display: flex;
   gap: 30px;
@@ -133,13 +188,13 @@
 .footer p {
   font-weight: bold;
   font-size: 25px;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   color: rgb(150, 150, 150);
 }
 
-
 /* LANDING */
 .landing {
+  width: 100%;
   padding: 0 0 300px 0;
   position: absolute;
   background: #0e0e0e;
@@ -161,7 +216,7 @@
   padding: 0 !important;
   z-index: 1001;
 }
-.menuLanding{
+.menuLanding {
   display: flex;
   justify-content: center;
   gap: 40px;
@@ -171,7 +226,7 @@
 }
 /* LANDING - SEE ALL COLLECT */
 
-.seeAllCollections{
+.seeAllCollections {
   font-size: 30px;
   padding: 15px;
   margin-top: 10px;
@@ -187,16 +242,16 @@
     transform: translateX(-100%);
   }
 }
-.movingHome{
+.movingHome {
   margin-right: 50px;
   display: inline-block;
 }
 .movingText {
   display: flex;
-  animation: moveRight 20s linear infinite; 
+  animation: moveRight 20s linear infinite;
   cursor: pointer;
-  font-family: 'Bacasime Antique';
-  white-space: nowrap;  
+  font-family: "Bacasime Antique";
+  white-space: nowrap;
   color: rgba(255, 255, 255, 0.178);
 }
 
@@ -210,9 +265,9 @@
   font-weight: 200;
   color: #a7a7a7;
   margin-right: 20px;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   cursor: pointer;
-  padding: 5px 0; 
+  padding: 5px 0;
   letter-spacing: 1.3px;
   border-bottom: 2px solid transparent;
   transition: border-bottom-color 0.3s ease;
@@ -222,38 +277,38 @@
   justify-content: flex-end;
 }
 .menuLogin::before {
-  content: ""; 
+  content: "";
   position: absolute;
-  bottom: 0; 
-  left: 0; 
-  right: 0; 
-  height: 2px; 
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
   background-color: transparent;
   transition: background-color 0.3s ease;
 }
-.menuLogin:hover{
+.menuLogin:hover {
   border-bottom-color: #a7a7a7;
 }
 
 /* NAV BAR LANDING */
 
-.menuHome{
+.menuHome {
   font-size: 15px;
   font-weight: 200;
   color: #a7a7a7;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   text-transform: uppercase;
   border-bottom: 2px solid transparent;
   letter-spacing: 1.3px;
   transition: border-bottom-color 0.3s ease;
 }
 
-.menuHome:hover{
+.menuHome:hover {
   border-bottom-color: #a7a7a7;
 }
 
 .titleLanding {
-  text-align: center; 
+  text-align: center;
   width: 100%;
   transition: font-size 0.3s ease, background-color 0.3s;
   position: sticky;
@@ -262,7 +317,7 @@
 .LandingWelc {
   box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1);
   border: none !important;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   transition: font-size 0.3s ease, background-color 0.3s, margin-left 0.3s ease;
   margin-bottom: 0;
   color: #020202;
@@ -304,13 +359,10 @@
   align-items: center;
   justify-content: center;
 }
-
 .carousel-inner {
   width: 30%;
   margin: 0 auto;
- 
 }
-
 .carousel-item img {
   width: 100%;
   height: auto;
@@ -323,24 +375,24 @@
   background: rgba(255, 255, 255, 0.1);
   padding: 10px 20px;
   font-weight: 500;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   letter-spacing: 1.8px;
   border-radius: 10px;
   backdrop-filter: blur(5px);
   color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.87);
   cursor: pointer;
-  transition: all  0.3s ease;
+  transition: all 0.3s ease;
   z-index: 10;
 }
-.exploreButton:hover{
+.exploreButton:hover {
   border: 2px solid rgba(255, 255, 255, 0.87);
 }
 .exploreButton.fixedButton {
   position: fixed;
-  bottom: 75%;
+  bottom: 70%;
   left: 50%;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   letter-spacing: 1.8px;
   font-weight: 500;
   transform: translateX(-50%);
@@ -350,10 +402,9 @@
   color: #fff;
   z-index: 1000;
 }
-.exploreButton.fixedButton:hover{
+.exploreButton.fixedButton:hover {
   scale: 1.04;
 }
-
 .exploreButton {
   z-index: 1000;
 }
@@ -382,7 +433,7 @@
   letter-spacing: 2.5px;
   padding: 10px;
   font-size: 35px;
-  font-family: 'futuraStd';
+  font-family: "futuraStd";
   color: rgba(156, 156, 156, 0.329);
   background: rgba(7, 7, 7, 0.966);
 }
@@ -434,7 +485,7 @@
   background: transparent;
   transition: all 0.3s ease;
 }
-.video-carousel-item img:hover{
+.video-carousel-item img:hover {
   scale: 1.1;
 }
 .volume-slider::-webkit-slider-thumb {
@@ -640,18 +691,11 @@
 
 /* CHECKOUT */
 
-
-.checkOut{
-padding: 25px;
-height: 100vh;
-background: #111111;
-}
-
-
-
-/* HOME */
-
-.homeContainer{
-  background: #c9c9c9;
+.checkOut {
+  padding: 25px;
   height: 100vh;
+  background: #111111;
 }
+
+
+
