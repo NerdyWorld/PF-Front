@@ -109,17 +109,17 @@ body {
 }
 
 .toggleMenuHome {
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
   width: 300px;
-  height: 100vh;
+  height: calc(100% + 100px);
   background-color: #070707;
   display: flex;
   flex-direction: column;
   gap: 20px;
   padding: 20px 0;
-  z-index: 1000;
+  z-index: 998;
   text-align: center;
   transition: transform 0.5s ease-out;
   transform: translateX(-100%);
@@ -142,7 +142,7 @@ body {
   cursor: pointer;
 }
 .textMenu {
-  margin-top: 100px;
+  margin-top: 150px;
   cursor: pointer;
   font-family: "futuraStd";
   text-transform: uppercase;
@@ -164,7 +164,10 @@ body {
 /* FOOTER */
 
 .footer {
-  background-image: linear-gradient(#f2f4f6, #8f8f8f);
+  position: relative;
+  z-index: 1000;
+  background: #0e0e0e;
+  box-shadow: 0 -8px 10px -6px rgba(0, 0, 0, 1);
   padding: 1.5rem;
   height: fit-content;
   font-family: "futuraStd";
@@ -363,6 +366,11 @@ body {
   width: 30%;
   margin: 0 auto;
 }
+
+.carousel-fade .carousel-item {
+  display: flex;
+  justify-content: center;
+}
 .carousel-item img {
   width: 100%;
   height: auto;
@@ -462,7 +470,7 @@ body {
   gap: 15px;
   position: absolute;
   bottom: 20px;
-  left: 20px;
+  left: 70px;
   z-index: 10;
   background: transparent;
 }

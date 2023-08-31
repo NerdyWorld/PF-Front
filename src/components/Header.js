@@ -18,7 +18,7 @@ const Header = () => {
           </div>    
          <div className={`toggleMenuHome ${isMenuOpen ? 'open' : ''}`}>      
        <div className="textMenu">
-        <p> Louis Vuitton</p>
+        <p>Louis Vuitton</p>
         <p>Gucci</p>
         <p>Jimmy Choo</p>
         <p>Dolce & Gabanna</p>
