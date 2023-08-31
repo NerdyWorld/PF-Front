@@ -6,9 +6,19 @@ import { useNavigate } from "react-router-dom";
 const Header = () => {
     const navigate = useNavigate(); 
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const [subMenuOpen, setSubMenuOpen] = useState(false);
+    const [subMenuMenOpen, setMenuMenOpen] = useState(false);
 
     const toggleMenu = () => {
       setIsMenuOpen(!isMenuOpen);
+    }
+
+    const toggleSubMenuOpen = () => {
+      setSubMenuOpen(!subMenuOpen);
+    }
+    
+    const toggleSubMenuMenOpen = () => {
+      setMenuMenOpen(!subMenuMenOpen);
     }
 
     return (    
@@ -18,11 +28,22 @@ const Header = () => {
           </div>    
          <div className={`toggleMenuHome ${isMenuOpen ? 'open' : ''}`}>      
        <div className="textMenu">
+        <p onClick={toggleSubMenuOpen}>Woman</p>
+        <div className={`submenu ${subMenuOpen ? 'open' : ''}`}>
         <p>Louis Vuitton</p>
         <p>Gucci</p>
         <p>Jimmy Choo</p>
         <p>Dolce & Gabanna</p>
         <p>Fendi</p>
+        </div>
+        <p onClick={toggleSubMenuMenOpen}>Men</p>
+        <div className={`submenu ${subMenuMenOpen ? 'open' : ''}`}>
+        <p>Louis Vuitton</p>
+        <p>Gucci</p>
+        <p>Jimmy Choo</p>
+        <p>Dolce & Gabanna</p>
+        <p>Fendi</p>
+        </div>
         </div>
         </div>     
          <div className='header d-flex w-100'>

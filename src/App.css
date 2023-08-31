@@ -153,6 +153,27 @@ body {
   color: #888;
 }
 
+/* SUBMENU */
+
+.submenu {
+  overflow: hidden;
+  max-height: 0;
+  transition: all 0.3s ease;
+  background: transparent;  
+  margin: 8px 0 8px 100px; 
+  border-left: 1px solid white;
+}
+
+.submenu p {
+  margin: 8px 0 0 -30px;
+  text-transform: capitalize !important;
+  margin-bottom: 20px;
+}
+.submenu.open{
+  max-height: 600px;
+}
+
+
 /* HOME */
 
 .homeContainer {
