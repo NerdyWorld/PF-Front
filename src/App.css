@@ -28,42 +28,9 @@
 
 body {
   overflow-x: hidden !important;
-}
-.App-header {
-  background-color: #282c34;
-  height: 100%;
-  color: white;
+
 }
 
-#Dark {
-  background-color: #282c34;
-  color: white;
-}
-
-#Light {
-  background: #f2f4f6;
-  color: #0e0e0e;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-/* react switch */
-
-.react-switch {
-  margin-top: 10px;
-  margin-left: 20px;
-}
 
 /* header front */
 
@@ -88,14 +55,12 @@ body {
 }
 .header {
   position: relative;
-  background: #0e0e0e;
-  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1);
+  background: #0e0e0e; 
   padding: 2rem;
   width: 100%;
   gap: auto;
   overflow-x: hidden;
-  
-  z-index: 1000;
+  z-index: 1201;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -103,37 +68,52 @@ body {
 
 .header p {
   font-size: 12px;
-  font-weight: 100;
+  font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 4px;
 }
 
 .toggleMenuHome {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
-  width: 300px;
-  height: calc(100% + 100px);
-  background-color: #070707;
+  width: 400px;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #ececec48;
   display: flex;
   flex-direction: column;
+  backdrop-filter: blur(10px);
   gap: 20px;
   padding: 20px 0;
-  z-index: 998;
+  z-index: 1201;
   text-align: center;
   transition: transform 0.5s ease-out;
   transform: translateX(-100%);
 }
-
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(24, 24, 24, 0.795);
+  z-index: 1200; 
+  display: none; 
+}
+.overlay.open {
+  display: block;
+}
 .toggleMenuHome.open {
   transform: translateX(0);
 }
 
 .menu-toggle {
-  position: absolute;
-  top: 15px;
+  position: fixed;
+  top: 20px;
   left: 20px;
-  z-index: 1020;
+  color: white;
+  z-index: 1202;
   letter-spacing: 1.5px;
   font-family: "futuraStd";
   font-size: 15px !important;
@@ -142,7 +122,6 @@ body {
   cursor: pointer;
 }
 .textMenu {
-  margin-top: 150px;
   cursor: pointer;
   font-family: "futuraStd";
   text-transform: uppercase;
@@ -152,20 +131,30 @@ body {
 .menu-content p:hover {
   color: #888;
 }
+.nameToggleSub{
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  letter-spacing: 2px;
+}
 
 /* SUBMENU */
 
-.submenu {
+.submenu { 
   overflow: hidden;
   max-height: 0;
   transition: all 0.3s ease;
-  background: transparent;  
-  margin: 8px 0 8px 100px; 
-  border-left: 1px solid white;
+  background: transparent;
+  margin: 8px 0 8px 150px;
+  color: #131313;
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border-left: 1px solid #222222;
 }
 
 .submenu p {
-  margin: 8px 0 0 -30px;
+  padding-left: 1rem;
+  text-align: left;
   text-transform: capitalize !important;
   margin-bottom: 20px;
 }
@@ -174,19 +163,11 @@ body {
 }
 
 
-/* HOME */
-
-.homeContainer {
-  position: relative;
-  background: #0e0e0e;
-  height: 100vh;
-}
-
 /* FOOTER */
 
 .footer {
-  position: relative;
-  z-index: 1000;
+  bottom: 0;
+  left: 0;
   background: #0e0e0e;
   box-shadow: 0 -8px 10px -6px rgba(0, 0, 0, 1);
   padding: 1.5rem;
@@ -218,27 +199,31 @@ body {
 
 /* LANDING */
 .landing {
-  width: 100%;
-  padding: 0 0 300px 0;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: 0;
+  width: 100%;  
   background: #0e0e0e;
 }
 
 .contentLanding {
-  margin-top: 450px;
+  position: relative;
   background: #0e0e0e;
+  margin-top: 180px; 
+  margin-bottom: 200px; 
+  /* flex: 1; */
 }
 
 .navbar {
+  position: fixed;
   display: flex;
   align-items: center;
   height: auto;
-  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   padding: 0 !important;
-  z-index: 1001;
+  z-index: 1200;
 }
 .menuLanding {
   display: flex;
@@ -248,6 +233,7 @@ body {
   cursor: pointer;
   padding: 5px;
 }
+
 /* LANDING - SEE ALL COLLECT */
 
 .seeAllCollections {
@@ -255,6 +241,7 @@ body {
   padding: 15px;
   margin-top: 10px;
   width: 100%;
+  z-index: 1200;
   text-transform: uppercase;
   letter-spacing: 1.3px;
 }
@@ -273,7 +260,7 @@ body {
 .movingText {
   display: flex;
   animation: moveRight 20s linear infinite;
-  cursor: pointer;
+  cursor:default;
   font-family: "Bacasime Antique";
   white-space: nowrap;
   color: rgba(255, 255, 255, 0.178);
@@ -287,18 +274,18 @@ body {
 .menuLogin {
   font-size: 14px;
   font-weight: 200;
-  color: #a7a7a7;
-  margin-right: 20px;
+  padding-top: 100px;
+  color: #000000;
+  text-transform: capitalize;
   font-family: "futuraStd";
   cursor: pointer;
-  padding: 5px 0;
   letter-spacing: 1.3px;
   border-bottom: 2px solid transparent;
   transition: border-bottom-color 0.3s ease;
 }
 .containerLogin {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .menuLogin::before {
   content: "";
@@ -311,8 +298,9 @@ body {
   transition: background-color 0.3s ease;
 }
 .menuLogin:hover {
-  border-bottom-color: #a7a7a7;
+  border-bottom-color: #000000;
 }
+
 
 /* NAV BAR LANDING */
 
@@ -333,14 +321,14 @@ body {
 
 .titleLanding {
   text-align: center;
+  cursor: default;
   width: 100%;
   transition: font-size 0.3s ease, background-color 0.3s;
   position: sticky;
 }
 
 .LandingWelc {
-  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1);
-  border: none !important;
+  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1); 
   font-family: "futuraStd";
   transition: font-size 0.3s ease, background-color 0.3s, margin-left 0.3s ease;
   margin-bottom: 0;
@@ -402,12 +390,13 @@ body {
   left: 50%;
   transform: translateX(-50%);
   background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
   padding: 10px 20px;
   font-weight: 500;
   font-family: "futuraStd";
   letter-spacing: 1.8px;
   border-radius: 10px;
-  backdrop-filter: blur(5px);
+
   color: #fff;
   border: 1px solid rgba(255, 255, 255, 0.87);
   cursor: pointer;
@@ -462,6 +451,7 @@ body {
   letter-spacing: 2.5px;
   padding: 10px;
   font-size: 35px;
+  cursor: default;
   font-family: "futuraStd";
   color: rgba(156, 156, 156, 0.329);
   background: rgba(7, 7, 7, 0.966);
@@ -718,7 +708,7 @@ body {
   scale: 1.1;
 }
 
-/* CHECKOUT */
+/******************* CHECKOUT ******************************/
 
 .checkOut {
   padding: 25px;
@@ -726,5 +716,21 @@ body {
   background: #111111;
 }
 
+/****************************** ABOUT ***************** */
+
+.about-container{
+  height: 100vh;
+  background: #0e0e0e; 
+}
 
 
+/* ********************NEW LANDING ***************************** */
+
+.newLanding {
+  height: 100vh;
+  background: #0e0e0e;
+}
+
+.titleContainer{
+  background: #0e0e0e;
+}
