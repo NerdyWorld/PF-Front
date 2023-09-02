@@ -425,6 +425,11 @@ body {
 }
 .exploreButton {
   z-index: 1000;
+  transition: opacity 0.3s ease;
+
+}
+.exploreButton.fadeOut{
+  opacity: 0;
 }
 
 .carousel-control-prev,
@@ -461,17 +466,18 @@ body {
 
 .carousel-indicators {
   position: absolute;
-  bottom: 25px;
+  bottom: 20px;
   background-color: transparent;
   border: none;
 }
 .video-carousel-inner {
   width: 100%;
-  margin: 0 auto;
+  margin: 0 auto; 
 }
 
 .video-carousel-item {
   position: relative;
+  overflow: hidden;
 }
 
 .video-control {
@@ -480,8 +486,8 @@ body {
   align-items: center;
   gap: 15px;
   position: absolute;
-  bottom: 20px;
-  left: 70px;
+  bottom: 35px;
+  right: 7vw;
   z-index: 10;
   background: transparent;
 }
@@ -500,7 +506,6 @@ body {
 }
 .video-carousel-item img {
   height: 25px;
-  margin-bottom: 25px;
   background: transparent;
   transition: all 0.3s ease;
 }
@@ -520,6 +525,17 @@ body {
 
 .volume-slider:hover::-webkit-slider-thumb {
   background: #c4bfc1;
+}
+.pause-play{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  position: absolute;
+  bottom: 35px;
+  left: 7vw;
+  z-index: 10;
+  background: transparent;
 }
 
 /* MODAL LOGIN */
