@@ -28,9 +28,7 @@
 
 body {
   overflow-x: hidden !important;
-
 }
-
 
 /* header front */
 
@@ -55,7 +53,7 @@ body {
 }
 .header {
   position: relative;
-  background: #0e0e0e; 
+  background: #0e0e0e;
   padding: 2rem;
   width: 100%;
   gap: auto;
@@ -99,8 +97,8 @@ body {
   width: 100%;
   height: 100vh;
   background: rgba(24, 24, 24, 0.795);
-  z-index: 1200; 
-  display: none; 
+  z-index: 1200;
+  display: none;
 }
 .overlay.open {
   display: block;
@@ -132,7 +130,7 @@ body {
 .menu-content p:hover {
   color: #888;
 }
-.nameToggleSub{
+.nameToggleSub {
   color: rgb(255, 255, 255);
   font-weight: 500;
   letter-spacing: 2px;
@@ -140,7 +138,7 @@ body {
 
 /* SUBMENU */
 
-.submenu { 
+.submenu {
   overflow: hidden;
   max-height: 0;
   transition: all 0.3s ease;
@@ -159,10 +157,9 @@ body {
   text-transform: capitalize !important;
   margin-bottom: 20px;
 }
-.submenu.open{
+.submenu.open {
   max-height: 600px;
 }
-
 
 /* FOOTER */
 
@@ -203,15 +200,15 @@ body {
   display: flex;
   flex-direction: column;
   top: 0;
-  width: 100%;  
+  width: 100%;
   background: #0e0e0e;
 }
 
 .contentLanding {
   position: relative;
   background: #0e0e0e;
-  margin-top: 180px; 
-  margin-bottom: 200px; 
+  margin-top: 180px;
+  margin-bottom: 200px;
   /* flex: 1; */
 }
 
@@ -261,7 +258,7 @@ body {
 .movingText {
   display: flex;
   animation: moveRight 20s linear infinite;
-  cursor:default;
+  cursor: default;
   font-family: "Bacasime Antique";
   white-space: nowrap;
   color: rgba(255, 255, 255, 0.178);
@@ -302,7 +299,6 @@ body {
   border-bottom-color: #000000;
 }
 
-
 /* NAV BAR LANDING */
 
 .menuHome {
@@ -329,7 +325,7 @@ body {
 }
 
 .LandingWelc {
-  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1); 
+  box-shadow: 0 8px 10px -6px rgba(0, 0, 0, 1);
   font-family: "futuraStd";
   transition: font-size 0.3s ease, background-color 0.3s, margin-left 0.3s ease;
   margin-bottom: 0;
@@ -427,9 +423,8 @@ body {
 .exploreButton {
   z-index: 1000;
   transition: opacity 0.3s ease;
-
 }
-.exploreButton.fadeOut{
+.exploreButton.fadeOut {
   opacity: 0;
 }
 
@@ -473,7 +468,7 @@ body {
 }
 .video-carousel-inner {
   width: 100%;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 
 .video-carousel-item {
@@ -527,7 +522,7 @@ body {
 .volume-slider:hover::-webkit-slider-thumb {
   background: #c4bfc1;
 }
-.pause-play{
+.pause-play {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -735,55 +730,46 @@ body {
 
 /****************************** ABOUT ***************** */
 
-.about-container{
+.about-container {
   height: 100vh;
-  background: #0e0e0e; 
+  background: #0e0e0e;
 }
-
 
 /* ********************NEW LANDING ***************************** */
 
 .newLanding {
   height: 100vh;
-  background-image: url('../public/images/landing.png');
-  background-size:cover;
-  position: relative;
+  background-image: url("../public/images/landing.png");
+  background-size: cover;
 }
 
-.titleContainer{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  transform: translateZ(-1px) scale(2);
-  transform-origin: 50% 0;
-  
- }
-.Landingtitle{
-  color: rgb(0, 0, 0);
-  font-size: 70px;
-  font-family: "Bacasime Antique";
+.home-click {  
+  cursor: pointer;
+  letter-spacing: 1.8px;
+  color: rgb(231, 231, 231);
+  letter-spacing: 1.5px;
+  font-family: "futuraStd";
 }
-.videoLandingLogo{
+
+.videoLandingLogo {
   margin-top: 20px;
-  width: 100px;
+  width: 70px;
   box-shadow: 1px -2px 5px 2px black;
   border-radius: 200px;
   cursor: pointer;
   transition: all 0.6s ease;
 }
 .videoLandingLogo:hover {
-  scale: 1.1; 
+  scale: 1.1;
 }
 @keyframes fadeInScale {
   from {
-      opacity: 0;
-      transform: scale(0.9);
+    opacity: 0;
+    transform: scale(0.9);
   }
   to {
-      opacity: 1;
-      transform: scale(1);
+    opacity: 1;
+    transform: scale(1);
   }
 }
 
@@ -795,13 +781,13 @@ body {
 .toggleMenuLanding {
   position: fixed;
   top: 0;
-  left: auto;
-  right: 0;
+  right: auto;
+  left: 0;
   width: 400px;
   height: 100vh;
   overflow-y: auto;
-  background-color: #f1f1f13b;
-  box-shadow: -8px 0 10px -6px rgba(0, 0, 0, 1);
+  background-color: #ffffff3b;
+  box-shadow: 8px 0 10px -6px rgba(0, 0, 0, 1);
   display: flex;
   flex-direction: column;
   backdrop-filter: blur(5px);
@@ -810,7 +796,7 @@ body {
   z-index: 1201;
   text-align: center;
   transition: transform 0.5s ease-out;
-  transform: translateX(100%);
+  transform: translateX(-100%);
 }
 .toggleMenuLanding.open {
   transform: translateX(0);
@@ -818,15 +804,15 @@ body {
 
 .menu-toggle-landing {
   position: fixed;
-  top: 10px;
-  left: auto;
-  right: 20px;
-  color: rgb(0, 0, 0);
-  background: rgba(255, 255, 255, 0.288);
+  top: 0;
+  left: 0;
+  padding:10px 0 0 20px;
+  right: auto;
+  width: 100%;
+  background: #0f0f0f60;
   backdrop-filter: blur(5px);
-  padding: 5px 20px 5px 20px;
-  border-radius: 5px;
-  font-weight: 400;
+  color: rgb(231, 231, 231);
+  font-weight: 700;
   z-index: 1202;
   letter-spacing: 1.5px;
   font-family: "futuraStd";
@@ -834,4 +820,13 @@ body {
   border-bottom: none !important;
   text-transform: capitalize !important;
   cursor: pointer;
+}
+
+.rvl-landing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-family: "futuraStd";
 }

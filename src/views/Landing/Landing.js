@@ -71,30 +71,20 @@ const Landing = () => {
       <div className={isMenuOpen ? "overlay open" : "overlay"}></div>  
       <div ref={closeRef} onClick={toggleMenu} className="menu-toggle-landing">
         {isMenuOpen ? "Close" : "Login"}
+        <div className="titleLanding">
+        <p className="rvl-landing">RVL</p>      
+        <p className="home-click" onClick={() => {
+            document.body.style.overflow = "";  
+            navigate("home")}}>Go to collections</p>
+           </div> 
       </div>   
       <div
         ref={menuRef}
         className={`toggleMenuLanding ${isMenuOpen ? "open" : ""}`}>
           <p className="createLogin">Create Account</p>
 
-          </div>
-      <div className="navbarLanding">
-        <div className="titleContainer">
-          <h1 className="Landingtitle">
-            RVL
-          </h1>
-          <video
-            className="videoLandingLogo"
-            onClick={() => {
-            document.body.style.overflow = "";  
-            navigate("home")}}
-            src="/images/logoLanding.mp4"
-            autoPlay
-            loop
-            muted
-          />
-        </div>
-      </div>
+          </div> 
+        
     </div>
   );
 };
