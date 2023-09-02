@@ -68,16 +68,19 @@ const Landing = () => {
 
   return (
     <div className="newLanding">
-      <div className={isMenuOpen ? "overlay open" : "overlay"}></div>  
-      <div ref={closeRef} onClick={toggleMenu} className="menu-toggle-landing">
-        {isMenuOpen ? "Close" : "Login"}
-        <div className="titleLanding">
-        <p className="rvl-landing">RVL</p>      
+      <div className="nav-landing">
+       <p className="rvl-landing">Rivélle</p>             
+      
         <p className="home-click" onClick={() => {
             document.body.style.overflow = "";  
             navigate("home")}}>Go to collections</p>
-           </div> 
-      </div>   
+        </div>
+      
+      <div className={isMenuOpen ? "overlay open" : "overlay"}></div>  
+      <div ref={closeRef} onClick={toggleMenu} className="menu-toggle-landing">
+        {isMenuOpen ? "Close" : "Login"} 
+      </div> 
+       
       <div
         ref={menuRef}
         className={`toggleMenuLanding ${isMenuOpen ? "open" : ""}`}>
