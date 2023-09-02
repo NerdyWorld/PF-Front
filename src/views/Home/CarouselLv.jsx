@@ -105,7 +105,6 @@ const LandingVuitton = ({ buttonText, onButtonClick, brandName }) => {
         const rect = carouselRef.current.getBoundingClientRect();
         const upperLimit = window.innerHeight / 2;
         const scrollLimit = 700;
-
         if (
           rect.bottom > 0 &&
           rect.bottom <= upperLimit &&

@@ -105,6 +105,7 @@ const Header = () => {
             <p>Dolce & Gabanna</p>
             <p>Fendi</p>
           </div>
+          <p onClick={() => navigate("/")}>Back</p>
         </div>
       </div>        
       <div className="header d-flex w-100"> 
