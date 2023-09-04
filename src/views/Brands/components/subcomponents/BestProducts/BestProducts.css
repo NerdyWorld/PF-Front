@@ -1,0 +1,18 @@
+.carousel-favourites-container {
+    width: 80%;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  .slider-favourites-container {
+    width: 320px; /* Asegura que el carrusel tenga el mismo ancho que el contenedor */
+  }
+  
+  .slick-slide .image-best-products {
+    width: 100%; /* Ajusta el ancho de las imágenes al 100% para evitar deformaciones */
+    height: 320px; /* Establece la altura deseada para las imágenes */
+    border-radius: 40px;
+  }
+
+
+  

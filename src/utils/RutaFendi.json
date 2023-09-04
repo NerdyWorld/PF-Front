@@ -1,0 +1,138 @@
+[
+  {
+    "bagsPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-Cartera1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-Cartera2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-Cartera3.png"
+    ],
+
+    "sneakersPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-sneakers1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-sneakers2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-sneakers3.png"
+    ],
+
+    "accesoriesPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-Accesories1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-Accesories2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-Accesories3.png"
+    ],
+
+    "heelsPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-heels1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-heels2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-heels3.png"
+    ],
+
+    "sunglassesPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-sunglasses1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-sunglasses2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Fendi/Fendi-sunglasses3.png"
+    ],
+
+    "bags": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+1/interior.png"
+    ],
+    "bags2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+2/interior.png"
+    ],
+    "bags3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+3/interior.png"
+    ],
+    "bags4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+4/interior.png"
+    ],
+    "bags5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Bags/Modelo+5/interior.png"
+    ],
+
+    "sneakers": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo1/back.png"
+    ],
+    "sneakers2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo2/back.png"
+    ],
+    "sneakers3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo3/back.png"
+    ],
+    "sneakers4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo4/back.png"
+    ],
+    "sneakers5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sneakers/Modelo5/back.png"
+    ],
+
+    "accesorie1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo1/back.png"
+    ],
+    "accesorie2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo2/front3.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo2/back2.png"
+    ],
+    "accesorie3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo3/front5.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo3/back4.png"
+    ],
+    "accesorie4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo4/front7.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo4/back6.png"
+    ],
+    "accesorie5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo5/front9.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Accesories/Modelo5/back8.png"
+    ],
+
+    "heels1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo1/back.png"
+    ],
+    "heels2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo2/back.png"
+    ],
+    "heels3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo3/back.png"
+    ],
+    "heels4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo4/back.png"
+    ],
+    "heels5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Heels/Modelo5/back.png"
+    ],
+
+    "sunglasses1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo1/horizontal.png"
+    ],
+    "sunglasses2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo2/back.png"
+    ],
+    "sunglasses3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo3/back.png"
+    ],
+    "sunglasses4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo4/back.png"
+    ],
+    "sunglasses5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/Fendi/Sunglasses/Modelo5/back.png"
+    ]
+  }
+]

@@ -1,0 +1,298 @@
+@import url("https://fonts.googleapis.com/css2?family=Phudu:wght@400;500;600;700&display=swap");
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+
+  background-image: url("../Brands/components/ModelCarrusel/img/fondo.jpg");
+  /* background-size: cover; */
+  /* width: fit-content; */
+}
+.productos {
+  display: flex;
+  flex-wrap: wrap;
+  width: fit-content;
+}
+.extra {
+  padding-right: 6rem;
+}
+.extra1 {
+  padding-right: 100%;
+}
+.extra2 {
+  padding-right: 50%;
+}
+.extra3 {
+  padding-right: 30%;
+}
+.products {
+  display: flex;
+  justify-content: center;
+
+  width: 100%;
+}
+
+.card {
+  width: 250px;
+
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  /* padding:  */
+  border-radius: 0.3rem;
+  /* margin-bottom: 1rem; */
+  z-index: 0;
+  position: relative;
+}
+.name {
+  margin-top: 0.7rem;
+  font-family: "Phudu", cursive;
+  font-weight: 700;
+  min-height: 48px;
+}
+
+.cardLV {
+  margin: 1rem;
+}
+.cardLV img {
+  backdrop-filter: blur(5px);
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.195);
+  border-radius: 1rem;
+}
+.card img {
+  /* backdrop-filter: blur(5px);
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.195);
+  border-radius: 1rem; */
+  max-width: 100%;
+  height: auto;
+  min-height: 250px;
+}
+
+.buttoncontainer {
+  text-align: center;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  &:hover {
+    background-color: #0056b3;
+  }
+}
+
+.container {
+  margin-bottom: 3rem;
+}
+
+.filtroycards {
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  /* margin-bottom: 1rem; */
+}
+
+.filtros {
+  background-color: rgba(255, 255, 255, 0);
+  width: fit-content;
+  height: 100%;
+  margin-top: 12rem;
+}
+.marca {
+  padding-top: 0.3rem;
+}
+.filtros > div {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: center;
+  font-size: 1.1rem;
+  padding: 1rem;
+  margin-left: 0.5rem;
+  width: auto;
+}
+
+.filter select {
+  background-color: #1b1b1b;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  width: 11rem;
+}
+.filter {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: fit-content;
+}
+
+.filter label {
+  font-size: 1.3rem;
+  font-family: "Phudu", cursive;
+  font-weight: 700;
+  text-align: center;
+  width: 100%;
+}
+
+.price {
+  font-size: 400;
+  color: #333;
+  margin-top: 10px;
+  opacity: 1; /* Inicialmente, el texto es completamente visible */
+  transition: opacity 10s ease-in-out; /* Transición suave de 0.3 segundos */
+}
+.containerProds {
+  justify-content: center;
+}
+.containerProds h2 {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Phudu", cursive;
+  font-weight: 400;
+  margin: 1.5rem;
+  width: fit-content;
+}
+select option {
+  background-color: #f2f2f2;
+  color: #333;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  padding: 5px 10px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition: transform 1s ease-in-out;
+  cursor: pointer;
+  z-index: 1;
+  border-radius: 0 0 1.1rem 1.1rem;
+}
+
+.card:hover .price {
+  opacity: 0; /* Cuando se hace hover, el texto se vuelve completamente transparente */
+  transform: translateY(10px); /* Opcional: desplaza el texto hacia abajo */
+}
+
+.btnAddtoCart:hover {
+  background-color: #248cfa;
+  transition: transform 0.5s ease;
+  animation: none;
+}
+
+.btnAddtoCart {
+  display: none;
+  position: absolute;
+  left: 80%;
+  bottom: -15%;
+  border: 1px solid #007bff;
+  border-radius: 0 0 1.1rem 0;
+  background-color: #007bff;
+  padding-bottom: 0.7rem;
+  width: 20%;
+  font-size: 1.4rem;
+}
+
+.card:hover .btnAddtoCart {
+  display: block;
+  animation: aumentarAltura 0.5s ease forwards;
+}
+
+.btnBuyNow {
+  display: none;
+  position: absolute;
+  left: 0%;
+  padding-top: 0.3rem;
+  border: 1px solid #007bff;
+  border-radius: 0 0 0 1.1rem;
+  background-color: #007bff;
+  padding-bottom: 0.7rem;
+  width: 80%;
+  font-family: "Phudu", cursive;
+  text-align: center;
+}
+
+.card:hover .btnBuyNow {
+  display: block;
+  animation: aumentarAltura 0.5s ease forwards;
+}
+
+.btnBuyNow:hover {
+  background-color: #248cfa;
+  transition: transform 0.5s ease;
+  animation: none;
+}
+
+@keyframes aumentarAltura {
+  from {
+    opacity: 0;
+    bottom: -15%;
+    height: 0;
+  }
+  to {
+    opacity: 1;
+    bottom: 0%;
+    height: 2.4rem;
+  }
+}
+
+.tittleOrd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+@media (max-width: 950px) {
+  .filtroycards {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filtros {
+    position: static;
+    width: 70%;
+    margin: auto;
+  }
+
+  .filtros {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tittleOrd {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .tittle {
+    display: flex;
+    justify-items: left;
+    width: 100%;
+    margin: auto 15%;
+  }
+  .filterOrder {
+    display: flex;
+    flex-direction: column;
+    margin: auto 10%;
+  }
+}
+
+.filterOrder {
+  position: absolute;
+  right: 5%;
+}
+
+.filterOrder label {
+  margin-right: 0.6rem;
+}

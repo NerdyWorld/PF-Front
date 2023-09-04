@@ -1,0 +1,435 @@
+.model-container {
+  background-color: rgb(34, 34, 34);
+  overflow-y: hidden;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Cambio para alinear a la derecha */
+  padding-right: 20px; /* Cambio para el espaciado en la derecha */
+  color: rgb(255, 255, 255);
+  z-index: 1000;
+}
+
+.nav-items {
+  display: flex;
+  align-items: center;
+}
+
+.nav-items span {
+  margin-left: 30px; /* Cambio para el espaciado entre las palabras */
+  margin-right: 30px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.nav-items span:hover {
+  opacity: 0.55; /* Reducimos la opacidad al 75% en el hover */
+}
+
+.nav-logo {
+  margin: 0 auto;
+}
+
+.nav-logo span {
+  font-size: 30px;
+}
+.logoLV img {
+  width: 150px;
+  height: 9rem;
+}
+.logo {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  position: fixed;
+  margin-left: 150px;
+  z-index: 1000;
+}
+.logoFendi img {
+  width: 240px;
+}
+.logoGucci img {
+  width: 300px;
+}
+
+.logo img {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.carousel-container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.slider-container {
+  width: 100%; /* Asegura que el carrusel tenga el mismo ancho que el contenedor */
+}
+
+.slick-slide img {
+  width: 100%; /* Ajusta el ancho de las imágenes al 100% para evitar deformaciones */
+  height: 100%; /* Establece la altura deseada para las imágenes */
+}
+
+.center-label,
+.center-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px; /* Espaciado para el botón (ajusta según tus preferencias) */
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.center-label {
+  font-size: 20vh;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: color 1s ease, background 1s ease;
+  background: linear-gradient(
+    to bottom,
+    #666,
+    #fff
+  ); /* Degradado de fondo de gris a blanco */
+  color: transparent; /* Hace que el color de texto sea transparente */
+  background-clip: text; /* Aplica el degradado al contenido de texto */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit */
+}
+
+.center-label:hover {
+  color: rgb(247, 246, 246);
+}
+
+.center-button {
+  font-size: 2vh; /* Tamaño de fuente para el botón (ajusta según tus preferencias) */
+  margin-top: 300px;
+  color: rgb(219, 216, 216);
+  background-color: transparent;
+  width: 20vh;
+  height: 5vh;
+  border-bottom: 3px solid rgb(213, 211, 211);
+  border-left: 3px solid rgb(213, 211, 211);
+  border-right: 3px solid rgb(213, 211, 211);
+  transition: background 1s ease, color 1s ease, border 1s ease;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-button:hover {
+  background-color: rgba(146, 146, 146, 0.644);
+  color: rgba(0, 0, 0, 0.699);
+  border: none;
+  border-radius: 10px;
+}
+
+/* ///////////////////////////////////  */
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.center-label2,
+.center-button2 {
+  position: absolute;
+  margin-top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px; /* Espaciado para el botón (ajusta según tus preferencias) */
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.center-label2 {
+  font-size: 20vh;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: color 1s ease, background 1s ease;
+  background: linear-gradient(
+    to bottom,
+    #666,
+    #fff
+  ); /* Degradado de fondo de gris a blanco */
+  color: transparent; /* Hace que el color de texto sea transparente */
+  background-clip: text; /* Aplica el degradado al contenido de texto */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit */
+}
+
+.center-label2:hover {
+  color: rgb(247, 246, 246);
+}
+
+.center-button2 {
+  font-size: 2vh; /* Tamaño de fuente para el botón (ajusta según tus preferencias) */
+  margin-top: 300px;
+  color: rgb(219, 216, 216);
+  background-color: transparent;
+  width: 20vh;
+  height: 5vh;
+  border-bottom: 3px solid rgb(213, 211, 211); /* Borde superior */
+  border-left: 3px solid rgb(213, 211, 211); /* Borde derecho */
+  border-right: 3px solid rgb(213, 211, 211);
+  transition: background 1s ease, color 1s ease, border 1s ease;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-button2:hover {
+  background-color: rgba(146, 146, 146, 0.644);
+  color: rgba(0, 0, 0, 0.699);
+  border: none;
+  border-radius: 10px;
+}
+
+/* //////////////////////////////////////// */
+
+.container3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.center-label3,
+.center-button3 {
+  position: absolute;
+  margin-top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px; /* Espaciado para el botón (ajusta según tus preferencias) */
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.center-label3 {
+  font-size: 20vh;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: color 1s ease, background 1s ease;
+  background: linear-gradient(
+    to bottom,
+    #666,
+    #fff
+  ); /* Degradado de fondo de gris a blanco */
+  color: transparent; /* Hace que el color de texto sea transparente */
+  background-clip: text; /* Aplica el degradado al contenido de texto */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit */
+}
+
+.center-label3:hover {
+  color: rgb(247, 246, 246);
+}
+
+.center-button3 {
+  font-size: 2vh; /* Tamaño de fuente para el botón (ajusta según tus preferencias) */
+  margin-top: 300px;
+  color: rgb(219, 216, 216);
+  background-color: transparent;
+  width: 20vh;
+  height: 5vh;
+  border-bottom: 3px solid rgb(213, 211, 211); /* Borde superior */
+  border-left: 3px solid rgb(213, 211, 211); /* Borde derecho */
+  border-right: 3px solid rgb(213, 211, 211);
+  transition: background 1s ease, color 1s ease, border 1s ease;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-button3:hover {
+  background-color: rgba(146, 146, 146, 0.644);
+  color: rgba(0, 0, 0, 0.699);
+  border: none;
+  border-radius: 10px;
+}
+
+/* //////////////////////////////////////// */
+
+.container4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.center-label4,
+.center-button4 {
+  position: absolute;
+  margin-top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px; /* Espaciado para el botón (ajusta según tus preferencias) */
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.center-label4 {
+  font-size: 20vh;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: color 1s ease, background 1s ease;
+  background: linear-gradient(
+    to bottom,
+    #666,
+    #fff
+  ); /* Degradado de fondo de gris a blanco */
+  color: transparent; /* Hace que el color de texto sea transparente */
+  background-clip: text; /* Aplica el degradado al contenido de texto */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit */
+}
+
+.center-label4:hover {
+  color: rgb(247, 246, 246);
+}
+
+.center-button4 {
+  font-size: 2vh; /* Tamaño de fuente para el botón (ajusta según tus preferencias) */
+  margin-top: 300px;
+  color: rgb(219, 216, 216);
+  background-color: transparent;
+  width: 20vh;
+  height: 5vh;
+  border-bottom: 3px solid rgb(213, 211, 211); /* Borde superior */
+  border-left: 3px solid rgb(213, 211, 211); /* Borde derecho */
+  border-right: 3px solid rgb(213, 211, 211);
+  transition: background 1s ease, color 1s ease, border 1s ease;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-button4:hover {
+  background-color: rgba(146, 146, 146, 0.644);
+  color: rgba(0, 0, 0, 0.699);
+  border: none;
+  border-radius: 10px;
+}
+
+/* //////////////////////////////////////// */
+
+.container5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.center-label5,
+.center-button5 {
+  position: absolute;
+  margin-top: 50px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px; /* Espaciado para el botón (ajusta según tus preferencias) */
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.center-label5 {
+  font-size: 20vh;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: color 1s ease, background 1s ease;
+  background: linear-gradient(
+    to bottom,
+    #666,
+    #fff
+  ); /* Degradado de fondo de gris a blanco */
+  color: transparent; /* Hace que el color de texto sea transparente */
+  background-clip: text; /* Aplica el degradado al contenido de texto */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit */
+}
+
+.center-label5:hover {
+  color: rgb(247, 246, 246);
+}
+
+.center-button5 {
+  font-size: 2vh; /* Tamaño de fuente para el botón (ajusta según tus preferencias) */
+  margin-top: 300px;
+  color: rgb(219, 216, 216);
+  background-color: transparent;
+  width: 20vh;
+  height: 5vh;
+  border-bottom: 3px solid rgb(213, 211, 211); /* Borde superior */
+  border-left: 3px solid rgb(213, 211, 211); /* Borde derecho */
+  border-right: 3px solid rgb(213, 211, 211);
+  transition: background 1s ease, color 1s ease, border 1s ease;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center-button5:hover {
+  background-color: rgba(146, 146, 146, 0.644);
+  color: rgba(0, 0, 0, 0.699);
+  border: none;
+  border-radius: 10px;
+}
+
+.view-container {
+  background-color: antiquewhite;
+}
+
+.bags-favourites-container {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: rgba(136, 134, 134, 0.422);
+  display: flex;
+  gap: 10px;
+  padding-left: auto;
+  padding-right: auto;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  background-image: url("./img/fondo.jpg"); /* Reemplaza con la ruta de tu imagen */
+  background-size: cover; /* Ajusta el tamaño de la imagen al contenedor */
+  background-repeat: no-repeat; /* Evita la repetición de la imagen */
+  background-attachment: fixed;
+  background-position: center center; /* Centra la imagen en el contenedor */
+  overflow-x: auto;
+}
+
+.bags-favourites-container::-webkit-scrollbar {
+  width: 10px; /* Ancho del scrollbar */
+}
+
+.bags-favourites-container::-webkit-scrollbar-thumb {
+  background-color: #3c3b3b; /* Color del scrollbar */
+  border-radius: 10px; /* Redondear los bordes de la barra de desplazamiento */
+}
+
+.bags-favourites-container::-webkit-scrollbar-track {
+  background-color: transparent; /* Fondo del scrollbar transparente (elimina el fondo blanco) */
+}
+
+.bags-favourites-container button {
+  font-size: 2vh;
+  color: white;
+  position: absolute;
+  bottom: 40px;
+  width: 200px;
+  height: 50px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid rgb(213, 211, 211); /* Borde superior */
+  border-left: 1px solid rgb(213, 211, 211); /* Borde derecho */
+  border-right: 1px solid rgb(213, 211, 211);
+  transition: background 1s ease, color 1s ease, border 1s ease;
+}
+
+.bags-favourites-container button:hover {
+  background-color: rgba(146, 146, 146, 0.644);
+  color: rgba(0, 0, 0, 0.699);
+  border: none;
+  border-radius: 10px;
+}
+.carousel-image-wrapper {
+  opacity: 0.8;
+}
+
+.add {
+  flex: 1;
+}

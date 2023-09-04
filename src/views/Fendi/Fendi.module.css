@@ -1,0 +1,23 @@
+/* Marca.module.css */
+
+.marca {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.marca h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.categorías {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* Añade estilos adicionales según tus preferencias */

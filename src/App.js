@@ -11,11 +11,9 @@ import ReactSwitch from "react-switch";
 import Header from "./components/Header";
 import Layout from "./components/Layout";
 
-
 function App() {
   const context = useContext(GlobalContext);
   const { setLogged, language, setLanguage } = context;
-
 
   // LOGIN PERSISTANCE
   useEffect(() => {
@@ -37,15 +35,14 @@ function App() {
   }, []);
 
   return (
-    <div>     
-        {/* TRANSLATOR PROVIDER, TIENE QUE ESTAR EN APP.JS PORQUE NECESITA ACCESO AL CONTEXT API */}
-        <Translator
-          from="en"
-          to={language}
-          googleApiKey="AIzaSyDsFDcb0OMaD049cN99Pxr95sJmO863NFo"
-        >
-        </Translator>
-           
+    <div>
+      {/* TRANSLATOR PROVIDER, TIENE QUE ESTAR EN APP.JS PORQUE NECESITA ACCESO AL CONTEXT API */}
+      <Translator
+        from="en"
+        to={language}
+        googleApiKey="AIzaSyDsFDcb0OMaD049cN99Pxr95sJmO863NFo"
+      ></Translator>
+
       <Router />
     </div>
   );

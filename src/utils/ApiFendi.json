@@ -1,0 +1,3214 @@
+[
+  {
+    "name": "O’Lock Loafers black Nubuck",
+    "brand": "Fendi",
+    "description": "Loafer with exposed stitching on the upper and decorated toe with Fendi O'Lock detail. Manufactured in black nubuck. Gray and black jacquard FF fabric bandana. Tone-on-tone enamelled metal accessory. Embossed rubber sole. Made in Italy",
+    "specification": "@65% cotton, 35% polyester, 100% calf leather; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color3_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color3_05.avif"
+        ]
+      }
+    ],
+    "price": 930,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Loafers jacquard",
+    "brand": "Fendi",
+    "description": "Loafer with exposed stitching on the upper and decorated toe with Fendi O'Lock detail. Made of black leather with jacquard fabric application with the FF logo. Metallic accessories with gold finish. Made in Italy",
+    "specification": "@65% polyamide, 35% cotton, 55% cotton, 45% polyamide; lining: 100% resin, 100% calfskin; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color1_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color1_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color1_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color1_05.avif"
+        ]
+      }
+    ],
+    "price": 930,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Loafers blue denim",
+    "brand": "Fendi",
+    "description": "Loafers with visible stitched shoe apron and upper decorated with Fendi O’Lock detail. Made of blue denim with jacquard FF motif on the shoe apron. Blue leather profiles. Palladium-finish metal accessories. Made in Italy",
+    "specification": "@65% Cotton, 35% Polyester, 100% Calfskin, interior: 100% Calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["blue"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockLoafer_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 930,
+    "stock": [
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Driving Loafers black leather",
+    "brand": "Fendi",
+    "description": "Driver model moccasin. Flexible non-slip rubber sole. Manufactured in black leather. Finished in Fendi Shadow leather with a tone-on-tone textured striped FF motif. Fendi O'Lock buckle in black enamelled metal. Made in Italy",
+    "specification": "@100%calfleather, inside:100%calfleather",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color1_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color1_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color1_05.avif"
+        ]
+      }
+    ],
+    "price": 870,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Driving Loafers brown alligator",
+    "brand": "Fendi",
+    "description": "Driver model moccasin. Flexible non-slip rubber sole. Made of brown alligator with tone-on-tone smooth leather details. Finished with a gold-finish metal Fendi O'Lock buckle. Made in Italy",
+    "specification": "@100% alligator skin; 100% calfskin; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["brown"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color3_04.avif"
+        ]
+      }
+    ],
+    "price": 870,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Driving Loafers nubuck leather",
+    "brand": "Fendi",
+    "description": "Driving loafers. Flexible pebble soles. Made of beige nubuck leather with a tone-on-tone Fendi Shadow nubuck saddle strap with a textured stripe FF motif. Embellished with a Fendi O’Lock buckle in black enameled metal. Made in Italy",
+    "specification": "@100% Calfskin, interior: 100% Calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["brown"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_O'LockDrivingLoafer_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 870,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "FF Squared moccasin beige leather",
+    "brand": "Fendi",
+    "description": "Moccasin with FF Squared motif. Made of beige leather. Leather sole. Metallic accessories with palladium finish. Made in Italy",
+    "specification": "@100% calfskin; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["beige"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color1_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color1_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color1_05.webp"
+        ]
+      }
+    ],
+    "price": 770,
+    "stock": [
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "FF Squared moccasin",
+    "brand": "Fendi",
+    "description": "Driver model moccasin. Flexible non-slip rubber sole. Made of blue leather. It features a matching ribbon with a palladium-finish metal FF Squared detail. Made in Italy",
+    "specification": "@100% calfskin; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["blue"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FFSquared_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 770,
+    "stock": [
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Match suede leather in white tones",
+    "brand": "Fendi",
+    "description": "Compact Fendi Match sneaker with vintage label on the tongue. Customized with the FF pattern stitched on the side and the Fendi lettering embossed on the sole. Made of suede and leather in white tones. Finished with a shaft and tone-on-tone terry cloth laces. Rubber box sole covered with beige protectors. Made in Italy",
+    "specification": "@100% calfskin; internal part: 69% polyester, 28% polyamide, 3% elastane",
+    "categories": ["Sneakers"],
+    "colors": ["white"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color1_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color1_04.jpg"
+        ]
+      }
+    ],
+    "price": 770,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Match black suede with white leather tones",
+    "brand": "Fendi",
+    "description": "Compact Fendi Match sneaker with vintage label on the tongue. Customized with the FF pattern stitched on the side and the Fendi lettering embossed on the sole. Made of black suede with white leather details. Finished with shaft and black terry laces. Rubber box sole lined with brown protectors. The model includes a second pair of white terry cloth laces. Made in Italy",
+    "specification": "@100% calfskin; internal part: 69% polyester, 28% polyamide, 3% elastane",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color2_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color2_05.avif"
+        ]
+      }
+    ],
+    "price": 810,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Match dark gray",
+    "brand": "Fendi",
+    "description": "Fendi Match lace-up sneaker. Made of dark gray suede with white and gray leather details. Rubber sole with the Fendi inscription on one side. Made in Italy",
+    "specification": "@100% calfskin; inner: 69% polyester, 28% polyamide, 3% elastane",
+    "categories": ["Sneakers"],
+    "colors": ["grey"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Match_color3_05.jpg"
+        ]
+      }
+    ],
+    "price": 790,
+    "stock": [
+      {
+        "color": "grey",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Sport Shoe dark brown",
+    "brand": "Fendi",
+    "description": "Fendi Match lace-up sneaker. Made of dark brown alligator with black nylon details. Model finished with bead embroidery. Rubber sole with the Fendi inscription on one side. Made in Italy",
+    "specification": "@100% alligator skin, 72% viscose, 28% silk; embroidery 1: 100% glass, 100% urea, 100% polyester, 100% calfskin, inside: 69% polyester, 28% polyamide, 3% elastane",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Deportivas_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Deportivas_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Deportivas_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Deportivas_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Deportivas_color1_05.avif"
+        ]
+      }
+    ],
+    "price": 790,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Domino blue",
+    "brand": "Fendi",
+    "description": "Compact, light design Fendi Domino sneakers. Made of regenerated nylon with a blue FF Flash jacquard motif. Rubber cupsole with embossed FF motif on the toe. Made in Italy",
+    "specification": "@100%polyester, inside:100%cotton",
+    "categories": ["Sneakers"],
+    "colors": ["blue"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color3_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color3_05.jpg"
+        ]
+      }
+    ],
+    "price": 650,
+    "stock": [
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Domino",
+    "brand": "Fendi",
+    "description": "Fendi Domino sneaker with a compact and lightweight design. Made of fabric with a jacquard FF motif. Rubber box sole with embossed FF motif on the toe. Made in Italy",
+    "specification": "@100% calfskin; inner: 69% polyester, 28% polyamide, 3% elastane",
+    "categories": ["Sneakers"],
+    "colors": ["brown", "grey"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color1_04.avif"
+        ]
+      },
+      {
+        "color": "grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Domino_color2_04.jpg"
+        ]
+      }
+    ],
+    "price": 750,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "grey",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Domino Boots",
+    "brand": "Fendi",
+    "description": "Fendi Domino sneaker with a compact and lightweight design. Made of fabric with a jacquard FF motif. Rubber box sole with embossed FF motif on the toe. Made in Italy",
+    "specification": "@100% calfskin; inner: 69% polyester, 28% polyamide, 3% elastane",
+    "categories": ["Sneakers"],
+    "colors": ["brown", "grey"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color1_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color1_04.jpg"
+        ]
+      },
+      {
+        "color": "grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_DominoBotita_color2_04.jpg"
+        ]
+      }
+    ],
+    "price": 750,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "grey",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Faster Trainer",
+    "brand": "Fendi",
+    "description": "Running-style sneaker with embossed FF motif on the sides. Wavy sole with FF on the toe. Made of nubuck with tone-on-tone leather details. Made in Italy",
+    "specification": "@100% calfskin, 100% polyester, 100% cotton, 65% polyamide, 35% cotton; inner part: 100% polyamide, 100% polyester",
+    "categories": ["Sneakers"],
+    "colors": ["white", "red", "black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color1_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color3_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color3_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FasterTrainer_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 800,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Flow",
+    "brand": "Fendi",
+    "description": "Slip-on sneaker with elastic bands, side zip and wavy sole with grooved F. Embossed Fendi Flow lettering on the heels. Tongue with FF motif. EVA rubber sole. Made in Italy",
+    "specification": "@100 % poliéster, 100 % piel de becerro, 80 % poliamida, 20 % elastano; parte interna: 100 % poliéster",
+    "categories": ["Sneakers"],
+    "colors": ["white", "blue", "black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color3_05.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color3_06.jpg"
+        ]
+      },
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color2_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color2_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color1_05.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Flow_color1_06.jpg"
+        ]
+      }
+    ],
+    "price": 870,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Force lycra",
+    "brand": "Fendi",
+    "description": "Fendi Force lace-up sneaker. Manufactured in black leather. Details of FF jacquard fabric in shades of gray and black and collar finished in LYCRA®. Made in Italy",
+    "specification": "@100% calf leather, 80% polyamide, 20% elastane, 65% polyamide, 35% cotton; inner: 65% polyamide; 35% cotton, 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["black", "brown"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color1_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color1_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color1_04.avif"
+        ]
+      },
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceCordones_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 950,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Force gray and black tones",
+    "brand": "Fendi",
+    "description": "Fendi Force lace-up ankle boot. Made of black leather with FF jacquard fabric details in gray and black tones. Inner side zipper for easy putting on. It has a lightweight rubber sole with embossed FF detail on the heel. Made in Italy",
+    "specification": "@100% calf leather, 65% polyamide, 35% cotton, 95% polyester, 5% polyurethane; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color1_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color1_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color1_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color1_04.avif"
+        ]
+      }
+    ],
+    "price": 950,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Force adjustable lace",
+    "brand": "Fendi",
+    "description": "Fendi Force après ski style boot with adjustable lace. Made of waterproof fabric with jacquard FF motif in black and gray tones and black leather. Featuring a fleece lining and a lightweight rubber sole with an embossed FF detail to the toe. Made in Italy",
+    "specification": "@100% calfskin; 65% polyester, 35% cotton; coating: 100% polyurethane; 88% polyamide, 12% elastane; inner: 100% polyamide; 100% polyester",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color3_04.jpg"
+        ]
+      }
+    ],
+    "price": 880,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Force black leather",
+    "brand": "Fendi",
+    "description": "Fendi Force Loafers. Made of black leather. Fabric detail with gray and black FF motif on the toe box. Lightweight rubber sole with debossed FF detailing on the toe and heel. Made in Italy",
+    "specification": "@100% calf leather, 65% polyester, 35% cotton, inside: 100% lamb leather",
+    "categories": ["Sneakers"],
+    "colors": ["black"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Force_color1_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Force_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Force_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Force_color1_04.jpg"
+        ]
+      }
+    ],
+    "price": 940,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+
+  {
+    "name": "Force lace-up boots",
+    "brand": "Fendi",
+    "description": "Fendi Force lace-up ankle boots. Made of black suede. Tonal sheepskin details and interior. The zipper is on the inside for more comfortable wearing. Lightweight rubber sole with FF detailing at the toe. Made in italy",
+    "specification": "@100% Pure Calfskin, 100% Pure Sheep Fur, Inside: 100% Pure Sheep Fur, 100% Pure Calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["brown"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotas_color2_04.jpg"
+        ]
+      }
+    ],
+    "price": 1080,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Force lace-up sneakers",
+    "brand": "Fendi",
+    "description": "Fendi Force lace-up sneakers. Made of brown FF Vertigo jacquard fabric. Embellished with Lycra® piping and matching rubber eyelets. Light rubber sole with embossed FF detail on the toe. Made in Italy",
+    "specification": "@65%polyester, 35%cotton, material2:100%calfleather, material3:80%polyamide, 20%elastane, inside:100%polyamide, inside:100%polyester",
+    "categories": ["Sneakers"],
+    "colors": ["brown"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotitas_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotitas_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotitas_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_ForceBotitas_color1_04.avif"
+        ]
+      }
+    ],
+    "price": 880,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Frame",
+    "brand": "Fendi",
+    "description": "Moccasin with a hand-stitched upper and toe cap decorated with the FF Baguette motif. It presents a rubber sole with an F detail engraved on one of its sides. Made in Italy",
+    "specification": "@100% calfskin; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["black", "#bf8a3d"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color1_05.jpg"
+        ]
+      },
+      {
+        "color": "#bf8a3d",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_Frame_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 970,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "#bf8a3d",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Frame lace-up",
+    "brand": "Fendi",
+    "description": "Shoe with the upper part sewn by hand and with lace closure. It presents a rubber sole with an F detail engraved on one of its sides. Made in Italy",
+    "specification": "@100% calfskin; interior: 100% calfskin",
+    "categories": ["Sneakers"],
+    "colors": ["black", "brown"],
+    "sizes": [
+      6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14
+    ],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color3_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color3_05.avif"
+        ]
+      },
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color2_05.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Sneakers/fendi_zapato_FrameCordones_color2_06.avif"
+        ]
+      }
+    ],
+    "price": 970,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Bag dove grey",
+    "brand": "Fendi",
+    "description": "Iconic medium-sized Baguette bag, made with an all-over embroidery of dove gray metallic sequins in different shapes and sizes. Decorated with FF closure. It has a front flap, leather details, tone-on-tone bead embroidery and a magnetic closure. It features an interior compartment lined in silk with a zippered pocket and metallic accessories with a gold finish. It can be carried by hand, on the shoulder or across the body thanks to the removable handle and shoulder strap. Made in Italy",
+    "specification": "@Height: 15 cm @Depth: 6 cm @Width : 27cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["silver"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "silver",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color4_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color4_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color4_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color4_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color4_05.avif"
+        ]
+      }
+    ],
+    "price": 5100,
+    "stock": [
+      {
+        "color": "silver",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Bag canvas",
+    "brand": "Fendi",
+    "description": "Iconic medium-sized Baguette bag, made in natural-colored canvas with the FF motif embroidered in relief in multicolor thread. Model finished in dove gray leather and decorated with an FF clasp. It features a front flap, magnetic button closure, an interior compartment with a zip pocket and metal accessories with a vintage gold finish. It can be carried by hand, on the shoulder or across the body thanks to the removable handle and shoulder strap. Made in Italy",
+    "specification": "@Height: 15 cm @Depth: 6 cm @Width : 27cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_05.avif"
+        ]
+      }
+    ],
+    "price": 5100,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Bag jacquard",
+    "brand": "Fendi",
+    "description": "Iconic medium-sized Baguette bag, made of jacquard fabric with FF motif in brown tones, decorated with FF closure and finished with black embroidered trims. It features a front flap, magnetic button closure, an unlined interior compartment with a zippered pocket and gold-finish metal accessories. It can be carried by hand, on the shoulder or across the body thanks to the handle and the shoulder strap with the Fendi Label motif, both of which are removable. Made in Italy",
+    "specification": "@Height: 15 cm @Depth: 6 cm @Width : 27cm @Weight : 0.6kg @Strap length (min.) : 90 cm @Leash length (max.) : 90 cm @Shoulder strap drop: 41 cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color3_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 5100,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Nano C'mon Bag",
+    "brand": "Fendi",
+    "description": "Iconic Fendi C'mon small version bag, equipped with flap and FF magnetic button closure. The loop on the back allows the accessory to be worn at the waist as a charm. It can be worn crossbody thanks to the thin adjustable shoulder strap. Interior with flat pocket for credit cards. Made of FF jacquard fabric. Dark brown leather details. Metal accessories with vintage gold finish. Made in Italy",
+    "specification": "@Height : 9.5cm @Depth : 7cm @Width : 14cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color1_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color1_05.jpg"
+        ]
+      }
+    ],
+    "price": 1250,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "C'mon Mini Bag",
+    "brand": "Fendi",
+    "description": "Small satchel bag, with curved and feminine lines, made of white leather. Model finished with raised edges and details and decorated with the FF logo on the flap. Magnetic closure. Flat pocket on the back. It has a lined interior with a flat pocket and metallic accessories with a vintage gold finish. It features an adjustable and removable shoulder strap. The shoulder strap hooks are an elegant detail, riveted with the FF logo, when the bag is open. Made in Italy",
+    "specification": "@Height : 15cm @Depth: 6.5cm @Width : 21cm @Strap length (max.) : 56 cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color3_05.avif"
+        ]
+      }
+    ],
+    "price": 2490,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "C'mon Medium Bag",
+    "brand": "Fendi",
+    "description": "Medium size satchel bag, with curved and feminine lines, equipped with an elongated flap embellished with the metal FF logo. Made of dove gray leather with embossed details and edges. The sides of the accessory are in tone-on-tone grained leather. Flat pocket on the back. Magnetic button closure and metal FF logo. It has a lined interior with a flat pocket and metallic accessories with a vintage gold finish. It features an adjustable and removable shoulder strap. The shoulder strap hooks are an elegant detail, riveted with the FF logo, when the bag is open. Made in Italy",
+    "specification": "@Height : 20cm @Depth: 7cm @Width : 25cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["grey"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_C'mon_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 2490,
+    "stock": [
+      {
+        "color": "grey",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Bag 25 years",
+    "brand": "Fendi",
+    "description": "Fendi celebrates 25 years of the Baguette bag with 25 re-editions of the famous “under-the-arm” bag’s most iconic archived styles. The Baguette #12 is inspired by the “sequin embroidery” Baguette from the Fall/Winter 1999-2000 collection. The bag is entirely embroidered by hand with 9,200 square sequins and around 3,000 micro-beads for a pink color-block effect. Finished with red elaphe details. Decorated with an FF clasp and featuring a front flap, magnetic clasp, internal compartment with zipper pocket, a “Baguette Fendi Re-Edition” plate and palladium-finish metalware. The bag can be carried by hand, or worn either on the shoulder or cross-body thanks to the elaphe shoulder strap and handle, both detachable. Made in Italy",
+    "specification": "@Height: 15 cm @Depth: 6 cm @Width : 27cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_baguette_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 5100,
+    "stock": [
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Cookie Bag",
+    "brand": "Fendi",
+    "description": "Cookie mini hobo bag, made of jacquard fabric with iconic FF motif in brown tones and decorated with FF closure.Lined interior compartment and metal accessories with a gold finish. It can be carried by hand thanks to the adjustable shoulder strap. Made in Italy",
+    "specification": "@Height: 17.5 cm @Depth: 4.5 cm; @Width : 22cm; @Weight: 0.23kg",
+    "categories": ["Bags", "underarm"],
+    "colors": ["#746e50"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "#746e50",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_cookie_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_cookie_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_cookie_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_cookie_04.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_cookie_05.webp"
+        ]
+      }
+    ],
+    "price": 2500,
+    "stock": [
+      {
+        "color": "#746e50",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Peekaboo Mini Bag cuoio Romano",
+    "brand": "Fendi",
+    "description": "Iconic small Peekaboo ISeeU bag, made of brown Cuoio Romano leather, finished by hand with tone-on-tone stitching and the classic twist lock on both sides. Featuring a lining with the Selleria stamp in leather, two internal compartments separated by a stiff partition, an inner pocket with button and palladium-finish metalware. Can be carried by hand or on the shoulder thanks to the handle and the adjustable, removable shoulder strap. Made in Italy",
+    "specification": "@Height: 21cm @Depth: 11cm @Width : 27cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color3_05.avif"
+        ]
+      }
+    ],
+    "price": 2900,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Peekaboo Mini Bag camellia leather",
+    "brand": "Fendi",
+    "description": "Iconic small-sized Peekaboo bag, made of camellia leather and finished with tone-on-tone threading on the top, edges and handle. Decorated with the unmistakable twist lock on both sides. It has interiors lined in soft tone-on-tone nappa leather, two interior compartments divided by a rigid partition, an interior zipped pocket and gold-finish metal accessories. It can be carried by hand, on the shoulder or across the body thanks to the handle and the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height: 18cm @Depth: 11cm @Width : 23cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["#fffce7"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "#fffce7",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 4900,
+    "stock": [
+      {
+        "color": "#fffce7",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Peekaboo Mini Bag jacquard",
+    "brand": "Fendi",
+    "description": "Iconic Peekaboo ISeeU bag in an ideal compact size. Made of fabric with a jacquard FF motif fully embroidered with transparent sequins with a shiny effect. Decorated with the unmistakable twist lock on both sides. It has tone-on-tone lined interiors, two compartments divided by a rigid partition, an interior pocket and gold-finish metal accessories. It can be carried by hand or across the body using the handle and the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height: 15.5cm @Depth: 11cm @Width : 20cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMini_color1_05.jpg"
+        ]
+      }
+    ],
+    "price": 2500,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Peekaboo Medium Bag camellia leather",
+    "brand": "Fendi",
+    "description": "Iconic medium-sized Peekaboo ISeeU bag, made of camellia leather and exquisitely embellished with a floral motif embroidered in white thread. Decorated with the unmistakable twist lock on both sides. It has interiors lined with soft tone-on-tone nappa leather visible from the outside, two compartments divided by a rigid partition, a removable and customizable interior bag, and gold-finish metal accessories. It can be carried by hand or on the shoulder using the handle and the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height: 25.5cm @Depth: 13cm @Width : 33.5cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["#fffce7"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "#fffce7",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color2_05.jpg"
+        ]
+      }
+    ],
+    "price": 5800,
+    "stock": [
+      {
+        "color": "#fffce7",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Peekaboo Medium Bag jacquard",
+    "brand": "Fendi",
+    "description": "Iconic medium-size Peekaboo ISeeU bag, made of fabric with a jacquard FF motif completely embroidered with transparent sequins with a shiny effect. Decorated with the unmistakable twist lock on both sides. It has tone-on-tone lined interiors visible from the outside, two compartments divided by a rigid partition, a removable and customizable interior pocket, and gold-finish metal accessories. It can be carried by hand or on the shoulder using the handle and the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height: 25.5cm @Depth: 13cm @Width : 33.5cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color1_05.jpg"
+        ]
+      }
+    ],
+    "price": 5800,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Peekaboo Medium Bag Cuoio Romano",
+    "brand": "Fendi",
+    "description": "Iconic medium size Peekaboo ISeeU bag, made of brown Cuoio Romano leather and finished with large tone-on-tone handmade stitching. Decorated with the unmistakable twist lock on both sides. It has lined interiors visible from the outside with the Selleria leather seal, two compartments divided by a rigid partition, a removable and customizable interior pocket, and palladium-finish metal accessories. It can be carried by hand or on the shoulder using the handle and the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height: 25.5cm @Depth: 13cm @Width : 33.5cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_PeekabooMedium_color3_05.jpg"
+        ]
+      }
+    ],
+    "price": 5800,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Kan U Bag",
+    "brand": "Fendi",
+    "description": "Mini bag with flap made of leather with embossed FF motif and hand-painted in brown and black tones. Decorated with the emblematic FF snap closure. It has two expandable interior compartments divided by a rigid partition, an interior pocket and metallic accessories with a gold finish. It can be carried crossbody or by hand thanks to the removable shoulder strap. Made in Italy",
+    "specification": "@Height: 13cm @Depth: 9cm @Width : 19cm @Weight: 0.6kg",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_KanU_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_KanU_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_KanU_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_KanU_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_KanU_05.avif"
+        ]
+      }
+    ],
+    "price": 2500,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "By the Way Mini",
+    "brand": "Fendi",
+    "description": "Iconic mini-size Boston By The Way bag, made of leather with a thermo-stamped FENDI ROMA motif and rigid tortoiseshell-effect plexiglass handles. Zip closure. It has an interior lined in FF fabric, a zippered pocket and metallic accessories with a gold finish. It can be carried by hand thanks to the handles, on the shoulder or across the body thanks to the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height : 12cm @Depth : 9cm @Width : 20.5cm @Shoulder strap drop: 62.5 cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown", "white", "pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color1_05.jpg"
+        ]
+      },
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color2_05.jpg"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color3_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymini_color3_05.avif"
+        ]
+      }
+    ],
+    "price": 1950,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "By the Way Medium",
+    "brand": "Fendi",
+    "description": "Iconic medium-sized Boston By The Way bag, made of leather with hot-stamped “FENDI ROMA” and fastened with a zip. It has a spacious lined interior, an interior zip pocket and palladium-finish metal accessories. It can be carried by hand thanks to the handles, on the shoulder or across the body thanks to the adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height : 15cm @Depth : 13cm @Width : 27cm; @Weight : 0.6kg @Strap length (min.) : 97 cm @Leash length (max.) : 115 cm @Shoulder strap drop: 48 cm",
+    "categories": ["Bags"],
+    "colors": ["brown", "white", "pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color3_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color3_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color3_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color3_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color3_05.webp"
+        ]
+      },
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color1_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color1_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color1_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color1_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color1_05.avif"
+        ]
+      },
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color2_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color2_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_bythewaymediano_color2_05.avif"
+        ]
+      }
+    ],
+    "price": 2150,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Mon Tresor Bag",
+    "brand": "Fendi",
+    "description": "Small Mon Tresor bucket bag, made of fabric with FF motif. Lined interior and metal accessories with a gold finish. The bag has two removable shoulder straps, one long and one short, to be worn on the shoulder or across the body. Made in Italy",
+    "specification": "@Height : 18cm @Depth : 10cm @Width : 12cm",
+    "categories": ["Bags"],
+    "colors": ["brown", "white", "#fffce7"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color1_05.avif"
+        ]
+      },
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color2_05.jpg"
+        ]
+      },
+      {
+        "color": "#fffce7",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_MonTresor_color3_05.avif"
+        ]
+      }
+    ],
+    "price": 1950,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "#fffce7",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "First Bag",
+    "brand": "Fendi",
+    "description": "Small size Fendi First bag, made of fabric with FF motif. Features a large F-shaped clasp in coated metal. It has an interior compartment lined in fabric with the iconic FF motif, removable interior hooks and gold-finish metal accessories. It can be carried by hand as a bag or on the shoulder thanks to the removable shoulder strap. Made in Italy",
+    "specification": "@Height : 18cm; @Depth : 9.6cm @Width : 26cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown", "pink", "#fffce7"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color2_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color2_05.avif"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color1_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color1_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color1_05.avif"
+        ]
+      },
+      {
+        "color": "#fffce7",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color3_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_firstsmall_color3_05.avif"
+        ]
+      }
+    ],
+    "price": 4400,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "#fffce7",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendigraphy Mini Bag",
+    "brand": "Fendi",
+    "description": "Small size hobo bag made of soft leather and decorated with the FENDI inscription in vintage gold metal visible when worn under the arm. Zip closure and interior compartment lined with fabric, metal accessories with a gold finish. It can be carried under the arm or across the body thanks to the adjustable and removable strap, and the hooks that allow a shoulder strap to be incorporated. Made in Italy",
+    "specification": "@Height : 24.5cm; @Depth : 10cm @Width : 29cm @Weight: 0.7kg Shoulder strap drop: 18 cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown", "pink", "black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color2_04.avif"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color3_04.avif"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color1_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymini_color1_04.avif"
+        ]
+      }
+    ],
+    "price": 4400,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendigraphy Medium Bag",
+    "brand": "Fendi",
+    "description": "Medium size hobo bag made of leather and decorated with the FENDI inscription in vintage palladium metal visible when worn under the arm. It features a zip fastener, an interior compartment lined in fabric and metal accessories with a palladium finish. It can be carried under the arm or across the body thanks to the adjustable and removable strap, and the hooks that allow a shoulder strap to be incorporated. Made in Italy",
+    "specification": "@Height : 30cm @Depth : 11cm @Width : 36cm @Weight: 0.99kg @Shoulder strap drop: 29 cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown", "white", "black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_05.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_06.avif"
+        ]
+      },
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color2_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color2_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color2_05.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color2_06.avif"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color3_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color3_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color3_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color3_05.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_fendigraphymediano_color3_06.avif"
+        ]
+      }
+    ],
+    "price": 4400,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Mini Sunshine Shopper Bag",
+    "brand": "Fendi",
+    "description": "Mini size Sunshine shopper bag. Presents FENDI ROMA inscription applied to leather. It has a lined interior compartment, leather trims and metal accessories with a gold finish. It can be carried by hand or on the shoulder thanks to the two handles and the slim, adjustable and removable shoulder strap. Made in Italy",
+    "specification": "@Height : 18cm @Depth : 6.5cm @Width : 13cm",
+    "categories": ["Bags", "underarm"],
+    "colors": ["brown", "white", "black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color1_02.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color1_05.avif"
+        ]
+      },
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color2_03.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color2_04.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_SunshineShopper_color2_05.avif"
+        ]
+      }
+    ],
+    "price": 1750,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Sunshine Large Bag",
+    "brand": "Fendi",
+    "description": "Sunshine Shopper bag made of fabric with brown FF jacquard motif and FENDI ROMA leather and stiff leather handles. Features a spacious lined internal compartment, leather edging and gold-finish metalware. Can be carried by hand with the two handles, and two inner hooks allow you to attach a shoulder strap. Made in Italy",
+    "specification": "@Height: 35cm Bottom: 21.5cm @Width: 40.5cm @Weight: 1.2kg @Shoulder strap drop: 11 cm",
+    "categories": ["Bags"],
+    "colors": ["brown", "#746e50", "black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color1_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color1_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color1_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color1_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color1_05.avif"
+        ]
+      },
+      {
+        "color": "#746e50",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color3_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color2_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color2_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color2_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color2_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color2_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color3_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color3_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color3_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Bags/fendi_cartera_sunshine_color3_05.jpg"
+        ]
+      }
+    ],
+    "price": 3190,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "#746e50",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Delfina Brown fabric high-heeled sandals",
+    "brand": "Fendi",
+    "description": "Delfina round-toe sandals with an ankle strap. Made of FF jacquard fabric. Details in brown leather. Heel with cut-out detail and gold-colored metal FF motif. Made in Italy",
+    "specification": "@Composition: 65% polyamide, 35% cotton, 100% calf leather, inside: 100% goat leather, @Heel height : 95 mm",
+    "categories": ["Heels"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Brown+fabric+high-heeled+sandals+atras.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Brown+fabric+high-heeled+sandals+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Brown+fabric+high-heeled+sandals+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1050,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Delfina Black fabric high-heeled sandals",
+    "brand": "Fendi",
+    "description": "Delfina round-toe sandals with an ankle strap. Made of black karung. Heel with cut-out detail and gold-colored metal FF motif. Made in Italy",
+    "specification": "@100% Karung snake leather, interior: 100% Goatskin, @Heel height : 95 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+leather+high-heeled+pumps+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+leather+high-heeled+pumps+lateral.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+leather+high-heeled+pumps+Superior.avif"
+        ]
+      }
+    ],
+    "price": 1250,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Delfina Black leather high-heeled pumps",
+    "brand": "Fendi",
+    "description": "Round-toe Delfina pumps. Strap closure. Made of black leather. Heel with cut-out detail and gold-colored metal FF motif. Made in Italy",
+    "specification": "@100% calf leather, interior: 100% goat leather, @Heel height : 105 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+atras.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+lado.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1190,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Delfina Black fabric high-heeled sandals",
+    "brand": "Fendi",
+    "description": "Delfina round-toe sandals with an ankle strap. Made of black karung. Heel with cut-out detail and gold-colored metal FF motif. Made in Italy",
+    "specification": "@100% Karung snake leather, interior: 100% Goatskin, @Heel height : 95 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+atras.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+lado.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+lado.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+fabric+high-heeled+sandals+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1250,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Delfina Black leather biker boots",
+    "brand": "Fendi",
+    "description": "Delfina biker boots with a round toe, laces, straps and a side zipper on the inside. Lug sole in rubber. Made of black leather with tone-on-tone fabric details. Gold-finish metalware. Made in Italy",
+    "specification": "@100% Calfskin, interior: 100% Lambskin, @Heel height : 50 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+leather+biker+boots+atras.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+leather+biker+boots+frontal+lateral.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Delfina+Black+leather+biker+boots+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1590,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Rockoko Black leather biker boots with stretch fabric",
+    "brand": "Fendi",
+    "description": "Rockoko combat boots with stretch fabric inserts. Non-slip rubber sole. Made of black calfskin. The sock-like high top is trimmed with the FF motif and contrasting sporty stripes. Made in Italy",
+    "specification": "@100% calf leather, 87% polyamide, 13% elastane, inside: 100% calf leather, @Heel height : 30 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Rockoko+Black+leather+biker+boots+with+stretch+fabric+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Rockoko+Black+leather+biker+boots+with+stretch+fabric+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Rockoko+Black+leather+biker+boots+with+stretch+fabric+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1050,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi First Black leather high-heeled sandals",
+    "brand": "Fendi",
+    "description": "Fendi First sandals with wide band and strap. Made of black leather. Diagonal F-shaped sculpted heel in gold-colored metal. Made in Italy",
+    "specification": "@100% calf leather, inside: 100% lamb leather, @Heel height : 95 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+First+Black+leather+high-heeled+sandals+atras.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+First+Black+leather+high-heeled+sandals+lateral.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+First+Black+leather+high-heeled+sandals+superior.webp"
+        ]
+      }
+    ],
+    "price": 1450,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Colibrì Black mesh high-heeled slingbacks",
+    "brand": "Fendi",
+    "description": "Colibrì slingbacks with pointed toe and elastic ribbons that wrap around the foot. The sole is embellished with rubber inserts. Made of micro mesh with an FF motif. Finished with amber-colored sequin embroidery. The padded cushion and hiking shoe tab add a sporty touch. Gold-enameled heel. Made in Italy",
+    "specification": "@100% polyester, 100% polyurethane, lining: 100% polyamide, @Heel height : 85 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+Black+mesh+high-heeled+slingbacks+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+Black+mesh+high-heeled+slingbacks+lateral.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+Black+mesh+high-heeled+slingbacks+superior.avif"
+        ]
+      }
+    ],
+    "price": 1150,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Domino White FF fabric low-tops",
+    "brand": "Fendi",
+    "description": "Domino sneakers with rubber cupsoles. Made of jacquard fabric with FF motif in ivory white. Trimmed with tone on tone grosgrain ribbon. The white sole with contrasting bottom features a combination of embossed textures, the FF pattern superimposed on the toe and the Fendi Roma logo on the heel. Extra white laces. Made in Italy",
+    "specification": "@65% Polyamide, 35% Cotton, 55% Cotton, 45% Polyamide, coating: 100% Resin, interior: 100% Cotton, @Heel height : 20 mm",
+    "categories": ["Heels"],
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Domino+White+FF+fabric+low-tops+atras.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Domino+White+FF+fabric+low-tops+lateral.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Domino+White+FF+fabric+low-tops+superior.webp"
+        ]
+      }
+    ],
+    "price": 695,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi Flow White suede low tops",
+    "brand": "Fendi",
+    "description": "Slip-on sneakers with elastic laces, side zipper and corrugated sole with engraved F. Fendi Flow lettering embossed on the heels. Made of white suede with tech fabric inserts. Embellished with Lycra® details with FF motif. Lightweight white rubber soles with pale pink diagonal F detail. Made in Italy",
+    "specification": "@100% calf leather, 100% polyester, inside: 100% polyester, @Heel height : 30 mm",
+    "categories": ["Heels"],
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+Flow+White+suede+low+tops+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+Flow+White+suede+low+tops+lateral.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+Flow+White+suede+low+tops+superior.avif"
+        ]
+      }
+    ],
+    "price": 995,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi Match Low tops in black suede",
+    "brand": "Fendi",
+    "description": "Fendi Match compact design sneakers with vintage label on tongue. Branded with FF pattern sewn on the side and embossed Fendi lettering on the sole. Made of black suede with white leather details. Embellished with black terry collar and laces. Covered rubber cupsole with brown bumper. The style includes a second pair of white terry laces. Made in Italy",
+    "specification": "@100% Calfskin, 100% Calfskin (suede), inside: 69% Polyester, 28% Polyamide, 3% Elastane, 100% Calfskin, @Heel height : 20 mm",
+    "categories": ["Heels"],
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+Match+Low+tops+in+black+suede+atras.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+Match+Low+tops+in+black+suede+lateral.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fendi+Match+Low+tops+in+black+suede+superior.webp"
+        ]
+      }
+    ],
+    "price": 930,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Beige nappa leather sandals",
+    "brand": "Fendi",
+    "description": "Baguette sandals with lightly padded bands and crisscrossed strap on the ankle and arch. Made of beige nappa leather. Heel with FF Baguette motif in golden metal. Made in Italy",
+    "specification": "@100% Lambskin, interior: 100% Goatskin, @Heel height : 0 mm",
+    "categories": ["Heels"],
+    "colors": ["beige"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Baguette+Beige+nappa+leather+sandals+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Baguette+Beige+nappa+leather+sandals+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Baguette+Beige+nappa+leather+sandals+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1190,
+    "stock": [
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Colibrì High-heeled slingbacks with embroidery",
+    "brand": "Fendi",
+    "description": "Streamlined and feminine Colibrì slingbacks with elastic ribbons that wrap around the foot. The sole is embellished with rubber inserts. Made of micromesh with FF Vertigo embroidery with multicolor beads. The padded cushion and hiking shoe tab add a sporty touch. Heel with FF Baguette motif in golden metal. Made in Italy",
+    "specification": "@100% Cotton, interior: 100% Goatskin, @Heel height : 85 mm",
+    "categories": ["Heels"],
+    "colors": ["blue"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+High-heeled+slingbacks+with+embroidery+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+High-heeled+slingbacks+with+embroidery+frontal.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+High-heeled+slingbacks+with+embroidery+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1050,
+    "stock": [
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fashion Show Beige nappa leather slides",
+    "brand": "Fendi",
+    "description": "Platform slides with wide band presented during the Spring/Summer 2023 fashion show. Made of light beige nappa leather. Rubber platform sole with embossed oversized FF pattern. Made in Italy",
+    "specification": "@100% Lambskin, interior: 100% Lambskin, @Heel height : 140 mm",
+    "categories": ["Heels"],
+    "colors": ["beige"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fashion+Show+Beige+nappa+leather+slides+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fashion+Show+Beige+nappa+leather+slides+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Fashion+Show+Beige+nappa+leather+slides+superior.avif"
+        ]
+      }
+    ],
+    "price": 995,
+    "stock": [
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Sneakers Black fabric sneakers",
+    "brand": "Fendi",
+    "description": "Rockoko sneakers with two-toned running shoe sole. The micro-perforated fabric means it has a flexible and lightweight fit. Made of black stretch yarn. Embellished with FF inlay. Velcro closure with black rubber tag and FENDI lettering. Made in Italy",
+    "specification": "@87% polyamide, 13% elastane, 100% calf leather, 100% pvc, @Heel height : 35 mm",
+    "categories": ["Heels"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Sneakers+Black+fabric+sneakers+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Sneakers+Black+fabric+sneakers+frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Sneakers+Black+fabric+sneakers+lateral.avif"
+        ]
+      }
+    ],
+    "price": 895,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Colibrì Lite High-heeled blue FF chenille slingbacks",
+    "brand": "Fendi",
+    "description": "Streamlined and feminine Colibrì Lite slingbacks with narrow elastic ribbons that wrap around the foot. The sole is embellished with rubber inserts. Made of chenille with blue and black FF jacquard motif. The padded cushion and hiking shoe tab add a sporty touch. Black enameled heel. Made in Italy",
+    "specification": "@64% viscose, 20% polyester, 16% cotton, 72% viscose, 28% silk, inside: 52% viscose, 28% cotton, 20% polyester, @Heel height : 85 mm",
+    "categories": ["Heels"],
+    "colors": ["blue"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+Lite+High-heeled+blue+FF+chenille+slingbacks+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+Lite+High-heeled+blue+FF+chenille+slingbacks+frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Heels/Colibr%C3%AC+Lite+High-heeled+blue+FF+chenille+slingbacks+lateral.avif"
+        ]
+      }
+    ],
+    "price": 995,
+    "stock": [
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Black acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Oversized oval Baguette eyeglasses in black acetate. Temples with cut-out Baguette logo and gold-colored metal trim. Gray lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always keep your eyeglasses in their case",
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Black+acetate+sunglasses+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Black+acetate+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Black+acetate+sunglasses+lateral.jpeg"
+        ]
+      }
+    ],
+    "price": 450,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi O’Lock Black acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Square O’Lock glasses in black acetate. Temples with tone-on-tone metal O’Lock and blue lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.",
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+O%E2%80%99Lock+Black+acetate+sunglasses+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+O%E2%80%99Lock+Black+acetate+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+O%E2%80%99Lock+Black+acetate+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 460,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi Roma Beige acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Oversize, square Fendi Roma sunglasses made of transparent beige acetate. Temples with visible metal core with laser etched FF. Gold finish Fendi Roma logo on the sides. Brown lenses. Made in Italy",
+    "specification": "@59% acetate, 41% viscose",
+    "categories": ["Sunglasses"],
+    "care": "Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["beige"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+Roma+Beige+acetate+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+Roma+Beige+acetate+sunglasses+lado.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+Roma+Beige+acetate+sunglasses+lateral.jpeg"
+        ]
+      }
+    ],
+    "price": 380,
+    "stock": [
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Gold-colored metal sunglasses",
+    "brand": "Fendi",
+    "description": "Oversize, square Fendi Roma sunglasses made of transparent beige acetate. Temples with visible metal core with laser etched FF. Gold finish Fendi Roma logo on the sides. Brown lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always keep your eyeglasses in their case.After use, always place the eyeglasses back in their case.",
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gold-colored+metal+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gold-colored+metal+sunglasses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gold-colored+metal+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 460,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendigraphy Blue gradient shield sunglasses",
+    "brand": "Fendi",
+    "description": "Rectangular Fendigraphy shield eyeglasses inspired by the Hobo bag. Temples with in-line gold-colored metal Fendi maxi lettering. Blue gradient lenses and adjustable nose pads. Made in Italy",
+    "specification": "@100% plastic, 100% metal",
+    "categories": ["Sunglasses"],
+    "care": "Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always keep your eyeglasses in their case.",
+    "colors": ["blue"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendigraphy+Blue+gradient+shield+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendigraphy+Blue+gradient+shield+sunglasses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendigraphy+Blue+gradient+shield+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 490,
+    "stock": [
+      {
+        "color": "blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi Roma Black acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Rectangular Fendi Roma sunglasses in black acetate. Temples with visible metal core with laser etched FF. Gold finish Fendi Roma logo on the sides. Gray lenses. Made in Italy",
+    "specification": "@59% acetate, 41% viscose",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+Roma+Black+acetate+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+Roma+Black+acetate+sunglasses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+Roma+Black+acetate+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 380,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi First Black acetate sunglasses GOLD",
+    "brand": "Fendi",
+    "description": "Square Fendi First eyeglasses in black acetate. Temples with oversize diagonal F motif in gold-colored metal. Blue gradient lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Black+acetate+sunglasses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Black+acetate+sunglasses+lado.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Black+acetate+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 450,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi First Shield sunglasses with gray gradient lenses",
+    "brand": "Fendi",
+    "description": "Fendi First shield sunglasses with palladium-color metal temples and gray gradient lenses with micro F in crystals. Adjustable nose pads. Made in Italy",
+    "specification": "@100% Metal",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Shield+sunglasses+with+gray+gradient+lenses+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Shield+sunglasses+with+gray+gradient+lenses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Shield+sunglasses+with+gray+gradient+lenses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 520,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi First Gold metal sunglasses with gradient lenses",
+    "brand": "Fendi",
+    "description": "Oversized square Fendi First eyewear in gold-colored metal. Gray gradient lenses embellished with micro F in crystals. Adjustable nose pads. Made in Italy",
+    "specification": "@100% Metal",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Gold+metal+sunglasses+with+gradient+lenses+frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Gold+metal+sunglasses+with+gradient+lenses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Gold+metal+sunglasses+with+gradient+lenses+lateral.webp"
+        ]
+      }
+    ],
+    "price": 520,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Sunglasses in transparent caramel acetate",
+    "brand": "Fendi",
+    "description": "Square O’Lock eyeglasses in transparent caramel acetate. Temples with gold-colored metal O’Lock and light brown gradient lenses. Made in Italy",
+    "specification": "@100% Plastic, 100% Metal",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/O%E2%80%99Lock+Sunglasses+in+transparent+caramel+acetate+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/O%E2%80%99Lock+Sunglasses+in+transparent+caramel+acetate+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/O%E2%80%99Lock+Sunglasses+in+transparent+caramel+acetate+lateral.jpeg"
+        ]
+      }
+    ],
+    "price": 460,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi First Fashion Show sunglasses",
+    "brand": "Fendi",
+    "description": "Presented at the Fall-Winter 22 fashion show, these oval-shaped gold-tone metal sunglasses are inspired by the atmosphere of the 2000s. In keeping with the new Fendi First Fashion Jewelry line, designed by Delfina Delettrez Fendi, they are decorated with a crystal micro F design. Green lenses. Adjustable nose pads. Made in Italy",
+    "specification": "@100% Metal",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["green"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "green",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Fashion+Show+sunglasses+frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Fashion+Show+sunglasses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Fashion+Show+sunglasses+lateral.webp"
+        ]
+      }
+    ],
+    "price": 520,
+    "stock": [
+      {
+        "color": "green",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendi First Mint green acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Square Fendi First eyeglasses in mint green acetate. Temples with oversize diagonal F motif in gold-colored metal. Light khaki gradient lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["mint"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "mint",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Mint+green+acetate+sunglasses+frontal.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Mint+green+acetate+sunglasses+lado.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Mint+green+acetate+sunglasses+lateral.jpeg"
+        ]
+      }
+    ],
+    "price": 450,
+    "stock": [
+      {
+        "color": "mint",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendigraphy Transparent pink acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Oversized round Fendigraphy eyewear in transparent pink acetate, inspired by the Hobo bag. Temples with in-line gold-colored metal Fendi maxi lettering. Brown gradient lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendigraphy+Transparent+pink+acetate+sunglasses+frontal.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendigraphy+Transparent+pink+acetate+sunglasses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendigraphy+Transparent+pink+acetate+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 490,
+    "stock": [
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baguette Gray Havana FF acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Square Baguette eyewear in gray Havana acetate with FF logo. Gray gradient lenses and gold-color metal temples with Baguette logo. Made in Italy",
+    "specification": "@100% Metal, 100% Plastic Trim",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["gray"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gray",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gray+Havana+FF+acetate+sunglasses+frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gray+Havana+FF+acetate+sunglasses+lado.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gray+Havana+FF+acetate+sunglasses+lateral.avif"
+        ]
+      }
+    ],
+    "price": 400,
+    "stock": [
+      {
+        "color": "gray",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": ": Fendi O’Lock Havana acetate sunglasses",
+    "brand": "Fendi",
+    "description": "Square O’Lock glasses in Havana acetate. Temples with gold-colored metal O’Lock and brown gradient lenses. Made in Italy",
+    "specification": "@100% acetate",
+    "categories": ["Sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+O%E2%80%99Lock+Havana+acetate+sunglasses+frontal.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+O%E2%80%99Lock+Havana+acetate+sunglasses+lado.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+O%E2%80%99Lock+Havana+acetate+sunglasses+lateral.jpeg"
+        ]
+      }
+    ],
+    "price": 460,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "FF Belt Brown leather belt",
+    "brand": "Fendi",
+    "description": "Thin belt with loop and FF stud buckle. Made of tobacco-colored leather with an embossed mini FF print. Metal accessories in a vintage-gold finish. Made in Italy",
+    "specification": "@100% calfskin, inside: 100% calfskin @Width : 2 cm",
+    "categories": ["belt", "Accesories"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/FF+Belt+Brown+leather+belt+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/FF+Belt+Brown+leather+belt+lateral.avif"
+        ]
+      }
+    ],
+    "price": 470,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendigraphy belt Beige leather belt",
+    "brand": "Fendi",
+    "description": "Belt with loop and stud buckle. Made of beige leather and embellished with metal Fendi lettering. Metal accessories in a vintage-gold finish. Made in Italy",
+    "specification": "@100% calf leather, interior: 100% calf leather @Width : 3 cm",
+    "categories": ["belt", "Accesories"],
+    "colors": ["beige"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Fendigraphy+belt+Beige+leather+belt+beige.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Fendigraphy+belt+Beige+leather+belt+lado.avif"
+        ]
+      }
+    ],
+    "price": 850,
+    "stock": [
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "F Is Fendi 28 mm - Round watch with F is Fendi logo",
+    "brand": "Fendi",
+    "description": "28 mm round shiny and satin-finish gold-colored stainless steel case with tone-on-tone stainless steel F insert. Off-center gold sunray dial with glossy FF print, gold indices and hands. Tone-on-tone stainless steel bracelet, 11.95/10 mm, with engraved FF motif and folding buckle.",
+    "specification": "@100% Stainless steel IP yellow",
+    "categories": ["watch", "Accesories"],
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/F+Is+Fendi+28+mm+-+Round+watch+with+F+is+Fendi+logo+frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/F+Is+Fendi+28+mm+-+Round+watch+with+F+is+Fendi+logo+lateral.avif"
+        ]
+      }
+    ],
+    "price": 1350,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "O’Lock Vertical 14.80 x 21.30 mm - Oval watch with FF logo",
+    "brand": "Fendi",
+    "description": "Gold-colored oval stainless steel case, 14.80 x 28.30 mm, Fendi O’Lock bevel with 33 inset diamonds in two different sizes, totaling around 0.10 carats. Crown set with one diamond, around 0.02 carats. Dark green enameled sunray dial, indicators with inset diamonds at 12 o’clock and 6 o’clock, totaling around 0.01 carats, gold-colored minute and second hands with radius cut. Two-toned stainless steel double-wrap bracelet, 4.80 mm, with contrasting satin-effect links and folding buckle.",
+    "specification": "@100% stainless steel, 100% diamonds (36 stones ~0.13 carats)",
+    "categories": ["watch", "Accesories"],
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/O%E2%80%99Lock+Vertical+14.80+x+21.30+mm+-+Oval+watch+with+FF+logo+Frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/O%E2%80%99Lock+Vertical+14.80+x+21.30+mm+-+Oval+watch+with+FF+logo+lateral.avif"
+        ]
+      }
+    ],
+    "price": 2850,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Forever Fendi 19 mm – Bracelet watch with FF logo",
+    "brand": "Fendi",
+    "description": "Rose gold-colored polished and brushed stainless steel case, bezel set with 64 diamonds, approximately 0.14 carats, crown set with one diamond, approximately 0.02 carats. Genuine malachite dial, rose gold-colored indices and hands. Rose gold-colored satin-finish stainless steel bracelet, with polished central links with FF logo and folding buckle.",
+    "specification": "@100% stainless steel, 100% diamonds (65 stones ~0.16 carats), 100% stone",
+    "categories": ["watch", "Accesories"],
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Forever+Fendi+19+mm+%E2%80%93+Bracelet+watch+with+FF+logo+Frontal.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Forever+Fendi+19+mm+%E2%80%93+Bracelet+watch+with+FF+logo+lado.jpeg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Forever+Fendi+19+mm+%E2%80%93+Bracelet+watch+with+FF+logo+lateral.jpeg"
+        ]
+      }
+    ],
+    "price": 2590,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Forever Fendi hair clip Gold metal hair clip",
+    "brand": "Fendi",
+    "description": "Hair clip with FF motif. Clip closure. Made of gold-finish metal.",
+    "specification": "@100% brass",
+    "care": "The product you have purchased may be embellished with a precious metal top or varnish and may also feature appliqués, gemstones (in various shades of the same color), crystals, plexiglass or resin. The mixture of materials and the special details give this product its unique character. To best maintain the product’s appearance over time, avoid contact with sea water, spa water, lacquers, perfumes, solvents, chemicals and abrasive materials. If necessary, clean with water and a neutral soap and/or polish with a dry microfiber cloth.",
+    "categories": ["Head", "Accesories"],
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Forever+Fendi+hair+clip+Gold+metal+hair+clip+atras.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Forever+Fendi+hair+clip+Gold+metal+hair+clip+frente.avif"
+        ]
+      }
+    ],
+    "price": 520,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Tights Black nylon stockings",
+    "brand": "Fendi",
+    "description": "Stockings with all-over FF motif, made of opaque black nylon. Made in italy",
+    "specification": "@93% Polyamide, 7% Elastane",
+    "categories": ["socks", "Accesories"],
+    "colors": ["black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Accesories/Tights+Black+nylon+stockings+frontal.webp"
+        ]
+      }
+    ],
+    "price": 260,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "FF Belt",
+    "brand": "Fendi",
+    "description": "Thin belt with loop and FF cufflink closure. Made of tobacco-colored leather with embossed mini FF motif. Metal accessories with vintage gold finish. Made in Italy",
+    "specification": "@100% calfskin; internal part: 100% calfskin",
+    "categories": ["Accesories", "belt"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_cinturon_FF_marron_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_cinturon_FF_marron_02.avif"
+        ]
+      }
+    ],
+    "price": 370,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Shawl",
+    "brand": "Fendi",
+    "description": "Wide, square shawl crafted in a soft blend of wool and silk. The timeless FF print features some of the brand's most iconic accessories. The Baguette and the Peekaboo are found inside the small arches that decorate the edge of the graphic pattern. Finished with hand frayed edges. Made in Italy",
+    "specification": "@90% modal, 10% cashmere",
+    "categories": ["Accesories", "shawl"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_chal_marron1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_chal_marron1_02.avif"
+        ]
+      }
+    ],
+    "price": 570,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Shawl Large",
+    "brand": "Fendi",
+    "description": "Large shawl made of a soft wool and silk blend in brown. The luxurious jacquard weave reproduces the FF and Fendi Mirror logos with a 3D effect, allowing it to be worn in various ways. Suitable for all seasons. Made in Italy",
+    "specification": "@52% silk, 48% fleece wool",
+    "categories": ["Accesories", "shawl"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_chal_marron2_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_chal_marron2_02.avif"
+        ]
+      }
+    ],
+    "price": 570,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Charm porta Airpods Pro FF Diamonds",
+    "brand": "Fendi",
+    "description": "Airpods® Pro case with clip and personalized ring. Presents diagonal FF closure with magnetic button. Leather construction with embossed mini FF motif. Metallic accessories with gold finish. Made in Italy",
+    "specification": "@Measurements: @Height : 5 cm @Depth : 3 cm @Width : 7 cm",
+    "categories": ["Accesories", "airpods holder"],
+    "colors": ["brown", "black", "pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_CharmportaAirpodsProFFDiamonds_marron1_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_CharmportaAirpodsProFFDiamonds_marron1_02.avif"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_CharmportaAirpodsProFFDiamonds_negro_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_CharmportaAirpodsProFFDiamonds_negro_02.avif"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_CharmportaAirpodsProFFDiamonds_rosa_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_CharmportaAirpodsProFFDiamonds_rosa_02.avif"
+        ]
+      }
+    ],
+    "price": 420,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Hair Bands",
+    "brand": "Fendi",
+    "description": "Two silk covered hair bands. One features a graphic print with the brand's iconic motifs in shades of beige and brown. The other is embellished with FF pattern. Made in Italy",
+    "specification": "@100 % silk",
+    "categories": ["Accesories", "hair bands", "bands"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_goma_marronoscuroyclaro.avif"
+        ]
+      }
+    ],
+    "price": 230,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Wrappy",
+    "brand": "Fendi",
+    "description": "Wrappy reversible design. To wear around the neck, knotted on the wrist or to add a touch of color to bags. Silk making. One of its sides is decorated with a print made up of iconic elements of the brand in brown tones and the other presents a beige FF graphic pattern. Made in Italy",
+    "specification": "@100% silk",
+    "categories": ["Accesories", "hair bands", "bands"],
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_wrappy_marronclaro_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_wrappy_marronclaro_02.avif"
+        ]
+      }
+    ],
+    "price": 170,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "ForEver Ring Brass",
+    "brand": "Fendi",
+    "description": "Wide band ring with two thin circles that can also be used as a bandana ring. Made of metal with a gold finish. Decorated with the FF motif enameled in black tones. Made in Italy",
+    "specification": "@100% brass",
+    "categories": ["Accesories", "ring"],
+    "colors": ["gold"],
+    "sizes": ["S", "M", "L"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_ring_gold_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_ring_gold_02.avif"
+        ]
+      }
+    ],
+    "price": 270,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "ForEver Ring",
+    "brand": "Fendi",
+    "description": "Wide band ring with openwork FF motif. Made of metal with a gold finish. Made in Italy",
+    "specification": "@Composition: 100% bronze @Measures: Band height : 1 cm",
+    "categories": ["Accesories", "ring"],
+    "colors": ["gold"],
+    "sizes": ["S", "M", "L"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_ring2_gold_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_ring2_gold_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_ring2_gold_03.avif"
+        ]
+      }
+    ],
+    "price": 290,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Fendigraphy",
+    "brand": "Fendi",
+    "description": "Letter D-shaped case in stainless steel with a shiny gold PVD coating. Crown with engraved FF logo. Champagne sunray dial, gold-colored indices and radial-cut gold-colored hands. 25mm rectangular link bracelet in gold PVD-coated stainless steel with tone-on-tone Fendi logo lettering. folding buckle",
+    "specification": "@100% stainless steel with yellow IP",
+    "categories": ["Accesories", "hair bands", "bands"],
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_watch_gold_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_watch_gold_02.jpg"
+        ]
+      }
+    ],
+    "price": 1300,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Forever Necklace",
+    "brand": "Fendi",
+    "description": "Fine chain necklace with intertwined FF pendants. Made of metal with a gold finish. Made in Italy",
+    "specification": "@100% bronze",
+    "categories": ["Accesories", "watch"],
+    "colors": ["gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_necklace_gold_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_necklace_gold_02.jpg"
+        ]
+      }
+    ],
+    "price": 380,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "F Is Fendi Necklace",
+    "brand": "Fendi",
+    "description": "Chain necklace with ornaments in the F is Fendi logo shape. Small clip fastening and logo nameplate. Made of metal. Made in Italy",
+    "specification": "@100% Bronze, 100% Zircon",
+    "categories": ["Accesories", "watch"],
+    "colors": ["gold", "silver", "pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_FIsFendi_gold_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_FIsFendi_gold_02.avif"
+        ]
+      },
+      {
+        "color": "silver",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_FIsFendi_silver_01.avif"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/fendi_necklace_gold_01.avif"
+        ]
+      }
+    ],
+    "price": 430,
+    "stock": [
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "silver",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Hard case for mobile phone",
+    "brand": "Fendi",
+    "description": "iPhone® 14 case with ring. Made of leather with embossed FF motif. Metallic accessories with gold finish. Made in Italy",
+    "specification": "@Height : 14.5 cm @Depth : 1.5 cm @Width : 7.5 cm",
+    "categories": ["Accesories", "Hard case", "case"],
+    "colors": ["brown", "black", "pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_funda_marron_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_funda_marron_02.avif"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_funda_negro_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_funda_negro_02.avif"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_funda_rosa_01.avif",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/Accesories/accesories_funda_rosa_02.avif"
+        ]
+      }
+    ],
+    "price": 630,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  }
+]
