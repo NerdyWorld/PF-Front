@@ -782,7 +782,6 @@ body {
   left: 0;
   width: 530px;
   height: 100vh;
-
   background-color: #f5f5f562;
   box-shadow: 8px 0 10px -6px rgba(0, 0, 0, 1);
   display: flex;
@@ -803,8 +802,8 @@ body {
   left: 0; 
   padding: 10px 0 0 20px;
   right: auto;
-  color: rgb(255, 255, 255);
-  font-weight: 500;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
   z-index: 1202;
   letter-spacing: 2.5px;
   font-family: "futuraStd";
