@@ -1,0 +1,15 @@
+/* Home.module.css */
+
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  /* Centra verticalmente */
+  height: 100vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
+}
+
+.titulo {
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 5rem;
+  /* Añade otros estilos según tus preferencias */
+}

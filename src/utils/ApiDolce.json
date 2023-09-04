@@ -1,0 +1,2367 @@
+[
+  {
+    "name": "Re-Edition sunglasses ",
+    "brand": "Dolce & Gabbana",
+    "description": "New colours for the RE-EDITION family: a modern touch to the lively look of Carretto. Made in Italy",
+    "specification": "@Blue opaline acetate temples @Blue gradient silver mirror lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Blue"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Re-Edition+sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Re-Edition+sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Re-Edition+sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 345,
+    "stock": [
+      {
+        "color": "Blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG Elastic Sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "The new DG ELASTIC family features a geometric design and square profiles. The temples are wide and embellished with a print that recalls the iconic Dolce&Gabbana elastic logo. Made in Italy",
+    "specification": "@Black nylon fiber frame @Black nylon fiber temples @Dark grey lenses @100% UV protection ",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Elastic+Sunglasses+frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Elastic+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Elastic+Sunglasses+Lateral.webp"
+        ]
+      }
+    ],
+    "price": 315,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Maiolica Sunglasses ",
+    "brand": "Dolce & Gabbana",
+    "description": "The evolution of the iconic Print Family: the distinctive brand pattern for a unique look. Made in Italy",
+    "specification": "@Maiolica fucsia acetate frame @Maiolica fucsia acetate temples @Pink lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["pink"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Maiolica+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Maiolica+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Maiolica+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 345,
+    "stock": [
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG Crossed Sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "A new chapter for the DG Crossed family: featuring the iconic Dolce&Gabbana feminine shapes combined with the DG monogram. Made in Italy",
+    "specification": "@Black acetate frame @Black acetate temples @Dark grey lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Crossed+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Crossed+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Crossed+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 315,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG Barocco Sunglasses ",
+    "brand": "Dolce & Gabbana",
+    "description": "DG Barocco, Dolce&Gabbana's new Eyewear family, featuring modern acetate geometrical shapes for an ultra-feminine look.  Made in Italy",
+    "specification": "@White acetate frame @White acetate temples @Clear mirror silver lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Barocco+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Barocco+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Barocco+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 410,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG Light Sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "Lightness and minimalist elegance for a unique refined lookcharacterize the DG Light Dolce&Gabbana sunglasses.  Made in Italy",
+    "specification": "@Black metal frame @Black metal temples @Dark grey lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Light+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Light+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DG+Light+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 345,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "New Print Sunglasses ",
+    "brand": "Dolce & Gabbana",
+    "description": "The evolution of the iconic Print Family:the distinctive brand pattern now plays with different colours for a unique look.  Made in Italy",
+    "specification": "@Blue on Blue Maiolica frame @Blue on Blue Maiolica acetate temples @Light blue lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Blue"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/New+Print+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/New+Print+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/New+Print+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 345,
+    "stock": [
+      {
+        "color": "Blue",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Half Print Sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "The evolution of the iconic Print Family:the distinctive brand pattern now plays with different colours for a unique look. Made in Italy",
+    "specification": "@Havana on carretto acetate frame @Gold metal temples @Brown lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["brown"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Half+Print+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Half+Print+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Half+Print+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 370,
+    "stock": [
+      {
+        "color": "brown",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DNA sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "A retro-inspired squared shape is designed for a modern and elegant look. Made in Italy",
+    "specification": "@Black acetate frame @Black acetate temple @Dark grey lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DNA+sunglasses+Frontal.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DNA+sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/DNA+sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 315,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Re-Edition Dna Sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "An exploration of the Dolce&Gabbana heritage: vintage and narrow shapes celebrating the 90’s/2000’s aesthetic vibes. Made in Italy",
+    "specification": "@Black acetate frame @Black acetate temples @Dark grey lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Re-Edition+Dna+Sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Re-Edition+Dna+Sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Re-Edition+Dna+Sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 345,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Happy Gardensunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "A Dolce&Gabbana narration of summer freshness and energy,characterized by a oversized bold shape and vibrant colors. Made in Italy",
+    "specification": "@Red acetate frame @Red acetate temples @Dark grey lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["red"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Happy+Gardensunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Happy+Gardensunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Happy+Gardensunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 825,
+    "stock": [
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Narrow sunglasses ",
+    "brand": "Dolce & Gabbana",
+    "description": "Elegant and sophisticated narrow sunglasses, embellished with silver crystals on frontal frame and temples.This unique style is hand-made produced in 50 pieces. Made in Italy",
+    "specification": "@Silver metal frame with crystals @Silver metal temples with crystals @Smoke lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["white"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Narrow+sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Narrow+sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Narrow+sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 1420,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG Bella sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "Dolce&Gabbana's new Eyewear family, featuring modern acetate shapes and vibrant colors. Made in Italy",
+    "specification": "@Metallic grey acetate frame @Metallic grey acetate temples @Light grey mirror silver lenses @100% UV protection",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["gray"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "gray",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Narrow+sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Narrow+sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Narrow+sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 1420,
+    "stock": [
+      {
+        "color": "gray",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Flowers sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "An outerwear focused collection revamped with the iconic flower prints and an explosion of color: a floral & hyper-coloured winter garden. Made in Italy",
+    "specification": "@Black shiny nylon fiber frame @Black elastic temples with white logo @Smoke lenses mirrorred silver with DG crossed @100% UV protection ",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Flowers+sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Flowers+sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Flowers+sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 755,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Zebra sunglasses",
+    "brand": "Dolce & Gabbana",
+    "description": "a reinterpretation of Dolce&Gabbana heritage with a contemporary touch. Made in Italy",
+    "specification": "@Black&zebra print acetate frame @Black&zebra print acetate temples @Light grey gradient black lenses @100% UV protectionMeasurements",
+    "categories": ["sunglasses"],
+    "care": "Wash your eyeglasses every day with warm water and a pH-neutral soap.Do not use alcohol, aggressive chemical products or disinfectant wipes and do not dry them with paper or other cloths that could scratch them or leave streaks.Dry with a clean microfiber cloth.After use, always place the eyeglasses back in their case.",
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Zebra+sunglasses+Frontal.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Zebra+sunglasses+Lado.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/SunglassesDolce/Zebra+sunglasses+Lateral.jpg"
+        ]
+      }
+    ],
+    "price": 575,
+    "stock": [
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG Logo Bag shoulder bag in calfskin",
+    "brand": "Dolce & Gabbana",
+    "description": "Iconic codes are reinterpreted in a modern key to create a new vision of the brand's DNA. Characterized by a refined design with geometric lines, this shoulder bag pays homage to the logo. Made entirely of calfskin, it stands out with the quilted DG logo with a three-dimensional effect and includes an adjustable and removable strap.",
+    "specification": "@Cierre de solapa con doble imán oculto @Forro de alcántara, bolsillo con cremallera y compartimento con tira con botón a presión @Artículo con bolsa protectora con logotipo @Medidas: 16 x 20 x 5,5 cm @Hecho en Italia @Composición externa: 100 % Piel de becerro",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "red", "black"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_rojo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_rojo_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolera_negro_05.jpg"
+        ]
+      }
+    ],
+    "price": 1195,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Medium crossbody bag in calfskin DG Logo",
+    "brand": "Dolce & Gabbana",
+    "description": "Iconic codes are reinterpreted in a modern key to create a new vision of the brand's DNA. Characterized by a refined design with geometric lines, this new shoulder bag pays homage to the logo, the absolute star of the new collection. Practical and versatile, it is made entirely of calfskin and embellished with the quilted DG logo with a three-dimensional effect. It features an adjustable and removable strap.",
+    "specification": "@Zip closure with double puller with logo @Alcantara lining, zip pocket and compartment with snap-button strap @Article with protective bag with logo @Sizes. 16 x 20 x 5.5 cm @Made in Italy @External composition: 100% Calfskin @Internal composition: 56% Polyester 20% Calfskin 16% Polyurethane 5% Viscose 2% Polyamide 1% Elastane",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "red", "black"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_rojo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_rojo_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldoleramediano_negro_05.jpg"
+        ]
+      }
+    ],
+    "price": 1445,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Small DG Logo Bag shoulder bag in calfskin",
+    "brand": "Dolce & Gabbana",
+    "description": "Iconic codes are reinterpreted in a modern key to create a new vision of the brand's DNA. Characterized by a refined design with geometric lines, this new shoulder bag pays homage to the logo, the absolute star of the new collection. Practical and compact, it is made entirely of calfskin and embellished with the quilted DG logo with a three-dimensional effect. It features an adjustable and removable strap.",
+    "specification": "@Zip closure with double puller with logo @Alcantara lining, zip pocket and compartment with snap-button strap @Article with protective bag with logo @Sizes. 11 x 20 x 5.5 cm @Made in Italy @External composition: 100% Calf Leather @Internal composition: 100% Calf Leather",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["beige", "red", "black"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_beige_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_beige_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_beige_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_beige_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_beige_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_rojo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_rojo_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_baldolerasmall_negro_05.jpg"
+        ]
+      }
+    ],
+    "price": 1195,
+    "stock": [
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Medium Sicily handbag",
+    "brand": "Dolce & Gabbana",
+    "description": "An icon of the brand par excellence, this medium-sized Sicily bag is made of Dauphine calfskin. With simple and feminine lines, it is adorned with a big-galvanized plate with the logo.",
+    "specification": "@Flap with double concealed magnetic closure at front @Big galvanized logo plate @Top handle and adjustable and removable strap in Dauphine calfskin @Printed fabric lining @Inner zip pocket with logo and smartphone pocket @Metal braces on the base @Item with protective bag with logo @Measurements: W18.5 x L20 x D10 cm @Made in Italy @External composition: 100% Calfskin @Internal composition: 90% Cotton 10% Calfskin",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["yellow", "orange", "pink"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "yellow",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_amarillo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_amarillo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_amarillo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_amarillo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_amarillo_05.jpg"
+        ]
+      },
+      {
+        "color": "orange",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_naranja_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_naranja_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_naranja_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_naranja_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_naranja_05.jpg"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_rosa_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_rosa_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_rosa_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_rosa_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicily_rosa_05.jpg"
+        ]
+      }
+    ],
+    "price": 1745,
+    "stock": [
+      {
+        "color": "yellow",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "orange",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Small Sicily handbag",
+    "brand": "Dolce & Gabbana",
+    "description": "An icon of the brand, the Sicily bag is practical and compact, and ideal for carrying personal belongings. Made of Dauphine calfskin, it features an adjustable and removable strap and is embellished with a big-galvanized logo plate.",
+    "specification": "@Flap with double concealed magnetic closure at front @Big galvanized logo plaque @Top handle and adjustable and removable strap in Dauphine calfskin @Printed fabric lining and flat pocket @Item with logoed protective pouch @Measurements: W13 x L19 x D6 cm @Made in Italy @Composition de l'extérieur : 100% Cuir de veau @Composition de l'intérieur : 80% Cotton 20% Cuir de veau",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["yellow", "orange", "pink"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "yellow",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_amarillo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_amarillo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_amarillo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_amarillo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_amarillo_05.jpg"
+        ]
+      },
+      {
+        "color": "orange",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_naranja_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_naranja_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_naranja_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_naranja_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_naranja_05.jpg"
+        ]
+      },
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_rosa_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_rosa_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_rosa_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_rosa_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_sicilysmall_rosa_05.jpg"
+        ]
+      }
+    ],
+    "price": 1495,
+    "stock": [
+      {
+        "color": "yellow",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "orange",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "pink",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "KIM DOLCE&GABBANA Medium Sicily handbag",
+    "brand": "Dolce & Gabbana",
+    "description": "The fusion and alchemy between the history and creativity of the designers and the contemporary vision of Kim Kardashian, an icon of style and beauty, make up the heart of the new Sfilata collection. The brand's origins and precious archives are reinterpreted to breathe new life into Dolce&Gabbana's DNA.",
+    "specification": "@Flap with double concealed magnetic closure at front @Big galvanized logo plate @Top handle and adjustable and removable strap in shiny calfskin @Printed fabric lining @Inner zip pocket with logo and smartphone pocket @Metal braces on back base @Item with protective bag with logo @Measurements: W18.5 x L20 x D10 cm @Made in Italy @External composition: 100% Calfskin @Internal composition: 88% Cotton 12% Calfskin",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["grey", "black", "beige"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_gris_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_gris_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_gris_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_gris_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_gris_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_negro_05.jpg"
+        ]
+      },
+      {
+        "color": "beige",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_beige_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_beige_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_beige_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_beige_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_KIMsicily_beige_05.jpg"
+        ]
+      }
+    ],
+    "price": 1945,
+    "stock": [
+      {
+        "color": "grey",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "beige",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Large Devotion bag in quilted nappa leather",
+    "brand": "Dolce & Gabbana",
+    "description": "The new large bag in the Devotion line is made of quilted nappa leather. Characterized by double quilting and the iconic leopard print lining, it presents the exclusive heart-shaped jewel clasp with a vintage gold finish and a strap inspired by the haute jewelery manufacture.",
+    "specification": "@Sliding chain strap with nappa insert, to allow it to be worn on the shoulder or across the body @Front flap with jeweled heart with logo handcrafted with metal alloy and pearls @Concealed press-stud closure @Printed fabric interior with pocket characterized by the zipper with Devotion slider @Article supplied with a protective bag with the @Measures logo. 16 x 26 x 5 cm @Made in Italy @External composition: 100% Lambskin @Internal composition: 55% Lambskin, 45% Cotton",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "black", "red"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_negro_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionGrande_rojo_04.jpg"
+        ]
+      }
+    ],
+    "price": 2795,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Devotion baguette bag in quilted nappa leather",
+    "brand": "Dolce & Gabbana",
+    "description": "The Devotion line is enriched with new models. Made entirely of quilted nappa leather, this new baguette bag is characterized by a removable strap that allows it to be carried in the hand and is embellished with the exclusive jewel-like heart clasp with an aged gold finish.",
+    "specification": "@Front flap with jewel-like heart with logo made of metallic alloy and pearls set @Concealed press-stud closure @Removable chain strap with nappa insert @Nappa lining with pocket with Devotion zip puller @Item with protective bag with logo @Measures: 12 x 28 x 5 cm @Made in Italy @External composition: 100% Lambskin @Internal composition: 97% Lambskin 3% Viscose",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "black", "red"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_negro_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_rojo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_Devotion_rojo_05.jpg"
+        ]
+      }
+    ],
+    "price": 2795,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Small Devotion bag in plain velvet",
+    "brand": "Dolce & Gabbana",
+    "description": "Small bag, from the Devotion line, with a handle on the top, made of precious calfskin and characterized by a heart-shaped clasp, made of a jewel, as well as a strap inspired by haute jewelery work.",
+    "specification": "@Top handle and removable strap @Front flap with bejeweled heart and logo, handcrafted using metal casting and pearl inserts @Hidden magnet closure and personalized heart @Internal structure in calfskin with pocket flat @Protective bag and packaging with logo included with the item @Measures. 19 x 13 x 4.5 cm @Made in Italy @External composition:100% Lamb @Internal composition:100% Calf",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "black", "red"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_negro_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_rojo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DevotionChico_rojo_05.jpg"
+        ]
+      }
+    ],
+    "price": 1775,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Rose-shaped resin Dolce Box bag",
+    "brand": "Dolce & Gabbana",
+    "description": "A symbol of femininity, the rose is transformed into this Dolce Box bag, which represents the brand's craftsmanship, love and attention to detail. Made of hand-painted resin, it features a top handle and an adjustable and removable strap in calfskin with an iguana motif.",
+    "specification": "@Snap button closure @Top handle and adjustable and removable strap in calfskin with iguana motif @Nappa lining @Item with special packaging @Sizes. 21 x 22 x 13.5 cm @Made in Italy @External composition: 85% Polylactic acid 15% Calfskin @Internal composition: 100% Lambskin",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "black", "red"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_negro_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_negro_05.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_rojo_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_rojo_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_rojo_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_rojo_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBoxRose_rojo_05.jpg"
+        ]
+      }
+    ],
+    "price": 7345,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "red",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Resin Dolce Box bag with rhinestones",
+    "brand": "Dolce & Gabbana",
+    "description": "An icon of the brand, the Dolce Box bag represents the brand's craftsmanship, love and attention to detail. Precious and elegant, it is made of galvanized resin with a quilted effect and embellished with a rhinestone application. It features a top handle and an adjustable and removable strap in mirror-effect calfskin.",
+    "specification": "@Closing with metal padlock and enameled flower @Top handle and adjustable and removable strap in mirror-effect calfskin @Calfskin lining and inside pocket with hidden magnetic closure @Item with special packaging @Sizes. 14.5 x 19 x 7 cm @Made in Italy @External composition: 65% Resin 15% Calfskin 8% Crystal 8% Polylactic acid 4% Zamak @Internal composition: 100% Calfskin",
+    "categories": ["Bags", "Women", "underarm"],
+    "colors": ["white", "black", "gold"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_blanco_05.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_negro_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_negro_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_negro_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_negro_04.jpg"
+        ]
+      },
+      {
+        "color": "gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_gold_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_gold_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_gold_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_gold_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_resinDolceBox_gold_05.jpg"
+        ]
+      }
+    ],
+    "price": 7795,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "black",
+        "stock": "100",
+        "sold": 0
+      },
+      {
+        "color": "gold",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Dolce Box handbag",
+    "brand": "Dolce & Gabbana",
+    "description": "The new collection is inspired by the ancient ceramics of Caltagirone, where shades of white and fuchsia are combined in a tribute to Sicilian majolica and craftsmanship, and reinterprets them in a modern key. This iconic Dolce Box bag made of resin is characterized by the entirely hand-painted Maiolica motif.",
+    "specification": "@Fuchsia @Closing with palladium-plated metal padlock and enameled flower @Top handle and adjustable and removable strap in shiny calfskin @Calfskin lining and inside pocket with hidden magnetic closure @Item with special packaging @Measurements: A14, 5 x L19 x D7 cm @Made in Italy @External composition: 85% Polylactic acid 15% Calfskin @Internal composition: 100% Calfskin",
+    "categories": ["Bags", "Women"],
+    "colors": ["fuchsia"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "fuchsia",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox_fucsia_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox_fucsia_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox_fucsia_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox_fucsia_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox_fucsia_05.jpg"
+        ]
+      }
+    ],
+    "price": 7995,
+    "stock": [
+      {
+        "color": "fuchsia",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Dolce Box bag in calfskin with 90's print",
+    "brand": "Dolce & Gabbana",
+    "description": "As an icon of the brand, the Dolce Box bag embodies the house's craftsmanship, love and attention to detail. Delicate and romantic, it is made of calfskin, with details in laminated calfskin and round studs on the upper part",
+    "specification": "@Closing with light gold galvanized padlock and enameled flower @Handle on the top and removable adjustable strap in laminated calfskin with galvanized vintage brass hooks @Calf lining and internal pocket with hidden magnet closure @Metal supports on the base @Article with special packaging @Measurements: 19 x 14.5 x 7 cm @Made in Italy @External composition: 100% Calfskin",
+    "categories": ["Bags", "Women"],
+    "colors": ["white"],
+    "sizes": ["default"],
+    "images": [
+      {
+        "color": "white",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox90_blanco_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox90_blanco_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox90_blanco_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox90_blanco_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Bags/Dolce%26Gabbana_cartera_DolceBox90_blanco_05.jpg"
+        ]
+      }
+    ],
+    "price": 4845,
+    "stock": [
+      {
+        "color": "white",
+        "stock": "100",
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Lace slingbacks",
+    "brand": "Dolce @ Gabanna",
+    "description": "Iconic and timeless, these lace Lollo slingbacks feature gros-grain piping and the DG logo appliqué on the heel.",
+    "specifications": "@90-mm heel with DG logo, @Kidskin insole with branded label, @Branded leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Black"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/1/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/1/2.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/1/3.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/1/4.webp"
+        ]
+      }
+    ],
+    "price": 875,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Polished calfskin pumps",
+    "brand": "Dolce @ Gabanna",
+    "description": "Bold and contemporary, these new polished calfskin pumps feature a branded sculptural heel with rhinestone embellishment.",
+    "specifications": "@105-mm heel with DG logo and rhinestones, @Kidskin insole with branded label, @Branded leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Black"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/2/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/2/2.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/2/3.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/2/4.webp"
+        ]
+      }
+    ],
+    "price": 1725,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Satin slingbacks with fusible rhinestones",
+    "brand": "Dolce @ Gabanna",
+    "description": "Elegant and sophisticated, this slingback from the Lollo line is made from satin and embellished with fusible rhinestones all over.",
+    "specifications": "@60-mm heel, Foiled kidskin insole with branded label, @Branded leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/3/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/3/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/3/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/3/4.jpg"
+        ]
+      }
+    ],
+    "price": 1775,
+    "stock": [
+      {
+        "color": "Pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Printed polished calfskin pumps",
+    "brand": "Dolce @ Gabanna",
+    "description": "Elegant and sophisticated, this slingback from the Lollo line is made from satin and embellished with fusible rhinestones all over.",
+    "specifications": "@105-mm heel with DG logo, @Printed kidskin insole with branded label, @Logo-print leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Animal print"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Animal print",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/4/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/4/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/4/3.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/4/4.jpg"
+        ]
+      }
+    ],
+    "price": 1175,
+    "stock": [
+      {
+        "color": "Animal print",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "KIM DOLCE&GABBANA Polished calfskin pumps",
+    "brand": "Dolce @ Gabanna",
+    "description": "The fusion and alchemy between the history and creativity of D&G’s designers and the contemporary vision of Kim Kardashian, style and beauty icon, lie at the heart of the new Runway collection.",
+    "specifications": "@Polished calfskin upper, @90-mm heel, @Kidskin insole with branded label, @Branded leather sole, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Cream"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Cream",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/5/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/5/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/5/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/5/4.jpg"
+        ]
+      }
+    ],
+    "price": 793,
+    "stock": [
+      {
+        "color": "Cream",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Polished calfskin Mary Janes",
+    "brand": "Dolce @ Gabanna",
+    "description": "These new Jackie Mary Janes come in polished calfskin with the metal DG logo cut-out. ",
+    "specifications": "@90-mm heel, @Kidskin insole with branded label, @Branded leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Black"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/6/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/6/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/6/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/6/4.jpg"
+        ]
+      }
+    ],
+    "price": 945,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin pumps",
+    "brand": "Dolce @ Gabanna",
+    "description": "These Lollo pumps feature a bold, tapered shape. Feminine and elegant, they feature the metal DG logo cut-out.",
+    "specifications": "@90-mm heel, @Kidskin insole with branded label, @Branded leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Black"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/7/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/7/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/7/3.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/7/4.webp"
+        ]
+      }
+    ],
+    "price": 1025,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin pumps in Brown",
+    "brand": "Dolce @ Gabanna",
+    "description": "These Lollo pumps feature a bold, tapered shape. Feminine and elegant, they feature the metal DG logo cut-out. ",
+    "specifications": "@90-mm heel, @Kidskin insole with branded label, @Branded leather sole, @Item comes with a branded dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Brown"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/8/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/8/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/8/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/8/4.jpg"
+        ]
+      }
+    ],
+    "price": 945,
+    "stock": [
+      {
+        "color": "Brown",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Printed polished calfskin slingbacks",
+    "brand": "Dolce @ Gabanna",
+    "description": "Iconic style is being given some contemporary edge, creating a new vision of the brand’s signature aesthetic. ",
+    "specifications": "@60-mm heel with DG logo, @Printed kidskin insole with branded label, @Logo-print leather sole, @Item comes with a branded dust bag , @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Brown"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/9/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/9/2.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/9/3.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/9/4.webp"
+        ]
+      }
+    ],
+    "price": 1045,
+    "stock": [
+      {
+        "color": "Brown",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "KIM DOLCE&GABBANA Satin slingbacks with fusible rhinestones ",
+    "brand": "Dolce @ Gabanna",
+    "description": "The fusion and alchemy between the history and creativity of D&G’s designers and the contemporary vision of Kim Kardashian, style and beauty icon, lie at the heart of the new Runway collection.",
+    "specifications": "@Fusible rhinestones on the satin upper, @105-mm heel, @Foiled kidskin insole with branded label, @Foiled leather sole with logo, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Grey"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/10/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/10/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/10/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/10/4.jpg"
+        ]
+      }
+    ],
+    "price": 1595,
+    "stock": [
+      {
+        "color": "Grey",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Patent leather and mesh slingbacks",
+    "brand": "Dolce @ Gabanna",
+    "description": "Iconic black and white are the key to the new DNA collection, where tradition and modernity merge to create unique, timeless style.",
+    "specifications": "@Mesh upper, @60-mm heel Calfskin toe, @Kidskin insole with branded label, @Branded leather sole, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Black"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/11/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/11/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/11/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/11/4.jpg"
+        ]
+      }
+    ],
+    "price": 825,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Patchwork denim slingbacks with rhinestone buckle",
+    "brand": "Dolce @ Gabanna",
+    "description": "The new “Denim” collection is the result of an evocative journey back to the brand’s roots, which have been reworked to add contemporary edge. Flaunting bold allure, the new Lollo slingbacks come in 100% patchwork denim. ",
+    "specifications": "@Patchwork denim upper, @60-mm heel,  @Kidskin insole with branded label, @Branded leather sole, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Blue"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Blue",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/12/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/12/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/12/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/12/4.jpg"
+        ]
+      }
+    ],
+    "price": 1145,
+    "stock": [
+      {
+        "color": "Blue",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Printed fabric slingbacks",
+    "brand": "Dolce @ Gabanna",
+    "description": "A tribute to love and life, the new Happy Garden collection tells the story of a woman who is surrounded by a flowering garden. Feminine and sophisticated, these new Lollo slingbacks come in 100% soft poppy-print fabric with the DG logo on the heel.",
+    "specifications": "@Printed fabric upper, @60-mm heel, @Kidskin insole with branded label, @Branded leather sole , @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/13/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/13/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/13/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/13/4.jpg"
+        ]
+      }
+    ],
+    "price": 895,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Zebra-print polished calfskin slingbacks",
+    "brand": "Dolce @ Gabanna",
+    "description": "The black and white of the new Zebra Collection are the stars of a new communicative mode where innovation and tradition come together to create bold sophisticated contrast.",
+    "specifications": "@105-mm heel with palladium-plated DG logo, @Kidskin insole with branded label, @Branded leather sole, @Item comes with themed packaging, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["Animal print"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Animal print",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/14/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/14/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/14/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/14/4.jpg"
+        ]
+      }
+    ],
+    "price": 995,
+    "stock": [
+      {
+        "color": "Animal print",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Pump in Taormina lace with crystals",
+    "brand": "Dolce @ Gabanna",
+    "description": "The Rainbow Lace collection is a special range of footwear and accessories in a wide array of colored lace, inspired by the thousand hues and facets of the rainbow.",
+    "specifications": "@90 mm heel covered in Taormina lace, @Swarovski crystals on the toe, @Leather insole with satin piping and logo label, @Logoed leather sole, @Exclusive lace-patterned packaging with matching branded satin dust bag, @Made in Italy",
+    "categories": ["Heels", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/15/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/15/2.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/15/3.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Heels/15/4.webp"
+        ]
+      }
+    ],
+    "price": 1045,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+
+  {
+    "name": "Necklace with DG logo and cherry charms",
+    "brand": "Dolce & Gabbana",
+    "description": "The absolute star of the new Black Sicily collection is black, the color of immortal elegance that encapsulates the most diverse facets of Dolce&Gabbana. They preserve the signature identity of the brand’s DNA, which is reworked in the light of the word synthesis.",
+    "specifications": "@Clasp fastening, @Nickel-free and hypoallergenic materials, @Engraved logo, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/1/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/1/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/1/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/1/4.jpg"
+        ]
+      }
+    ],
+    "price": 1195,
+    "stock": [
+      {
+        "color": "Gold",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Link necklace with DG logo and tag",
+    "brand": "Dolce & Gabbana",
+    "description": "The Dolce&Gabbana Jewelry Collection is filled with unique pieces boasting great craftsmanship. Contemporary accessories with original and exclusive DG logo details, featuring different plated finishes, will be perfect for finishing off any look with style. ",
+    "specifications": "@Clasp fastening, @Nickel-free and hypoallergenic materials, @Engraved logo, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/2/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/2/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/2/3.jpg"
+        ]
+      }
+    ],
+    "price": 845,
+    "stock": [
+      {
+        "color": "Gold",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Creole earrings with DG logo",
+    "brand": "Dolce & Gabbana",
+    "description": "The Dolce&Gabbana Jewelry Collection is filled with unique pieces boasting great craftsmanship. Contemporary accessories with original and exclusive DG logo details, featuring different plated finishes, will be perfect for finishing off any look with style. ",
+    "specifications": "@Creole fastening with pin, @Nickel-free and hypoallergenic materials, @Engraved logo, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/3/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/3/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/3/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/3/4.jpg"
+        ]
+      }
+    ],
+    "price": 335,
+    "stock": [
+      {
+        "color": "Gold",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Choker with DG logos",
+    "brand": "Dolce & Gabbana",
+    "description": "The Dolce&Gabbana Jewelry Collection is filled with unique pieces boasting great craftsmanship. Contemporary accessories with original and exclusive DG logo details, featuring different plated finishes, will be perfect for finishing off any look with style.",
+    "specifications": "@Nickel-free and hypoallergenic materials, @Engraved logo, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/4/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/4/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/4/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/4/4.jpg"
+        ]
+      }
+    ],
+    "price": 1745,
+    "stock": [
+      {
+        "color": "Gold",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "earrings with DG logo",
+    "brand": "Dolce & Gabbana",
+    "description": "The Dolce&Gabbana Jewelry Collection is filled with unique pieces boasting great craftsmanship. Contemporary accessories with original and exclusive DG logo details, featuring different plated finishes, will be perfect for finishing off any look with style. ",
+    "specifications": "@Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/5/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/5/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/5/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/5/4.jpg"
+        ]
+      }
+    ],
+    "price": 335,
+    "stock": [
+      {
+        "color": "Gold",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Gabardine baseball cap with DG logo",
+    "brand": "Dolce & Gabbana",
+    "description": "Since the very beginning, the style of the Sicilian Carretto carts has been an indelible part of Dolce&Gabbana. The amazement that these marvelous, beautiful works of art inspire when you first see them led our designers to put a fresh spin on the vision behind them. ",
+    "specifications": "@Lined, Rigid peak, @Logo tag, Gros-grain sweatband on the interior, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["White"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/6/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/6/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/6/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/6/4.jpg"
+        ]
+      }
+    ],
+    "price": 435,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Bucket hat with Majolica print",
+    "brand": "Dolce & Gabbana",
+    "description": "Against a striking white base, evoking the dazzling sunlight shining on houses facing the sea, the ‘calligraphic-naturalistic’ decoration here in deep fuchsia  adorning Majolica pottery from Caltagirone is the inspiration for the FW 23-24 collection.",
+    "specifications": "@Multi-colored, @Lined, @Gros-grain sweatband on the interior , @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["White"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/7/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/7/2.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/7/3.webp"
+        ]
+      }
+    ],
+    "price": 485,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baseball cap with Majolica print",
+    "brand": "Dolce & Gabbana",
+    "description": "The two-tone effect takes us on a journey of discovery into iconic and authentic shapes and styles made all the more special by unique, non-repeating placed patterns that celebrate original craftsmanship, lightness and femininity.",
+    "specifications": "@Lined,Adjustable buckle,@Rigid peak, @Gros-grain sweatband on the interior, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["White"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/8/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/8/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/8/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/8/4.jpg"
+        ]
+      }
+    ],
+    "price": 485,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Baseball cap with Majolica-print scarf Multicolor",
+    "brand": "Dolce & Gabbana",
+    "description": "Against a striking white base, evoking the dazzling sunlight shining on houses facing the sea, the ‘calligraphic-naturalistic’ decoration – here in deep fuchsia,  adorning Majolica pottery from Caltagirone is the inspiration for the FW 23-24 collection. ",
+    "specifications": "@Lined, Adjustable buckle, @Rigid peak, @Gros-grain sweatband on the interior , @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Red"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Red",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/9/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/9/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/9/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/9/4.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/9/5.jpg"
+        ]
+      }
+    ],
+    "price": 975,
+    "stock": [
+      {
+        "color": "Red",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Carretto-print baseball cap",
+    "brand": "Dolce & Gabbana",
+    "description": "Since the very beginning, the style of the Sicilian Carretto carts has been an indelible part of Dolce&Gabbana. The amazement that these marvelous, beautiful works of art inspire when you first see them led our designers to put a fresh spin on the vision behind them.",
+    "specifications": "@Lined, Adjustable buckle, @Rigid peak, @Gros-grain sweatband on the interior, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Azure"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Azure",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/10/1.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/10/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/10/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/10/4.jpg"
+        ]
+      }
+    ],
+    "price": 485,
+    "stock": [
+      {
+        "color": "Azure",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Nylon baseball cap with DG graffiti print",
+    "brand": "Dolce & Gabbana",
+    "description": "The black and white graffiti print is the star of this cap that will add some modern, contemporary allure to your looks.",
+    "specifications": "@Graffiti print, @made with Nylon, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["White"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/11/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/11/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/11/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/11/4.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/11/5.jpg"
+        ]
+      }
+    ],
+    "price": 415,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Sofia steel watch with colorless diamonds",
+    "brand": "Dolce & Gabbana",
+    "description": "Sofia steel watch with colorless diamonds",
+    "specifications": "@Material. 316L steel, Size. 24 x 24 mm, Glass. “sapphire” glass with geometrical facets, Bottom clasp. @with four side screws and safety closure, @Crown. 316L steel set with 1 rose cut black diamond , @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/12/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/12/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/12/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/12/4.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/12/5.jpg"
+        ]
+      }
+    ],
+    "price": 2450,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Iris watch in rose gold with multi-colored fine gems",
+    "brand": "Dolce & Gabbana",
+    "description": "Iris watch in rose gold with multi-colored fine gems",
+    "specifications": "@Indication of hours and minutes, @Material: 18k rose gold, @sapphire crystal, @Water resistance, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Purple"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Purple",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/13/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/13/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/13/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/13/4.jpg"
+        ]
+      }
+    ],
+    "price": 2645,
+    "stock": [
+      {
+        "color": "Purple",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Gold watch with silk strap",
+    "brand": "Dolce & Gabbana",
+    "description": "Watch from the SOFIA line with 100% pure blue silk satin strap.",
+    "specifications": "@Indication of hours and minutes, @Material: 18k rose gold, @sapphire crystal, @Water resistance, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Gold"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Gold",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/14/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/14/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/14/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/14/4.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/14/5.png"
+        ]
+      }
+    ],
+    "price": 3540,
+    "stock": [
+      {
+        "color": "Gold",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "DG7 Barocco",
+    "brand": "Dolce & Gabbana",
+    "description": "DG7 Barocco watch with black satin strap.",
+    "specifications": "@Functions. hour and minute hands, @Dial. satin-finished black enamel dial with rose gold DG logo - Hands, @Made in Italy",
+    "categories": ["Accesories", "Women"],
+    "colors": ["Black"],
+    "sizes": ["Default"],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/15/1.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/15/2.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/15/3.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/15/4.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/15/5.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/Dario/Accesories/accesories/15/6.jpg"
+        ]
+      }
+    ],
+    "price": 1750,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Mixed-materials Daymaster sneakers",
+    "brand": "Dolce & Gabbana",
+    "description": "Understated and light, these nylon Daymaster sneakers feature suede and rubberized calfskin details. Featuring the DG logo patch, they have the super-flex rubber sole.",
+    "specifications": "@Nylon Daymaster sneakers with calfskin and suede details and the DG logo patch: @Multi-colored @Branded heel cup @Tubular laces with drawstring @Calfskin footbed with branded label @Extra-light rubber bottom assembly @Item comes with a branded dust bag @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Brown"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Brown",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Mixed-materialsDaymasterSneakers_Brown_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Mixed-materialsDaymasterSneakers_Brown_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Mixed-materialsDaymasterSneakers_Brown_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Mixed-materialsDaymasterSneakers_Brown_04.webp"
+        ]
+      }
+    ],
+    "price": 895,
+    "stock": [
+      {
+        "color": "Brown",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin New Roma sneakers White",
+    "brand": "Dolce & Gabbana",
+    "description": "The understated shape of the iconic Roma sneakers and the contemporary allure of the Miami line merge to create the New Roma. Coming in 100% calfskin, they feature tonal 3D-effect details and the contrasting DG logo on the tongue.",
+    "specifications": "@Calfskin New Roma sneakers: @White @Flat laces @Calfskin footbed with branded label @Branded rubber sole and bottom assembly @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_CalfskinNewRomaSneakersWhite_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_CalfskinNewRomaSneakersWhite_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_CalfskinNewRomaSneakersWhite_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_CalfskinNewRomaSneakersWhite_04.jpg"
+        ]
+      }
+    ],
+    "price": 775,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin New Roma sneakers Pink",
+    "brand": "Dolce & Gabbana",
+    "description": "The understated shape of the iconic Roma sneakers and the contemporary allure of the Miami line merge to create the New Roma. Coming in 100% calfskin, it features contrasting 3D-effect details and the DG logo on the tongue.",
+    "specifications": "@Calfskin upper @Flat laces @Calfskin footbed with branded label @Branded rubber bottom assembly and branded sole @Item comes with themed packaging @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Pink_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Pink_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Pink_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Pink_04.jpg"
+        ]
+      }
+    ],
+    "price": 775,
+    "stock": [
+      {
+        "color": "pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin New Roma sneakers Grey",
+    "brand": "Dolce & Gabbana",
+    "description": "The understated shape of the iconic Roma sneakers and the contemporary allure of the Miami line merge to create the New Roma. Coming in calfskin with nubuck details, they feature contrasting 3D-effect details and the contrasting DG logo on the tongue...",
+    "specifications": "@Calfskin New Roma sneakers: @Calfskin upper @Flat laces @Calfskin footbed with branded label @Branded rubber sole and bottom assembly @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Grey"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Grey",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Grey_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Grey_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Grey_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakers+Grey_04.jpg"
+        ]
+      }
+    ],
+    "price": 775,
+    "stock": [
+      {
+        "color": "Grey",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin New Roma sneakers All-White",
+    "brand": "Dolce & Gabbana",
+    "description": "A new model is joining the sneaker collection. The understated shape of the iconic Roma sneakers and the contemporary allure of the Miami line merge to create the New Roma. Coming in 100% calfskin, they feature tonal 3D-effect details and the contras...",
+    "specifications": "@Calfskin upper @Flat laces @Calfskin footbed with branded label @Branded rubber bottom assembly and branded sole @Item comes with themed packaging @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakersAllWhite_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakersAllWhite_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakersAllWhite_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+New+Roma+sneakersAllWhite_04.jpg"
+        ]
+      }
+    ],
+    "price": 775,
+    "stock": [
+      {
+        "color": "",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Calfskin Portofino sneakers",
+    "brand": "Dolce & Gabbana",
+    "description": "These iconic Portofino sneakers come in calfskin nappa leather. Featuring understated lines, they are embellished with the DG logo patch in two-tone calfskin.",
+    "specifications": "@Calfskin Portofino sneakers with DG logo patch: @White @Calfskin heel cup @Flat laces @Calfskin insole with branded label @Rubber bottom with branded spoiler @Branded rubber sole @Item comes with a branded dust bag @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+Portofino+sneakers_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+Portofino+sneakers_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+Portofino+sneakers_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Calfskin+Portofino+sneakers_04.jpg"
+        ]
+      }
+    ],
+    "price": 725,
+    "stock": [
+      {
+        "color": "Pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Portofino vintage calfskin sneakers",
+    "brand": "Dolce & Gabbana",
+    "description": "These iconic Portofino sneakers come in a new version boasting vintage allure featuring soft, deconstructed lines.",
+    "specifications": "@Calfskin Portofino Vintage sneakers: @White @Contrasting calfskin heel cup @Flat laces @Calfskin footbed with branded label @Rubber bottom with branded spoiler @Branded rubber sole @Item comes with a branded dust bag @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers_04.jpg"
+        ]
+      }
+    ],
+    "price": 525,
+    "stock": [
+      {
+        "color": "Pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Portofino vintage calfskin sneakers White Black & Gold",
+    "brand": "Dolce & Gabbana",
+    "description": "These iconic Portofino sneakers come in a new version boasting vintage allure featuring soft, deconstructed lines.",
+    "specifications": "@Calfskin Portofino Vintage sneakers: @White @Contrasting foiled Dauphine calfskin heel cup @Flat laces @Calfskin footbed with branded label @Rubber bottom with branded spoiler @Branded rubber sole @Item comes with a branded dust bag @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+White+Black+%26+Gold_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+White+Black+%26+Gold_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+White+Black+%26+Gold_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+White+Black+%26+Gold_04.jpg"
+        ]
+      }
+    ],
+    "price": 575,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Portofino vintage calfskin sneakers DG",
+    "brand": "Dolce & Gabbana",
+    "description": "These iconic Portofino sneakers come in a new version boasting vintage allure featuring soft, deconstructed lines.",
+    "specifications": "@Portofino Vintage calfskin sneakers with rhinestone-detailed DG logo: @White @Contrasting foiled Dauphine calfskin heel cup @Flat laces @Calfskin footbed with branded label @Rubber bottom with branded spoiler @Branded rubber sole @Item comes with a branded dust bag @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+DG_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+DG_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+DG_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Portofino+vintage+calfskin+sneakers+DG_04.jpg"
+        ]
+      }
+    ],
+    "price": 945,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Stretch mesh Fast sneakers White & Black",
+    "brand": "Dolce & Gabbana",
+    "description": "The iconic Sorrento slip-on sneakers come in a new contemporary version. Featuring the new ultra-light sole, they come in stretch mesh with the logo tape print and have contrasting details that emphasize the silhouette.",
+    "specifications": "@Stretch mesh Fast sneakers with logo: @Printed stretch knit upper @Branded pull-tab @Calfskin footbed with branded label @Extra-light two-tone sole @Packaging matches the item @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["White"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "White",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+White+%26+Black_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+White+%26+Black_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+White+%26+Black_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+White+%26+Black_04.webp"
+        ]
+      }
+    ],
+    "price": 695,
+    "stock": [
+      {
+        "color": "White",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Stretch mesh Fast sneakers Pink",
+    "brand": "Dolce & Gabbana",
+    "description": "The iconic Sorrento slip-on sneakers come in a new contemporary version. Featuring the new ultra-light sole, they come in stretch mesh with the logo tape print and have contrasting details that emphasize the silhouette.",
+    "specifications": "@Stretch mesh Fast sneakers with logo: @Printed stretch knit upper @Branded pull-tab @Calfskin footbed with branded label @Extra-light two-tone sole @Packaging matches the item @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Pink_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Pink_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Pink_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Pink_04.webp"
+        ]
+      }
+    ],
+    "price": 695,
+    "stock": [
+      {
+        "color": "Pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Stretch mesh Fast sneakers Gabbana",
+    "brand": "Dolce & Gabbana",
+    "description": "The iconic Sorrento slip-on sneakers come in a new contemporary version. Featuring the new ultra-light sole, they come in stretch mesh with the logo tape print and have contrasting details that emphasize the silhouette.",
+    "specifications": "@Stretch mesh Fast sneakers with logo: @Printed stretch knit upper @Branded pull-tab @Calfskin footbed with branded label @Extra-light two-tone sole @Packaging matches the item @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Black"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Black",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Gabbana_01.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Gabbana_02.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Gabbana_03.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Stretch+mesh+Fast+sneakers+Gabbana_04.jpg"
+        ]
+      }
+    ],
+    "price": 695,
+    "stock": [
+      {
+        "color": "Black",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Limited edition Portofino sneakers #1",
+    "brand": "Dolce & Gabbana",
+    "description": "Exclusively available on the Online Store. Dolce&Gabbana presents the collection of Limited Edition sneakers for Her and for Him, decorated by unique designs, that are hand painted and sewn by our artisans",
+    "specifications": "@The Limited Edition sneakers are made exclusively for you and will be delivered for free within 3 weeks. @Portofino line sneakers in calfskin with Dolce&Gabbana logo on the heel. @Calfskin upper @Flat laces @Calfskin insole with logo on label @Rubber sole with logo @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%231_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%231_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%231_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%231_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%231_05.jpg"
+        ]
+      }
+    ],
+    "price": 995,
+    "stock": [
+      {
+        "color": "Pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  },
+  {
+    "name": "Limited edition Portofino sneakers #2",
+    "brand": "Dolce & Gabbana",
+    "description": "Exclusively available on the Online Store. Dolce&Gabbana presents the collection of Limited Edition sneakers for Her and for Him, decorated by unique designs, that are hand painted and sewn by our artisans.",
+    "specifications": "@The Limited Edition sneakers are made exclusively for you and will be delivered for free within 3 weeks. @Portofino line sneakers in calfskin with Dolce&Gabbana logo on the heel. @Calfskin upper @Flat laces @Calfskin insole with logo on label @Rubber sole with logo @Made in Italy",
+    "categories": ["Sneakers", "Women"],
+    "colors": ["Pink"],
+    "sizes": [35, 35.5, 36, 36.5, 37, 37.5, 38, 38.5, 39, 39.5, 40, 40.5, 41],
+    "images": [
+      {
+        "color": "Pink",
+        "images": [
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%232_01.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%232_02.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%232_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%232_03.webp",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%232_04.jpg",
+          "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Dolce%26Gabbana/I%C3%B1aki/Sneakers/Dolce%26Gabbana_Limited+edition+Portofino+sneakers+%232_05.jpg"
+        ]
+      }
+    ],
+    "price": 945,
+    "stock": [
+      {
+        "color": "Pink",
+        "stock": 100,
+        "sold": 0
+      }
+    ]
+  }
+]

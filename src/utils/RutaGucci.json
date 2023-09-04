@@ -1,0 +1,179 @@
+[
+  {
+    "bags": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/CarruselGucci.jpg",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/CarruselGucci+2.1.jpg",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/CarruselGucci4.webp"
+    ],
+    "bags2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Modelo1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Modelo2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Modelo3.png"
+    ],
+    "bags3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Accesorio1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Accesorio2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Accesorio3.png"
+    ],
+    "bags4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/tacones1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/tacones4.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/tacones3.png"
+    ],
+    "bags5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/lentes4.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/lentes2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/lentes1.png"
+    ],
+    "gucciBags": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+1+/Onthego-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+1+/Onthego3-deLado.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+1+/Onthego-Interior.webp"
+    ],
+    "gucciBags2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+2/Color+Creme/OnTheGoCreeme-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+2/Color+Creme/OnTheGoCreeme-deLado.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+2/Color+Creme/OnTheGoCreeme-Interior.webp"
+    ],
+    "gucciBags3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+3/OnthegoMM-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+3/OnthegoMM-deLado.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+3/OnthegoMM-Interior.webp"
+    ],
+    "gucciBags4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+4/Azul/NeverFullAzul-Front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+4/Azul/NeverFullAzul-horizontal.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+4/Azul/NeverFullAzul-Interior.png"
+    ],
+    "gucciBags5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+5/NeoAlmaBB-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+5/NeoAlma-horizontal.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Modelo+5/NeoAlmaBB-Interior.webp"
+    ],
+    "sneakers": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+1/Negro/LVTrainer2.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+1/Negro/LVTrainer4.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+1/Negro/LVTrainer5.webp"
+    ],
+    "sneakers2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+2/LVTrainer-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+2/LVTrainer-back.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+2/LVTrainer-vertical.webp"
+    ],
+    "sneakers3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+3/Negro/LVTrainerArchlight-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+3/Negro/LVTrainerArchlight-back.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+3/Negro/LVTrainerArchlight-up.webp"
+    ],
+    "sneakers4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+4/LVTrainerArchlight-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+4/LVTrainerArchlight-back.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+4/LVTrainerArchlight-zoom.webp"
+    ],
+    "sneakers5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+5/LVTrainerArchlight-front.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+5/LVTrainerArchlight-horizontal.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Sneakers/Mujer/Mujer/Modelo+5/LVTrainerArchlight-back.webp"
+    ],
+    "accesorie1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/1/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/1/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/1/3.png"
+    ],
+    "accesorie2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/2/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/2/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/2/3.png"
+    ],
+    "accesorie3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/3/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/3/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/3/3.png"
+    ],
+    "accesorie4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/4/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/4/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/4/3.png"
+    ],
+    "accesorie5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/5/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/5/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/accesories/5/3.jpg"
+    ],
+    "heels1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/1/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/1/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/1/3.png"
+    ],
+    "heels2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/2/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/2/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/2/3.png"
+    ],
+    "heels3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/3/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/3/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/3/3.png"
+    ],
+    "heels4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/4/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/4/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/4/3.png"
+    ],
+    "heels5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/5/1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/5/2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Heels/5/3.png"
+    ],
+    "sunglasses1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Black+acetate+sunglasses+atras.avif",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Black+acetate+sunglasses+frontal.avif",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Black+acetate+sunglasses+lateral.jpeg"
+    ],
+    "sunglasses2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gold-colored+metal+sunglasses+frontal.avif",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gold-colored+metal+sunglasses+lado.avif",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gold-colored+metal+sunglasses+lateral.avif"
+    ],
+    "sunglasses3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gray+Havana+FF+acetate+sunglasses+frontal.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gray+Havana+FF+acetate+sunglasses+lado.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Baguette+Gray+Havana+FF+acetate+sunglasses+lateral.avif"
+    ],
+    "sunglasses4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Black+acetate+sunglasses+frontal.avif",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Black+acetate+sunglasses+lado.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Black+acetate+sunglasses+lateral.avif"
+    ],
+    "sunglasses5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Fashion+Show+sunglasses+frontal.webp",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Fashion+Show+sunglasses+lado.avif",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Diego/Sunglasses/Fendi+First+Fashion+Show+sunglasses+lateral.webp"
+    ],
+    "bagsPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/CarruselGucci.jpg",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/CarruselGucci+2.1.jpg",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/CarruselGucci4.webp"
+    ],
+    "sneakersPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Modelo1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Modelo2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Modelo3.png"
+    ],
+    "accesoriesPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Accesorio1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Accesorio2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Accesorio3.png"
+    ],
+    "heelsPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/tacones1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/tacones4.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/tacones3.png"
+    ],
+    "sunglassesPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/lentes4.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/lentes2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/lentes1.png"
+    ]
+  }
+]

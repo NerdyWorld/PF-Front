@@ -1,0 +1,148 @@
+[
+  {
+    "bagsPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Bags1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Bags2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Bags3.png"
+    ],
+
+    "sneakersPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-sneakers1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-sneakers2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-sneakers3.png"
+    ],
+
+    "accesoriesPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Accesories1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Accesories2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Accesories3.png"
+    ],
+
+    "heelsPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-heels1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-hels2.jpg",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-heels3.jpg"
+    ],
+
+    "sunglassesPortada": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Sunglasses1.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Sunglasses2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/Fondos/Dolce/Dolce-Sunglasses3.png"
+    ],
+
+    "bags": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo1/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo1/interior.png"
+    ],
+    "bags2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo2/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo2/interior.png"
+    ],
+    "bags3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo3/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo3/interior.png"
+    ],
+    "bags4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo4/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo4/interior.png"
+    ],
+    "bags5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo5/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Bags/Modelo5/interior.png"
+    ],
+
+    "sneakers": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo1/back.png"
+    ],
+    "sneakers2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo2/back.png"
+    ],
+    "sneakers3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo3/back.png"
+    ],
+    "sneakers4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo4/back.png"
+    ],
+    "sneakers5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sneakers/Modelo5/back.png"
+    ],
+
+    "accesorie1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo1/back.png"
+    ],
+    "accesorie2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo2/back.png"
+    ],
+    "accesorie3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo3/back.png"
+    ],
+    "accesorie4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo4/back.png"
+    ],
+    "accesorie5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Accesories/Modelo5/back.png"
+    ],
+
+    "heels1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo1/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo1/horizontal.png"
+    ],
+    "heels2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo2/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo2/horizontal.png"
+    ],
+    "heels3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo3/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo3/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo3/horizontal.png"
+    ],
+    "heels4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo4/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo4/horizontal.png"
+    ],
+    "heels5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo5/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo5/back.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Heels/Modelo5/horizontal.png"
+    ],
+
+    "sunglasses1": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo1/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo1/back.png"
+    ],
+    "sunglasses2": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo2/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo2/back.png"
+    ],
+    "sunglasses3": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo3/fron.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo3/back.png"
+    ],
+    "sunglasses4": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo4/front.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo4/back.png"
+    ],
+    "sunglasses5": [
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo5/front2.png",
+      "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/Bags/Prueba+Joaquin/ProductosView/DG/Sunglasses/Modelo5/back2.png"
+    ]
+  }
+]
