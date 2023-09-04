@@ -742,7 +742,7 @@ body {
   background-image: url("../public/images/landing.png");
   background-size: cover;
 }
-.nav-landing{
+.nav-landing {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -751,8 +751,8 @@ body {
   background-color: rgba(255, 255, 255, 0.178);
   backdrop-filter: blur(5px);
 }
-.home-click {  
-  letter-spacing: 1.8px;
+.home-click {
+  letter-spacing: 1.8px !important;
   color: rgb(0, 0, 0);
   letter-spacing: 1.5px;
   cursor: pointer;
@@ -760,7 +760,7 @@ body {
   border-bottom: 2px solid transparent;
   transition: border-bottom-color 0.3s ease;
 }
-.home-click:hover{
+.home-click:hover {
   border-bottom-color: rgb(0, 0, 0);
 }
 
@@ -769,21 +769,21 @@ body {
   color: #000;
   font-size: 30px;
   font-weight: 600;
-  letter-spacing: 1.5px;
+  letter-spacing: 2.5px !important;
   text-transform: uppercase;
   margin-bottom: 0 !important;
   font-family: "futuraStd";
 }
 /* TOGGLE MENU LANDING */
-.toggleMenuLanding {  
-  position: fixed;
+.toggleMenuLanding {
+  position: fixed !important;
   top: 0;
   right: auto;
   left: 0;
-  width: 400px;
+  width: 530px;
   height: 100vh;
-  overflow-y: auto;
-  background-color: #ffffff2d;
+
+  background-color: #f5f5f562;
   box-shadow: 8px 0 10px -6px rgba(0, 0, 0, 1);
   display: flex;
   flex-direction: column;
@@ -801,17 +801,109 @@ body {
   position: fixed;
   top: 0;
   left: 0; 
-  padding:10px 0 0 20px;
+  padding: 10px 0 0 20px;
   right: auto;
-  color: rgb(0, 0, 0);
-
-  font-weight: 700;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
   z-index: 1202;
-  letter-spacing: 1.5px;
+  letter-spacing: 2.5px;
   font-family: "futuraStd";
-  font-size: 15px !important;
-  border-bottom: none !important;
-  text-transform: capitalize !important;
+  font-size: 15px;
+  border-bottom: none;
+  text-transform: capitalize;
   cursor: pointer;
 }
 
+/* Registro de usuario */
+.row{
+  height: 80px;
+}
+.card-login {
+  width: 530px;
+  background: #ffffff8c;
+  backdrop-filter: blur(5px);  
+  color: rgb(80, 80, 80);
+  font-weight: 100 !important;
+  font-family: "futuraStd";
+  letter-spacing: 2px;
+}
+.form-control {
+  border: none;
+  margin-top: 10px;
+  border-radius: 6px;
+  padding: 7px;
+  background-color: #e0e0e0;
+  box-shadow: 4px 4px 10px #c0c0c0, -2px -2px 5px #c5c5c5;
+  font-size: 13px;
+  color: rgb(117, 117, 117);
+  letter-spacing: 1.5px;
+  font-weight: 300;
+}
+input.form-control:focus {
+  background-color: #eeeeeebb;
+  color: #535353;
+  border: 3px solid rgba(241, 241, 241, 0.822);
+  outline: none !important;
+  box-shadow: none;
+}
+.create-landing{
+  color: rgb(0, 0, 0);
+  font-family: "futuraStd";
+  margin-top: 30px;
+  font-size: 20px;
+  margin-bottom: 20px !important;
+  letter-spacing: 3px;
+}
+.btn-landing{
+  background: rgb(247, 85, 185);
+  color: white;
+  border: none;
+  width: 150px;
+  height: 35px;
+  border-radius: 7px;
+}
+.container-btn {
+  gap: 30px;
+  margin-bottom: 20px;
+}
+.btn-landing.btn-lan{
+  background: rgb(145, 143, 143);
+}
+.form-outline{
+  position: relative;
+}
+.container-login{
+  background: transparent;
+  border: none;
+  width: 55px;
+}
+
+.form-label{
+  font-size: 14px;
+  margin-top: 4px;
+  color: rgb(82, 82, 82);
+  font-weight: 200 !important;
+}
+.password-wrapper {
+  position: relative;
+}
+
+.password-icon {
+  position: absolute;
+  right: 10px;
+  top: 25%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 1.5rem; 
+  color: #555; 
+}
+
+.password-icon2 {
+  position: absolute;
+  right: 10px;
+  top: 25%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 1.5rem; 
+  color: #555; 
+}

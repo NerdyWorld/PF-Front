@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 
 import { useNavigate } from "react-router-dom";
 import Login from "../Login/Login";
+import Register from "./Register";
 
 const Landing = () => {
   const navigate = useNavigate();
@@ -10,36 +11,19 @@ const Landing = () => {
   const [subMenuMenOpen, setMenuMenOpen] = useState(false);
   const menuRef = useRef(null);
   const closeRef = useRef(null);
-
   
   const toggleMenu = () => {
     setIsMenuOpen((prevMenu) => {
       if (prevMenu) {
         setSubMenuOpen(false);
         setMenuMenOpen(false);
-
         document.body.style.overflow = "";
       } else {
-        document.body.style.overflow = "hidden";
+        document.body.style.overflow = "";
       }
       return !prevMenu;
     });
   };
-  const toggleSubMenuOpen = () => {
-    setSubMenuOpen(!subMenuOpen);
-  };
-
-  const toggleSubMenuMenOpen = () => {
-    setMenuMenOpen(!subMenuMenOpen);
-  };
-
-  // Close the Menu Toggle in others views
-  const handleNavigation = (path) => {
-    document.body.style.overflow = "";
-    navigate(path);
-    setIsMenuOpen(false);
-  };
-
   useEffect(() => {
     if (!isMenuOpen) {
       setSubMenuOpen(false);
@@ -67,27 +51,23 @@ const Landing = () => {
   }, [isMenuOpen]);
 
   return (
-    <div className="newLanding">
+    <div className="newLanding">  
       <div className="nav-landing">
-       <p className="rvl-landing">Rivélle</p>             
-      
+       <p className="rvl-landing">Rivélle</p>     
         <p className="home-click" onClick={() => {
             document.body.style.overflow = "";  
             navigate("home")}}>Go to collections</p>
-        </div>
-      
+        </div>      
       <div className={isMenuOpen ? "overlay open" : "overlay"}></div>  
       <div ref={closeRef} onClick={toggleMenu} className="menu-toggle-landing">
         {isMenuOpen ? "Close" : "Login"} 
       </div> 
-       
       <div
         ref={menuRef}
         className={`toggleMenuLanding ${isMenuOpen ? "open" : ""}`}>
-          <p className="createLogin">Create Account</p>
-
-          </div> 
-        
+         <h3 className="create-landing mb-5 text-uppercase">Sign up now</h3>
+          <Register/>
+          </div>         
     </div>
   );
 };
