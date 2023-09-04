@@ -85,27 +85,27 @@ const Home = () => {
         <LandingVuitton
           buttonText="Explore the Louis Vuitton collection"
           brandName="Louis Vuitton"
-          onButtonClick={() => setIsModalOpen(true)}
+          onButtonClick={() => navigate("/louisvuitton")}
         />
         <LandingGucci
           buttonText="Explore the Gucci collection"
           brandName="Gucci"
-          onButtonClick={() => setIsModalOpen(true)}
+          onButtonClick={() => navigate("/gucci")}
         />
         <LandingJChoo
           buttonText="Explore the Jimmy Choo collection"
           brandName="Jimmy Choo"
-          onButtonClick={() => setIsModalOpen(true)}
+          onButtonClick={() => navigate("/jimmychoo")}
         />
         <LandingDGabanna
           buttonText="Explore the Dolce & Gabanna collection"
           brandName="Dolce & Gabanna"
-          onButtonClick={() => setIsModalOpen(true)}
+          onButtonClick={() => navigate("/dolce")}
         />
         <LandingFendi
           buttonText="Explore the Fendi collection"
           brandName="Fendi"
-          onButtonClick={() => setIsModalOpen(true)}
+          onButtonClick={() => navigate("/fendi")}
         />
       </div>
     </div>
