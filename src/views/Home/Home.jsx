@@ -85,27 +85,27 @@ const Home = () => {
         <LandingVuitton
           buttonText="Explore the Louis Vuitton collection"
           brandName="Louis Vuitton"
-          onButtonClick={() => navigate("/louisvuitton")}
+          onButtonClick={() => navigate("/collection/louisvuitton")}
         />
         <LandingGucci
           buttonText="Explore the Gucci collection"
           brandName="Gucci"
-          onButtonClick={() => navigate("/gucci")}
+          onButtonClick={() => navigate("/collection/gucci")}
         />
         <LandingJChoo
           buttonText="Explore the Jimmy Choo collection"
           brandName="Jimmy Choo"
-          onButtonClick={() => navigate("/jimmychoo")}
+          onButtonClick={() => navigate("/collection/jimmychoo")}
         />
         <LandingDGabanna
           buttonText="Explore the Dolce & Gabanna collection"
           brandName="Dolce & Gabanna"
-          onButtonClick={() => navigate("/dolce")}
+          onButtonClick={() => navigate("/collection/dolcegabbana")}
         />
         <LandingFendi
           buttonText="Explore the Fendi collection"
           brandName="Fendi"
-          onButtonClick={() => navigate("/fendi")}
+          onButtonClick={() => navigate("/collection/fendi")}
         />
       </div>
     </div>

@@ -18,14 +18,12 @@ const LandingContent = ({ imageUrl, buttonText, brandName, onButtonClick }) => {
       }
     }
 };
-
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
   return (
-
     <>
     <div className={styles.brandContainer}>
         <h2 className={styles.brandName}>{brandName}</h2>

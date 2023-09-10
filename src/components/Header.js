@@ -71,7 +71,7 @@ const Header = () => {
       <div className={isMenuOpen ? "overlay open" : "overlay"}></div>     
       <div ref={closeRef} onClick={toggleMenu} className="menu-toggle">
         {isMenuOpen ? "Close" : "Menu"}
-      </div>     
+        </div>     
       <div
         ref={menuRef}
         className={`toggleMenuHome ${isMenuOpen ? "open" : ""}`}>      
@@ -89,11 +89,11 @@ const Header = () => {
             Woman
           </p>
           <div className={`submenu ${subMenuOpen ? "open" : ""}`}>
-            <p>Louis Vuitton</p>
-            <p>Gucci</p>
-            <p>Jimmy Choo</p>
-            <p>Dolce & Gabanna</p>
-            <p>Fendi</p>
+            <p onClick={() => navigate("/collection/louisvuitton")}>Louis Vuitton</p>
+            <p onClick={() => navigate("/collection/gucci")}>Gucci</p>
+            <p onClick={() => navigate("/collection/jimmychoo")}>Jimmy Choo</p>
+            <p onClick={() => navigate("/collection/dolcegabbana")}>Dolce & Gabanna</p>
+            <p onClick={() => navigate("/collection/fendi")}>Fendi</p>
           </div>
           <p className="nameToggleSub" onClick={toggleSubMenuMenOpen}>
             Men
