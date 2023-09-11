@@ -1,0 +1,498 @@
+.wrapper{
+  min-height: 100vh;
+  width: 100%;
+}
+
+.background{
+  position: absolute; 
+}
+
+.header{
+  height: 40px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 1rem;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgb(241, 239, 239);
+}
+
+.header h5{
+  margin: 0;
+  padding-right: 1rem;
+  border-right: 1px solid #533f34;
+  font-family: navBarTitle;
+  font-size: 19px;
+  padding-top: 5px;
+  letter-spacing: 2px;
+}
+
+.header span{
+  padding-left: 1rem;
+  font-family: navBarLinks;
+  font-size: 12px;
+  padding-top: 5px;
+  font-weight: 100 !important;
+  color: #2f2f2f;
+}
+
+.goBack{
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-bottom: 1px solid rgb(241, 239, 239);
+}
+
+
+.svg svg{
+  width: 15px;
+}
+
+.svg{
+  cursor: pointer;
+  padding: 1.8rem 2.5rem;
+  border-right: 1px solid rgb(241, 239, 239);
+}
+
+
+.footer{
+  padding: 0 120px 32px;
+  width: 100%;
+  height: 213px;
+  background-color: #19110b;
+}
+
+
+.footer h5{
+  padding: 32px 0px;
+  color: white;
+  font-family: LVRegular;
+  text-transform: uppercase;
+  font-size: 17px;
+  letter-spacing: 1px;
+  border-bottom: 1px solid #392d23;
+}
+
+
+.content{
+  /* background-image: url("../../../public/images/signUpBackground.jpeg");
+  background-size: cover;
+  background-position: center center; */
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+
+
+
+.section1{
+  background-color: rgb(0, 0, 0, 0.30);
+  width: 66%;
+  height: 100%;
+  padding: 0rem;
+}
+
+.section1Content{
+  background-color: #f6f5f3;
+  width: 100%;
+  height: 100%;
+  padding: 35px 120px 40px;
+}
+
+
+.fixedSection{
+  width: 34%;
+  background-color: white;
+  height: 100%;
+}
+
+.createTitle{
+  display: block;
+  width: 100%;
+  padding: 1.125rem 0;
+  border-bottom: 1px solid #eae8e4;
+  color: #19110b;
+  font-size: 2.125rem;
+  font-weight: bold;
+  letter-spacing: -0.6px;
+  line-height: 1.06;
+  /* text-align: left; */
+  text-transform: uppercase;
+}
+
+
+.adviceContainer{
+  margin: 30px 30px 0px;
+}
+
+
+.advice{
+  padding: 26px;
+  background-color: #f6f5f3;
+}
+
+.advice h2{
+  color: #19110b;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  font-weight: bold;
+  line-height: 1.11;
+  text-align: left;
+  padding: 0.625rem 0 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.adviceItem{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 18.5px;
+  font-family: LVRegular;
+  letter-spacing: 0.4px;
+}
+
+.adviceItem i{
+  color: #19110b;
+}
+
+.callUs{
+  margin-top: 6.5vh;
+  padding: 1px;
+}
+
+.callUs h2{
+  color: #000;
+  font-size: .75rem;
+  line-height: .75rem;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: block;
+  text-align: left;
+}
+
+
+.callUsItem{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 18.5px;
+  font-family: LVRegular;
+  letter-spacing: 0.4px;
+  padding: 1rem 0.5rem;
+  border-top: 1px solid rgb(241, 239, 239);
+}
+
+.callUsItem svg{
+  width: 15px;
+}
+
+.callUsItem a{
+  font-size: 12px;
+  text-decoration: none;
+  color: #1f1f1f;
+  letter-spacing: 1px;
+}
+
+.mailLink{
+  letter-spacing: 2px !important;
+  font-size: 13px !important;
+}
+
+
+.form{
+  padding-top: 2.5rem;
+}
+
+.formTitle{
+  display: inline-block;
+  color: #19110b;
+  font-size: 1.4375rem;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.section1Information{
+  margin: 32px 0px;
+  padding: 32px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.loginInput{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.loginInput span{
+  color: #666565;
+  font-family: LVRegular;
+  font-size: 14px;
+  margin-bottom: 0.5vh;
+}
+
+.loginInput input{
+  width: 100%;
+  border: 1px solid #eeeded;
+  border-radius: 0.1rem;
+  padding: 1.5vh 1vw;
+  font-size: 13.5px;
+  letter-spacing: 0.5px;
+  font-family: LVRegular;
+  transition: border 0.4s ease;
+}
+
+.loginInput input:hover{
+  border-bottom: 1px solid #1f1f1f;
+}
+
+.loginInput input::placeholder{
+  font-weight: 100;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.loginInput input:focus{
+  outline: none;
+  border: 1px solid #e4e4e4;
+  border-bottom: 1px solid #1f1f1f;
+}
+
+
+.nextButton{
+  display: flex;
+  justify-content: end;
+}
+.nextButton button{
+  border: none;
+  background-color: #1f1f1f;
+  color: white;
+  font-family: LVRegular;
+  width: 14vw;
+  height: 3rem;
+  margin-left: auto;
+  padding: 0.75rem;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+
+.validEmail{
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  transform: translateY(-50%);
+  transition: opacity 0.4s ease;
+}
+
+.validEmail i{
+  color: #469246;
+  font-size: 12px;
+}
+
+
+.seePassword{
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  transform: translateY(-50%);
+  transition: opacity 0.4s ease;
+}
+
+.seePassword i{
+  color: #1f1f1f;
+  font-size: 12px;
+}
+
+
+.passwordGuide{
+  margin-top: -10px;
+  font-family: LVRegular;
+  flex-direction: column;
+  padding: 0rem 0.7vw;
+  display: none;
+}
+
+
+.passwordGuide span{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 13.5px;
+  letter-spacing: 0.5px;
+}
+
+.specialCharacters{
+  color: #777777;
+}
+
+
+
+.activateP{
+  font-family: LVRegular;
+  letter-spacing: 0.5px;
+}
+
+
+.activateP span{
+  color: #1f1f1f;
+}
+
+
+.sendAgain{
+  margin-top: 7px;
+  font-family: LVRegular;
+  font-size: 13px;
+  position: relative;
+  width: fit-content;
+  cursor: pointer;
+}
+
+.sendAgain::before{
+  content: "";
+  bottom: 0;
+  height: 1px;
+  width: 100%;
+  background-color: #1f1f1f;
+  transform: scaleX(1);
+  position: absolute;
+}
+
+
+.sendAgain.codeResent{
+  color: #1d1d1d5e;
+}
+
+.sendAgain.sendAgain.codeResent::before{
+  background-color: #1d1d1d5e;
+}
+
+
+.newCodeSent{
+  margin-top: -6px;
+  font-family: LVRegular;
+  font-size: 14px;
+  color: rgb(97, 180, 97);
+  transition: opacity 0.4s ease;
+}
+
+
+.activateButton{
+  display: flex;
+  justify-content: end;
+}
+.activateButton button{
+  border: none;
+  background-color: #1f1f1f;
+  color: white;
+  font-family: LVRegular;
+  width: fit-content;
+  height: 3rem;
+  margin-left: auto;
+  padding: 0.75rem 4vw;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.avatarContainer{
+  padding-top: 1.7rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.avatarImg{
+  border: 2px solid transparent;
+  transition: border 0.1s ease;
+}
+
+.avatarImg img{
+  width: 50px;
+}
+
+
+.avatarSelected{
+  border: 2px solid #19110b ;
+}
+
+
+.languageContainer{
+  margin-top: 1.8rem;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.world{
+  transition: opacity 0.4s ease;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.world i{
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.934);
+}
+
+.world i:hover{
+  color: rgba(255, 255, 255, 0.934);
+}
+
+.languages{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.language{
+  cursor: pointer;
+  font-family: navBarLinks;
+  font-size: 11.5px;
+  padding: 0rem 0.3rem;
+}
+
+.language span{
+  position: relative;
+  color: white;
+}
+
+.language .chosenLanguage::after{
+  left: 50%;
+  transform: translateX(-50%);
+  content: "";
+  height: 1px;
+  background-color: white;
+  position: absolute;
+  top: -5px;
+  width: 100%;
+}
+
+.language span::before{
+  content: "";
+  position: absolute;
+  bottom: -1.5px;
+  height: 1px;
+  width: 100%;
+  background: white;
+  transform: scaleX(0);
+  transition: transform 0.2s linear;
+}
+
+.language .active::before{
+  transform: scaleX(1);
+}
+
+.language span:hover::before{
+  transform: scaleX(1);
+}

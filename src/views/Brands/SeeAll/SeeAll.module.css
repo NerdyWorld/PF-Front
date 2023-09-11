@@ -1,0 +1,153 @@
+.wrapper{
+  min-height: 100vh;
+  background-color: white;
+}
+
+
+.filterButton{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  padding: 1.5rem 2rem;
+}
+
+.filterButton h3{
+  font-family: LVRegular;
+  letter-spacing: 1px;
+  color: black;
+}
+
+.filterButton button{
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: LVRegular;
+  font-size: 12.5px;
+  letter-spacing: 0.8px;
+}
+
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100vw;
+}
+
+.productCard{
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(
+  180deg,
+  hsl(240deg 4% 89%) 0%,
+  hsl(240deg 4% 90%) 13%,
+  hsl(240deg 4% 91%) 23%,
+  hsl(240deg 4% 93%) 31%,
+  hsl(240deg 4% 94%) 35%,
+  hsl(240deg 4% 95%) 38%,
+  hsl(240deg 4% 96%) 40%,
+  hsl(240deg 4% 98%) 43%,
+  hsl(240deg 4% 99%) 54%,
+  hsl(0deg 0% 100%) 100%
+);
+}
+
+.productImg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.productImg img{
+  width: 100%;
+}
+
+
+.productImg img:last-child{
+  display: none;
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+.productImg img:first-child{
+  transition: all 0.3s ease;
+}
+
+.productCard:hover .productImg img:first-child{
+  display: none;
+}
+
+.productCard:hover .productImg img:last-child{
+  display: block !important;
+  opacity: 1; 
+}
+
+.details{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  padding: 1rem;
+}
+
+.detailsLeft{
+  display: flex;
+  flex-direction: column;
+}
+
+.detailsLeft span:first-child{
+  font-family: LVRegular;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+.detailsLeft span:last-child{
+  font-family: LVRegular;
+  font-size: 14px;
+  margin-top: 0.5rem;
+  letter-spacing: 0.5px;
+}
+
+.colors{
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.spanColor{
+  width: 11px;
+  cursor: default;
+  height: 11px;
+  border-radius: 50px;
+  position: relative;
+}
+
+.spanColor::after{
+  content: '';
+  position: absolute;
+  width: 50%;
+  transform: translateX(-50%) scaleX(0);
+  height: 1px;
+  left: 50%;
+  bottom: -4px;
+  background-color: black;
+  transform-origin: bottom right;
+  transition: transform 0.4s ease-out;
+}
+
+.spanColor:hover::after{
+  transform: translateX(-50%) scaleX(1);
+}
+
+
+.container{
+  padding: 0rem 3rem;
+}

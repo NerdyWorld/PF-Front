@@ -10,8 +10,8 @@ const getAllProducts = async() =>{
 };
 
 
-const filterProducts = async() =>{
-  const response = await axios.get(`${base_url}/products/filter-products`);
+const filterProducts = async(data) =>{
+  const response = await axios.post(`${base_url}/products/filter-products`, data);
 
   return response.data;
 };
@@ -25,9 +25,11 @@ const getColors = async() =>{
 
 
 
-
 export const productService = {
   getAllProducts,
   filterProducts,
-  getColors
+  getColors,
+
 }
+
+

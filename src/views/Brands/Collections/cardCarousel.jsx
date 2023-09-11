@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const CardCarousel = ({ categories = []}) => {
   return (
     <div className="card-carousel-container">

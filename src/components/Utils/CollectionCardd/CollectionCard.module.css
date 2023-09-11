@@ -1,0 +1,65 @@
+
+.card{
+  width: 25%;
+}
+
+.details{
+  position: relative;
+  padding: 1.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+}
+
+.left span:first-child{
+  font-size: 13px;
+  font-family: LVRegular;
+}
+
+.left span:last-child{
+  font-family: LVRegular;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+
+.colors{
+  position: absolute;
+  bottom: 17%;
+  right: 8%;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.colors span{
+  width: 11px;
+  height: 11px;
+  border-radius: 50px;
+  position: relative;
+}
+
+
+.colorSpan::after{
+  content: '';
+  position: absolute;
+  width: 80%;
+  transform: translateX(-50%) scaleX(0);
+  height: 1px;
+  left: 50%;
+  bottom: -4px;
+  background-color: black;
+  transform-origin: bottom right;
+  transition: transform 0.4s ease-out;
+}
+
+.colorSpan:hover::after{
+  transform: translateX(-50%) scaleX(1);
+}
+
+
+
+.activeSpan::after{
+  transform: translateX(-50%) scaleX(1);
+}

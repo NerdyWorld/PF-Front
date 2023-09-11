@@ -24,9 +24,9 @@ export const getAllProducts = createAsyncThunk("getAllProducts", async(thunkAPI)
 })
 
 // FILTER PRODUCTS
-export const filterProducts = createAsyncThunk("filterProducts", async(thunkAPI)=>{
+export const filterProducts = createAsyncThunk("filterProducts", async(data, thunkAPI)=>{
   try{
-    return await productService.filterProducts();
+    return await productService.filterProducts(data);
   }catch(error){
     return thunkAPI.rejectWithValue(error);
   }
@@ -41,6 +41,11 @@ export const getColors = createAsyncThunk("getColors", async(thunkAPI)=>{
   }
 })
 
+
+
+
+
+export const clearProductMessages = createAction("clear-product-messages");
 
 
 
@@ -109,6 +114,12 @@ export const productSlice = createSlice({
               state.isError = true;
               state.message = "Colors obtained";
               state.colors = [];
+            })
+
+
+            // CLEAR PRODUCT MESSAGES
+            .addCase(clearProductMessages, (state)=>{
+              state.message = "";
             })
 
   }
