@@ -55,7 +55,7 @@ const ProductDetail = ({ product }) => {
           </div>
 
           <p className="prod-detail" onClick={toggleMenu}>
-            Product Detail
+            More Info
           </p>
         </div>
       </div>
@@ -66,12 +66,7 @@ const ProductDetail = ({ product }) => {
               X
             </button>
           </div>
-          <h2>Product Specifications</h2>
-          <ul>
-            {product.specifications.map((spec, index) => (
-              <li key={index}>{spec}</li>
-            ))}
-          </ul>
+        
           <div className="section-toggle" onClick={toggleMaterial}>
             <h4 className="subtitle-detail">MATERIALS AND CARE</h4>
             <span className="toggle-icon">{isMaterialOpen ? "-" : "+"}</span>

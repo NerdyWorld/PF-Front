@@ -1274,6 +1274,7 @@ input.form-control:focus {
   font-size: 16px;
   color: rgb(37, 34, 34);
   font-weight: 500;
+  margin-top: 50px;
   letter-spacing: 1.5px;
   border-bottom: 1px solid transparent;
   transition: border-bottom-color 0.3s ease;
