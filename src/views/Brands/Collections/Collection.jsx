@@ -17,7 +17,7 @@ return(
     <p className='seeAll-collection' onClick={() => navigate('/seeAll/:name')}>See All</p>
     <h2 className="collection-brandName">{brand.brandName}</h2>
     <h3 className="collection-name">{brand.name}</h3>
-    <CarouselCollection collections={brand.collections} />
+    <CarouselCollection key={name} collections={brand.collections} />
   </div>
 )
 }
