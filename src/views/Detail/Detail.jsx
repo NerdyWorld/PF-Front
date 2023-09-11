@@ -1,23 +1,27 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import ProductDetail from './ProductDetail';
+import { useParams } from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
+import { getAllProducts } from '../../features/products/productSlice';
 
 const Detail = () => {
-  const product = {
-    imageURLs: [
-      '/images/imgGucci.webp',
-      '/images/imgGucci2.webp',
-      '/images/imgGucci3.webp',
-      '/images/imgGucci4.webp'
-    ],
-    name: 'Product name',
-    price: '2490 usd',
-    description: 'Description',
-    specifications: ['Especification 1', 'Especification 2', 'Especification 3'],
-    colors: ['#FF5733', '#33FF57', '#3357FF']
-  };
+  const dispatch = useDispatch();
+  const products = useSelector((state) => state.products.products);
+  const { id } = useParams();
+
+  useEffect(() => {
+    if (products.length === 0) {
+      dispatch(getAllProducts());
+    }
+  }, [dispatch, products]);
+
+
+  const productToDisplay = products.find((product) => product.id === id);
 
   return (
-    <ProductDetail product={product} />
+    <div>
+       {productToDisplay ? <ProductDetail productId={id} /> : <div>Loading...</div>}
+    </div>
   );
 }
 

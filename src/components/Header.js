@@ -1,8 +1,11 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useContext, useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import LoginModal from "./Modals/LoginModal";
+import { GlobalContext } from "../context/globalContext";
+import LoginModalN from "./Modals/Login/Login.jsx";
 
 const Header = () => {
+  const globalContext = useContext(GlobalContext);
+  const {setShowLoginModal } = globalContext;
   const navigate = useNavigate();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [subMenuOpen, setSubMenuOpen] = useState(false);
@@ -68,6 +71,7 @@ const Header = () => {
 
   return (
     <header className="App-header">
+      <LoginModalN/>
       <div className={isMenuOpen ? "overlay open" : "overlay"}></div>     
       <div ref={closeRef} onClick={toggleMenu} className="menu-toggle">
         {isMenuOpen ? "Close" : "Menu"}
@@ -78,7 +82,7 @@ const Header = () => {
         {showLogin && (
           <>
             <div className="containerLogin">
-              <h4 className="menuLogin" onClick={() => setIsModalOpen(true)}>
+              <h4 className="menuLogin" onClick={() => setShowLoginModal(true)}>
                 Login
               </h4>
             </div>
@@ -120,7 +124,6 @@ const Header = () => {
             <p onClick={() => handleNavigation("Checkout")}>Checkout</p>    
           </div>
         </div>
-        {isModalOpen && <LoginModal onClose={() => setIsModalOpen(false)} />}
       </div>
     </header>
   );

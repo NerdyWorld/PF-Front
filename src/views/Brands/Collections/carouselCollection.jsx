@@ -2,11 +2,11 @@ import React from "react";
 import Category from "./category";
 
 
-const CarouselCollection = ({ collections }) => {
+const CarouselCollection = ({ collections, brandCards }) => {
   return(
     <div>
       {collections.map((collection) => (
-        <Category key={collection.title} {...collection} />
+        <Category key={collection.title} {...collection} brandCards={brandCards} />
       ))}
     </div>
   )
