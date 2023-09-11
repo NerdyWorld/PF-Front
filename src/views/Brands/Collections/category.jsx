@@ -15,7 +15,7 @@ const Category = ({ brandName, title, subTitle, name, carousel1, carousel2, card
         </div>       
       </div>
       <div className="card-category">
-      <CardCarousel categories={cardCategories} />
+      {/* <CardCarousel categories={cardCategories} /> */}
       </div>
     </div>
   );
