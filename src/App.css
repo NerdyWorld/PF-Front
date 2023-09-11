@@ -1138,7 +1138,7 @@ input.form-control:focus {
 .image-section {
   flex: 1;
  overflow-y: scroll;
- max-height: 100vh;
+ height: 100vh;
 }
 
 .product-image {
@@ -1207,3 +1207,114 @@ input.form-control:focus {
 .image-section::-webkit-scrollbar-thumb:hover {
   background: #ff5dc9;  
 }
+
+.detail-menu {
+  position: fixed;
+  font-family: "futuraStd"; 
+  top: 0;
+  right: 0; 
+  width: 500px; 
+  height: 100vh; 
+  background-color: rgba(255, 255, 255, 0.836);
+  backdrop-filter: blur(5px); 
+  padding: 20px;
+  box-shadow: -2px 0px 10px rgba(0, 0, 0, 0.712);
+  overflow-y: auto;
+  z-index: 2002; 
+  transform: translateX(100%); 
+  transition: all 0.6s ease;
+}
+
+.detail-menu h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.detail-menu li {
+  margin-bottom: 4px;
+  font-size: 14px;
+  letter-spacing: 1.2px;
+  color: black;
+}
+.ul-det{
+  margin-bottom: 4px;
+  font-size: 14px;
+  letter-spacing: 1.2px;
+  color: black;
+}
+
+.open .detail-menu {
+  transform: translateX(0);
+}
+
+.bntclose{
+  background: transparent;
+  font-size: 20px;
+  border:none;
+}
+
+.prod-detail{
+  margin-top: 40px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom-color 0.3s ease;
+}
+.close-det{
+  display: flex;
+  justify-content: flex-end;
+}
+.prod-detail:hover{
+  border-bottom-color: black;
+}
+.subtitle-detail{
+  cursor: pointer;
+  width: fit-content;
+  font-size: 16px;
+  color: rgb(37, 34, 34);
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom-color 0.3s ease;
+}
+
+.subtitle-detail:hover {
+  border-bottom-color: black;
+}
+
+.toggle-icon {
+  font-size: 25px;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.section-toggle {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+}
+
+.payment-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px; 
+  margin-bottom: 20px;
+}
+
+.payment-icon {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 15px;
+  flex-direction: column; 
+  margin-bottom: 20px;
+}
+
+.card-det{  
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+}
+
