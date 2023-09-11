@@ -18,7 +18,7 @@ const SeeAllFilters = () => {
   // CONTEXT API
   const globalContext = useContext(GlobalContext);
   const { setFinalFilteredProducts, setShowFilteredProducts, showFilterModal, setShowFilterModal } = globalContext;
-
+// 
   const refToast = useRef();
   const state = useSelector(state => state);
   const { colors, message, filterProducts: filteredProducts } = state.products;
