@@ -12,10 +12,13 @@ const Home = () => {
   const titleLanding = useRef(null);
   const [showLogin, setShowLogin] = useState(true);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const contentLandingRef = useRef(null);
 
   useEffect(() => {
     const handleScroll = () => {
       const scrolled = window.scrollY;
+      const contentElement = contentLandingRef.current;
+
       if (titleLanding.current) {
         if (scrolled < 50) {
           titleLanding.current.style.fontSize = `${11 - scrolled / 5}rem`;
@@ -23,13 +26,14 @@ const Home = () => {
           titleLanding.current.style.background = "#0e0e0e";
           titleLanding.current.style.color = "#fff";
           titleLanding.current.style.paddingTop = "120px";
-         
+          contentElement.style.marginTop = `${11 - scrolled / 5}rem`;
         } else if (scrolled >= 50 && scrolled < 150) {
           titleLanding.current.style.fontSize = "6rem";
           titleLanding.current.style.paddingTop = "30px";
           titleLanding.current.style.background = "#0e0e0e";
           titleLanding.current.style.transform = "translateX(0)";
           titleLanding.current.style.marginTop = "0";
+          contentElement.style.marginTop = "3rem";
         } else {
           titleLanding.current.style.fontSize = "3rem";
           titleLanding.current.style.fontWeight = "400";
@@ -40,6 +44,7 @@ const Home = () => {
           titleLanding.current.style.padding = "2px";
           titleLanding.current.style.background = "rgba(255, 255, 255, 0.1)";
           titleLanding.current.style.color = "#fff";
+          contentElement.style.marginTop = "3rem";
         }
       }
       if (scrolled > 50) {
@@ -82,7 +87,7 @@ const Home = () => {
           )}
         </div>
       </div>
-      <div className="contentLanding">
+      <div className="contentLanding" ref={contentLandingRef}>
         <LandingVuitton
           buttonText="Explore the Louis Vuitton collection"
           brandName="Louis Vuitton"
