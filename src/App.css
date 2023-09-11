@@ -58,7 +58,7 @@ body {
   width: 100%;
   gap: auto;
   overflow-x: hidden;
-  z-index: 1201;
+  z-index: 999;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -363,29 +363,29 @@ body {
 
 /* CAROUSEL LANDING GUCCI */
 
-.carousel.slide {
+.landingClassForCarousel .carousel.slide {
   display: flex;
   flex-direction: column;
   align-items: center; 
   justify-content: center;
 }
-.carousel-inner {
+.landingClassForCarousel .carousel-inner {
   width: 30%;
   margin: 0 auto;
 }
-.carousel.slide video {
+.landingClassForCarousel .carousel.slide video {
   width: 100%;
   height: auto;
 }
-.carousel-fade .carousel-item {
+.landingClassForCarousel .carousel-fade .carousel-item {
   display: flex;
   justify-content: center;
 }
-.carousel-item img {
+.landingClassForCarousel .carousel-item img {
   width: 100%;
   height: auto;
 }
-.carousel .exploreButton {
+.landingClassForCarousel .carousel .exploreButton {
   position: sticky;
   bottom: 10%;
   left: 50%;
@@ -431,15 +431,15 @@ body {
   opacity: 0;
 }
 
-.carousel-control-prev,
-.carousel-control-next {
+.landingClassForCarousel .carousel-control-prev,
+.landingClassForCarousel .carousel-control-next {
   height: 100%;
   width: 3%;
   z-index: 10;
 }
 
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
+.landingClassForCarousel .carousel-control-prev-icon,
+.landingClassForCarousel .carousel-control-next-icon {
   height: 100%;
   width: 100%;
 }
@@ -463,7 +463,7 @@ body {
 
 /* CAROUSEL LV */
 
-.carousel-indicators {
+.landingClassForCarousel .carousel-indicators {
   position: absolute;
   bottom: 20px;
   background-color: transparent;
@@ -1112,4 +1112,494 @@ input.form-control:focus {
   font-family: "futuraStd";
   letter-spacing: 2.5px;
   color: rgb(204, 204, 204); 
+}
+
+
+
+/* CREATE ACCOUNT */
+.createAccount .p-toast-message{
+  background-color: rgb(0, 0, 0, 0.50) !important;
+  color: white !important;
+  font-family: LVRegular;
+  border-left: 6px solid #ffffff4e !important;
+}
+
+.createAccount .p-toast-icon-close{
+  background-color: rgba(0, 0, 0, 0.251) !important;
+  color: white !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.createAccount .p-toast-icon-close svg{
+  width: 10px !important;
+  height: 10px !important;
+}
+
+/* PRIME TOASTT */
+
+.p-toast-message.p-toast-message-success .p-toast-message-icon{
+  width: 20px !important;
+  color: rgb(219, 219, 219) !important;
+}
+
+.p-toast-message{
+  background-color: rgb(0, 0, 0, 0.50) !important;
+  color: white !important;
+  font-family: LVRegular;
+  border-left: 6px solid #ffffff4e !important;
+}
+
+.p-toast-icon-close{
+  background-color: rgba(0, 0, 0, 0.251) !important;
+  color: white !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.p-toast-icon-close svg{
+  width: 10px !important;
+  height: 10px !important;
+}
+
+.p-toast-message.p-toast-message-success .p-toast-message-icon{
+  width: 20px !important;
+  color: rgb(219, 219, 219) !important;
+}
+
+
+
+/* BIRTHDAY CREATE ACCOUNT */
+
+.p-calendar input{
+  width: 100% !important;
+  border: 1px solid #eeeded !important;
+  border-radius: 0.1rem !important;
+  padding: 1.5vh 1vw !important;
+  font-size: 13.5px !important;
+  letter-spacing: 0.5px !important;
+  font-family: LVRegular !important;
+  transition: border 0.4s ease !important;
+}
+
+.p-calendar input:hover{
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.p-calendar input::placeholder{
+  font-weight: 100 !important;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  letter-spacing: 1px !important;
+  font-size: 10px !important;
+}
+
+.p-calendar input:focus{
+  outline: none !important;
+  border: 1px solid #e4e4e4 !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.p-datepicker .p-datepicker-header .p-datepicker-title .p-datepicker-month{
+  font-family: LVRegular !important;
+  font-size: 15px;
+}
+
+.p-datepicker .p-datepicker-header .p-datepicker-title .p-datepicker-year{
+  font-family: LVRegular;
+  font-size: 14px;
+}
+
+.p-datepicker .p-datepicker-header .p-datepicker-prev, .p-datepicker .p-datepicker-header .p-datepicker-next{
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+}
+
+.p-datepicker table{
+  font-family: LVRegular;
+}
+
+.p-datepicker table th{
+  text-align: center;
+}
+
+.p-datepicker table td{
+  font-size: 13px;
+}
+
+.p-datepicker .p-monthpicker .p-monthpicker-month {
+  font-family: LVRegular;
+  font-size: 14px;
+  letter-spacing: 0.4px;
+}
+
+.p-datepicker-decade{
+  font-family: LVRegular;
+  font-size: 13px;
+}
+
+.p-datepicker .p-yearpicker .p-yearpicker-year{
+  font-family: LVRegular;
+  font-size: 13.5px;
+}
+
+
+
+
+.createAccount .p-dropdown{
+  width: 100% !important;
+  border: 1px solid #eeeded !important;
+  border-radius: 0.1rem !important;
+  font-size: 13.5px !important;
+  letter-spacing: 0.5px !important;
+  font-family: LVRegular !important;
+  transition: border 0.4s ease !important;
+}
+
+.createAccount .p-dropdown:hover{
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.createAccount .p-focus{
+  outline: none !important;
+  border: 1px solid #e4e4e4 !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.createAccount .p-dropdown .p-dropdown-label{
+  font-weight: 100 !important;
+  letter-spacing: 1px !important;
+  font-family: LVRegular;
+  font-size: 11.5px !important;
+  margin: 0 !important;
+  padding: 2.09vh 1vw !important;
+}
+
+
+.createAccount .p-dropdown .p-dropdown-trigger{
+  width: 1.5rem !important;
+  margin-right: 0.5vw;
+}
+
+.createAccount .p-dropdown .p-dropdown-trigger svg{
+  width: 10px !important;
+}
+
+.p-dropdown-item[aria-label="Male"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Female"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+
+.paypal-button-tagline{
+  display: none !important;
+}
+
+.form-select,
+.form-control{
+  box-shadow: none !important;
+  border: 1px solid lightgray !important;
+}
+
+.grid-div{
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-div.active{
+  background-color: #b02e59;
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pac-container{
+  border-radius: 0.3rem !important;
+}
+
+.pac-item{
+  padding: 0.5rem !important;
+  font-family: "Quicksand" !important;
+}
+
+.pac-icon{
+  background-image: url("https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/FrontAssets/Nacho/map-marker-svgrepo-com.svg") !important;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.pac-container:after {
+  background-image: none !important;
+  height: 0px;
+}
+
+
+
+/* CHECKOUT */
+
+.carousel-control-prev{
+  height: 20% !important;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.carousel-control-next{
+  height: 20% !important;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+
+.checkout .carousel-control-next-icon{
+  background-image: url("https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/FrontAssets/Nacho/rightArrow");
+}
+
+.checkout .carousel-control-prev-icon{
+  background-image: url("https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/FrontAssets/Nacho/left-svgrepo-com.png");
+}
+
+.collection-card .carousel-control-prev-icon{
+  content: "<" !important;
+  height: 1.5vh;
+  opacity: 0;
+  transition: all 0.5s ease;
+  visibility: hidden;
+}
+
+.collection-card .carousel-control-next-icon{
+  content: ">" !important;
+  height: 1.5vh;
+  opacity: 0;
+  transition: all 0.5s ease;
+  visibility: hidden;
+}
+
+
+.collection-card:hover .carousel-control-prev-icon, .collection-card:hover .carousel-control-next-icon{
+  opacity: 1;
+  visibility: visible;
+}
+
+.collection-card .carousel-item{
+  height: 352px !important;
+  width: 352px !important;
+}
+
+
+/* MP BUTTON */
+
+.wallet-button-3fVDUE.svelte-30iu5a{
+  margin-top: -0.8rem;
+}
+
+.default-brAWXw.svelte-16x6ay9.svelte-16x6ay9 span{
+  color: whitesmoke !important;
+}
+
+.wallet-label-container-2OnpcO.svelte-1b1h3kn{
+  display: none !important;
+}
+
+
+/* STRIPE BUTTON */
+
+.stripeButton{
+  border: none;
+  background-color: #7A72FF;
+  color: whitesmoke;
+  padding: 0.5rem 1rem;
+  font-size: 13px;
+  border-radius: 0.1rem;
+  transition: all 0.3s ease;
+}
+
+.stripeButton:hover{
+  filter: brightness(110%);
+}
+
+
+/* CHECKOUT SWAL */
+.confirmSwalCheckout{
+  border: none;
+  background-color: #ba3763;
+  font-size: 12px;
+  padding: 0.5rem 1rem;
+  color: whitesmoke;
+  letter-spacing: 0.5px;
+  margin-right: 0.7rem;
+  transition: filter 0.3s ease;
+}
+
+.confirmSwalCheckout:hover{
+  filter: brightness(110%);
+}
+
+.denySwalCheckout{
+  border: none;
+  background-color: #afaeae;
+  font-size: 12px;
+  padding: 0.5rem 1rem;
+  color: whitesmoke;
+  letter-spacing: 0.5px;
+  margin-right: 0.7rem;
+  transition: filter 0.3s ease;
+}
+
+.denySwalCheckout:hover{
+  filter: brightness(110%);
+}
+
+
+
+.checkoutProductModal .carousel-indicators{
+  background-color: rgba(21, 20, 20, 0.234);
+}
+
+/* NEW CHANGES */
+
+
+.carousel-inner.dolce{
+  height: 380px !important;
+}
+
+
+
+.filterSeeAll .p-dropdown{
+  width: 100% !important;
+  border: 1px solid #eeeded !important;
+  border-radius: 0.1rem !important;
+  font-size: 13.5px !important;
+  letter-spacing: 0.5px !important;
+  font-family: LVRegular !important;
+  transition: border 0.4s ease !important;
+}
+
+.filterSeeAll .p-dropdown:hover{
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.filterSeeAll .p-focus{
+  outline: none !important;
+  border: 1px solid #e4e4e4 !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.filterSeeAll .p-dropdown .p-dropdown-label{
+  font-weight: 100 !important;
+  letter-spacing: 1px !important;
+  font-family: LVRegular;
+  font-size: 11.5px !important;
+  margin: 0 !important;
+  padding: 2.09vh 1vw !important;
+}
+
+
+.filterSeeAll .p-dropdown .p-dropdown-trigger{
+  width: 1.5rem !important;
+  margin-right: 0.5vw;
+}
+
+.filterSeeAll .p-dropdown .p-dropdown-trigger svg{
+  width: 10px !important;
+}
+
+
+.p-dropdown-item[aria-label="Bags"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Accessories"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Sneakers"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Heels"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Sunglasses"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Please select a category"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+
+/* NEW CHANGES ENDS */
+
+
+/* FONT FACES */
+@font-face{
+  font-family: "Gucci";
+  src: local("Gucci"),
+  url("./Fonts/gucci/gucci.woff") format("woff")
+}
+
+@font-face{
+  font-family: "LVRegular";
+  src: local("LVRegular"),
+  url("./Fonts/lv/LouisVuitton-Regular.woff2") format("woff2")
+}
+
+
+@font-face{
+  font-family: "LVOblique";
+  src: local("LVOblique"),
+  url("./Fonts/lv/LouisVuitton-Oblique.woff2") format("woff2")
+}
+
+
+
+@font-face{
+  font-family: "OPTIMA";
+  src: local("OPTIMA"),
+  url("./Fonts/fearOfGod/OPTIMA.woff2") format("woff2")
+}
+
+
+@font-face{
+  font-family: "navBarTitle";
+  src: local("navBarTitle"),
+  url("./Fonts/fearOfGod/HelveticaNeueLTPro-Cn.woff2") format("woff2")
+}
+
+
+@font-face{
+  font-family: "navBarLinks";
+  src: local("navBarLinks"),
+  url("./Fonts/fearOfGod/HelveticaNeueLTPro-LtCn.woff2") format("woff2")
 }

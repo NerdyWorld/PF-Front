@@ -1,0 +1,144 @@
+.article{
+  position: fixed;
+  background-color: transparent;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  z-index: 998;
+  transition-timing-function: 0.5s ease-in;
+  transition: all 0.5s ease;
+}
+
+.div{
+  background-color: whitesmoke;
+  width: 400px;
+  height: 500px;
+  border-radius: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.slider{
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
+.slider::-webkit-scrollbar {
+  display: none;
+}
+
+.firstSlide{
+  min-width: 400px;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1 0 100%;
+  scroll-snap-align: start;
+  object-fit: cover;
+}
+
+.secSlide{
+  min-width: 400px;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 0 100%;
+  padding-left: 0.65rem;
+  scroll-snap-align: start;
+  object-fit: cover;
+  gap: 13px;
+}
+
+.secSlide h3{
+  margin-top: 1rem;
+  padding-top: 0rem;
+  margin-bottom: 1rem;
+}
+
+.close{
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  background-color: #ba3763;
+  opacity: 0.9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  transition: all 0.3 ease;
+}
+
+.close:hover{
+  opacity: 1;
+}
+
+.close i{
+  color: whitesmoke;
+}
+
+
+h3{
+  margin-top: 3rem;
+  text-align: center;
+}
+
+p{
+  color: #777777;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+
+.scrollers{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 10px;
+  gap: 10px;
+}
+
+.scrollers div{
+  width: 20px;
+  height: 7px;
+  color: #ba3763;
+  background-color: #ba3763;
+}
+
+
+.argentina, .usa{
+  background-color: rgb(238, 238, 238);
+  padding: 1rem;
+  border-radius: 0.2rem;
+  width: 370px;
+  opacity: 1;
+  transition: all 0.3s ease;
+}
+
+.argentina:hover, .usa:hover{
+  opacity: 1;
+}
+
+.argentina img, .usa img{
+  border-radius: 50px;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.argentina img:hover, .usa img:hover{
+  transform: scale(1.05);
+}
+

@@ -127,7 +127,7 @@ const [previousMutedState, setPreviousMutedState] = useState({ ...isMuted });
     }, []);
 
   return (
-    <>
+    <div className="landingClassForCarousel">
       <div className="brandContainer">
         <h2 className="brandName">{brandName}</h2>
       </div>
@@ -297,7 +297,7 @@ const [previousMutedState, setPreviousMutedState] = useState({ ...isMuted });
           {buttonText}
         </button>
       </div>
-    </>
+    </div>
   );
 };
 

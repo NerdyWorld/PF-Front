@@ -1,0 +1,273 @@
+
+.wrapper{
+  height: 100vh;
+  width: 100%;
+  padding-top: 3rem;
+}
+
+.buttons{
+  margin-top: 1rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+
+/* STRIPE BUTTON */
+
+.stripeButton{
+  background-color: #7A72FF;
+  border: none;
+  border-radius: 0.25rem;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 0rem 0.5rem;
+  height: 55px;
+  transition: filter 0.3s ease;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  cursor: pointer;
+  margin-bottom: 0.25rem;
+}
+
+.stripeButton i{
+  font-size: 45px;
+}
+
+.stripeButton:hover{
+  filter: brightness(120%);
+}
+
+
+.stripeButton span{
+  color: whitesmoke;
+  font-weight: 600;
+  font-size: 15px;
+  
+}
+
+
+
+/* MP BUTTON */
+
+.mpButton{
+  height: 55px;
+  background-color: #009FE3;
+  border: none;
+  border-radius: 0.25rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0rem 1rem;
+  gap: 6px;
+  transition: filter 0.3s ease;
+  cursor: pointer
+}
+
+.mpButton:hover{
+  filter: brightness(107%);
+}
+
+.mpButton span{
+  color: whitesmoke;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+
+
+.FormContainer{
+  padding: 1rem 1rem;
+  background-color: #e6e5e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  margin-bottom: 1.5rem;
+}
+
+.Form{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.Form input{
+  background-color: white !important;
+  transition: all 0.3s ease;
+}
+
+.Form input:disabled{
+  background-color: #E9ECEF !important;
+}
+
+
+
+
+.Form input:focus{
+  background-color: white !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid lightgray !important;
+}
+
+.Form label::after{
+  background-color: transparent !important;
+}
+
+.Form label{
+  margin-top: 10px;
+}
+
+.infoZipCode{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 15px;
+}
+
+
+.stepDiv{
+  margin-top: 2rem;
+  display: flex;
+  width: 100%;
+  padding-left: 1rem;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+  margin-bottom: 1rem;
+}
+
+.stepDiv span:last-child{
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+
+.step{
+  width: 16.5px;
+  height: 16.5px;
+  background-color: #ba3763c1;
+  color: whitesmoke;
+  border-radius: 50px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+
+.useShippingAddress{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.useShippingAddress input{
+  cursor: pointer !important;
+}
+
+.useShippingAddress label{
+  font-size: 12px !important;
+  color: #1f1f1f;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.emptyFields{
+  width: 50%;
+  font-size: 12px;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  text-align: center;
+  background-color: rgb(208, 73, 73);
+  color: whitesmoke;
+  transition: opacity 0.4s ease;
+  transition-timing-function: 0.4s ease-in;
+}
+
+
+.goBack{
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.goBack i{
+  color: #777777;
+}
+
+
+
+/* QUERYS */
+
+
+
+@media only screen and (max-width: 796px){
+  .mpButton,
+  .stripeButton{
+    height: 25px;
+  }
+
+  .stripeButton i{
+    font-size: 28px;
+  }
+
+  .mpButton img{
+    width: 30px;
+  }
+
+  .emptyFields{
+    width: fit-content;
+    font-size: 10px;
+  }
+
+}
+
+@media only screen and (min-width: 797px){
+  .mpButton,
+  .stripeButton{
+    height: 35px;
+  }
+  
+  .stripeButton i{
+    font-size: 36px;
+  }
+
+  .mpButton img{
+    width: 42px;
+  }
+
+  .emptyFields{
+    width: fit-content;
+    font-size: 11px;
+  }
+}
+
+@media only screen and (min-width: 1197px){
+  .mpButton,
+  .stripeButton{
+    height: 44px;
+  }
+
+  .stripeButton i{
+    font-size: 45px;
+  }
+
+  .mpButton img{
+    width: 53px;
+  }
+
+  .emptyFields{
+    font-size: 12px;
+  }
+}

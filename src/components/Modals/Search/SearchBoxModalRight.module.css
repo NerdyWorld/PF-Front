@@ -1,0 +1,126 @@
+.article{
+  position: fixed;
+  top: 60px;
+  height: 500px;
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.814);
+  z-index: 3;
+  padding: 1rem;
+  padding-left: 0rem;
+  transition: all 0.6s ease;
+  transition-timing-function: 0.6s ease-in;
+}
+
+
+.div{
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 3rem 3rem;
+  padding-bottom: 1rem;
+}
+
+.div h6{
+  font-family: LVRegular;
+  font-size: 10.5px;
+  color: #1f1f1f;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+
+.products{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  overflow-y: auto;
+}
+
+.products::-webkit-scrollbar{
+  display: none;
+}
+
+.product{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+}
+
+
+.product span{
+  font-family: LVRegular;
+  font-size: 15px;
+  color: #1f1f1f;
+  padding: 0.5rem 0rem;
+}
+
+.product img{
+  width: 100px;
+  object-fit: contain;
+  background-image: linear-gradient(
+  165deg,
+  hsl(20deg 5% 88%) 0%,
+  hsl(22deg 5% 89%) 15%,
+  hsl(24deg 6% 90%) 27%,
+  hsl(26deg 7% 91%) 36%,
+  hsl(28deg 7% 92%) 45%,
+  hsl(30deg 8% 92%) 52%,
+  hsl(32deg 9% 93%) 60%,
+  hsl(35deg 10% 94%) 68%,
+  hsl(37deg 12% 95%) 78%,
+  hsl(40deg 14% 96%) 100%
+  );
+}
+
+
+.paddingProduct{
+  padding-right: 4rem;
+}
+
+
+.products button{
+  position: relative;
+  margin-top: 4rem;
+  border: none;
+  border-radius: 0.2rem;
+  background-color: transparent;
+  font-family: LVRegular;
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: #1f1f1fc5;
+  text-align: center;
+  width: 100%;
+  border: 1px solid #1f1f1fc5;
+  padding: 0.4rem 1rem;
+  z-index: 2;
+}
+
+
+.products button::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: scaleY(0);
+  transform-origin: bottom center;
+  background: #1f1f1f;
+  transition: transform 0.3s;
+  z-index: -1;
+}
+
+.products button:hover{
+  color: white;
+}
+
+
+.products button:hover::after{
+  transform: scaleY(1);
+}
