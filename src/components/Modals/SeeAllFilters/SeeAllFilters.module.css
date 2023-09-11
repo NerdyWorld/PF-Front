@@ -1,0 +1,159 @@
+.article{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: fit-content;
+  height: 100vh;
+  background-color:transparent;
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  z-index: 1000;
+  transition: all 0.5s ease;
+  transition-timing-function: 0.5s ease-in;
+}
+
+
+.div{
+  background-color: white;
+  width: 500px;
+  height: 100vh;
+  padding: 2rem 2rem;
+}
+
+.div h3{
+  font-family: Gucci;
+  margin-bottom: 2rem;
+  margin-top: 0rem;
+}
+
+.close{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 2rem;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.loginInput{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.loginInput span{
+  color: #666565;
+  font-family: LVRegular;
+  font-size: 14px;
+  margin-bottom: 0.5vh;
+}
+
+.loginInput input{
+  width: 100%;
+  border: 1px solid #eeeded;
+  border-radius: 0.1rem;
+  padding: 1.5vh 1vw;
+  font-size: 13.5px;
+  letter-spacing: 0.5px;
+  font-family: LVRegular;
+  transition: border 0.4s ease;
+}
+
+.loginInput input:hover{
+  border-bottom: 1px solid #1f1f1f;
+}
+
+.loginInput input::placeholder{
+  font-weight: 100;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.loginInput input:focus{
+  outline: none;
+  border: 1px solid #e4e4e4;
+  border-bottom: 1px solid #1f1f1f;
+}
+
+.loginInput .optional{
+  font-size: 11px;
+  color: #777777;
+}
+
+.colors{
+  margin-top: 0.8rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.colors .colorSpan{
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  transition: scale 0.3s ease;
+  cursor: pointer;
+  box-shadow: 0 0 0.3rem lightgray;
+}
+
+.colors .colorSelected{
+  position: relative;
+  scale: 0.9;
+}
+
+.colors .colorSelected::after{
+  content: "";
+  height: 1.2px;
+  background: #1f1f1f;
+  border-radius: 50px;
+  position: absolute;
+  top: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%;
+}
+
+.colors .colorSelected:hover{
+  scale: 0.9 !important;
+}
+
+.colors .colorSpan:hover{
+  scale: 1.06;
+}
+
+.price{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.price i{
+  color: #1f1f1f;
+}
+
+.loginInput input::-webkit-outer-spin-button,
+.loginInput input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.button{
+  margin-top: 4rem;
+}
+
+.button button{
+  width: 100%;
+  border: none;
+  background-color: #1f1f1f;
+  color: white;
+  font-family: LVRegular;
+  font-size: 13px;
+  letter-spacing: 1px;
+  padding: 0.7rem;
+}

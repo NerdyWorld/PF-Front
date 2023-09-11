@@ -1,4 +1,4 @@
-import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
+import { createAction, createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import { userService } from "./userService";
 
 const initialState = {
@@ -13,6 +13,14 @@ const initialState = {
 export const loginUser = createAsyncThunk("loginUser", async(data, thunkAPI)=>{
   try{
     return await userService.loginUser(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
+export const googleLoginSlice = createAsyncThunk("googleLogin", async(data, thunkAPI)=>{
+  try{
+    return await userService.googleLogin(data);
   }catch(error){
     return thunkAPI.rejectWithValue(error);
   }
@@ -45,13 +53,40 @@ export const deleteUser = createAsyncThunk("deleteUser", async(userId, thunkAPI)
 })
 
 
-export const getUser = createAsyncThunk("getUser", async(thunkAPI)=>{
+export const getUser = createAsyncThunk("getUser", async(data, thunkAPI)=>{
   try{
-    return await userService.getUser();
+    return await userService.getUser(data);
   }catch(error){
     return thunkAPI.rejectWithValue(error);
   }
 })
+
+
+export const sendActivationCode = createAsyncThunk("sendActivationCode", async(data, thunkAPI)=>{
+  try{
+    return await userService.sendActivationCode(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
+export const validateCredentials = createAsyncThunk("validateCredentials", async(data, thunkAPI)=>{
+  try{
+    return await userService.validateCredentials(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
+export const createUser = createAsyncThunk("createUser", async(data, thunkAPI)=>{
+  try{
+    return await userService.createUser(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
+export const clearUserMessage = createAction("create-user-message");
 
 
 
@@ -69,14 +104,54 @@ export const userSlice = createSlice({
             state.isLoading = false;
             state.isSuccess = true;
             state.isError = false;
-            state.message = "User logged in";
-            state.user = action.payload;
+            state.message = action.payload.msg;
+            state.user = action.payload.data;
           })
           .addCase(loginUser.rejected, (state, action) =>{
             state.isLoading = false;
             state.isSuccess = false;
             state.isError = true;
-            state.message = "User logged error";
+            state.message = action.payload.msg;
+            state.user = null;
+          })
+
+          // CREATE USER
+          .addCase(createUser.pending, (state, action) =>{
+            state.isLoading = true;
+            state.message = "Creating user";
+          })
+          .addCase(createUser.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+            state.user = action.payload.data;
+          })
+          .addCase(createUser.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = action.payload.msg;
+            state.user = null;
+          })
+
+
+          // GOOGLE LOGIN
+          .addCase(googleLoginSlice.pending, (state, action) =>{
+            state.isLoading = true;
+          })
+          .addCase(googleLoginSlice.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+            state.user = action.payload.data;
+          })
+          .addCase(googleLoginSlice.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = "Google Login error";
             state.user = null;
           })
 
@@ -89,14 +164,14 @@ export const userSlice = createSlice({
             state.isLoading = false;
             state.isSuccess = true;
             state.isError = false;
-            state.message = "Github user logged";
+            state.message = action.payload.msg;
             state.user = action.payload.data;
           })
           .addCase(githubAuth.rejected, (state, action) =>{
             state.isLoading = false;
             state.isSuccess = false;
             state.isError = true;
-            state.message = "Github user log error";
+            state.message = action.payload.msg;
             state.user = null;
           })
 
@@ -137,6 +212,69 @@ export const userSlice = createSlice({
             state.isSuccess = false;
             state.isError = true;
             state.message = "User delete error";
+          })
+
+
+          // GET USER
+          .addCase(getUser.pending, (state, action) =>{
+            state.isLoading = true;
+          })
+          .addCase(getUser.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+            state.user = action.payload.data[0];
+          })
+          .addCase(getUser.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = "User not found";
+            state.user = null;
+          })
+
+
+          // SEND ACTIVATION CODE
+          .addCase(sendActivationCode.pending, (state, action) =>{
+            state.isLoading = true;
+          })
+          .addCase(sendActivationCode.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+          })
+          .addCase(sendActivationCode.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = "Error sending the activation code";
+          })
+
+          // VALIDATE CREDENTIALS
+          .addCase(validateCredentials.pending, (state, action) =>{
+            state.isLoading = true;
+            state.message = "Validating credentials"
+          })
+          .addCase(validateCredentials.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+          })
+          .addCase(validateCredentials.rejected, (state, action) =>{
+            console.log(action.payload);
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = action.payload.msg;
+          })
+
+
+          // ACTIONS
+          .addCase(clearUserMessage, (state)=>{
+            state.message = "";
           })
 
   }

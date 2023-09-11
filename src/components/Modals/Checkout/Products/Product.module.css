@@ -1,0 +1,128 @@
+.article{
+  position: fixed;
+  left: 0;
+  background-color: transparent;
+  width: 100%;
+  height: 100%;
+  z-index: 998;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  transition-timing-function: 0.3s ease;
+}
+
+.div{
+  width: 800px;
+  height: 550px;
+  background-color: whitesmoke;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.left{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.right{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100%;
+  position: relative;
+}
+
+.right h4{
+  margin-top: 2rem;
+  font-family: "Raleway Dots";
+  color: black;
+  font-size: 25px;
+}
+
+.brand{
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.price{
+  letter-spacing: 2px;
+  margin-top: 1rem;
+  font-size: 18px;
+}
+
+
+.total{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 100%;
+  background-color: #1f1f1f;
+  padding: 1.5rem 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.quantity{
+  color: whitesmoke;
+  width: 50%;
+  border-right: 1px solid #f7f7f7;
+}
+
+.quantity span:first-child{
+  letter-spacing: 1px;
+  font-size: 13.5px;
+}
+
+
+.totalPrice{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.totalPrice span{
+  color: whitesmoke;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.overview{
+  padding: 1rem 2.5rem;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.overview span{
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+.overview p{
+  margin-top: 0.6rem;
+  letter-spacing: 0.5px;
+  font-size: 13px;
+  line-height: 25px;
+}
+
+.close{
+  position: absolute;
+  top: 0px;
+  left: 4px;
+  color: #1f1f1f;
+  opacity: 0.8;
+  transition: opacity 0.5s ease;
+  cursor: pointer;
+}
+
+.close:hover{
+  opacity: 1;
+}

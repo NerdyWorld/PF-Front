@@ -1,0 +1,181 @@
+.article{
+  position: fixed;
+  top: 60px;
+  height: 500px;
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.814);
+  z-index: 3;
+  padding: 1rem;
+  padding-right: 0rem;
+  transition: all 0.6s ease;
+  transition-timing-function: 0.6s ease-in;
+}
+
+
+.div{
+  width: 100%;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  border-right: 1.5px solid #eae9e9;
+  padding: 3rem 3rem;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.div::-webkit-scrollbar{
+  display: none;
+}
+
+.container{
+  color: #1f1f1f;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.container h6{
+  font-size: 10px;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+  font-family: LVRegular;
+  cursor: default;
+}
+
+
+.women, .man{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.women{
+  width: 40%;
+}
+
+.man{
+  width: 60%;
+}
+
+
+.women span, .man span{
+  position: relative;
+  font-family: LVRegular;
+  font-size: 14px;
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+.women span::before, .man span::before{
+  /* content: "";
+  position: absolute;
+  bottom: -0px;
+  height: 0.5px;
+  width: 100%;
+  background: #1f1f1f;
+  transform: scaleX(0);
+  transition: transform 0.2s linear; */
+}
+
+
+.women span:hover::before, .man span:hover::before{
+  transform: scaleX(1);
+}
+
+
+
+.blog{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 65.25px;
+  cursor: pointer;
+}
+
+.blog span{
+  color: #1f1f1f;
+  font-family: LVRegular;
+}
+
+.blog span:first-child{
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.blog span:last-child{
+  font-size: 11px;
+  letter-spacing: 1px;
+}
+
+
+.blogImg{
+  width: fit-content;
+}
+
+.blogImg img{
+  width: 116px;
+  border-radius: 0.1rem;
+}
+
+.blogDetails{
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding-right: 0.9rem;
+}
+
+.world{
+  margin-top: 10%;
+  color: #1f1f1f;
+  font-family: LVRegular;
+  font-size: 9px;
+  letter-spacing: 1px;
+  margin-bottom: 5%;
+}
+
+
+/* QUERYS */
+
+/* BLOGS */
+
+@media only screen and (min-width: 1440px){
+  .blogs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .blog{
+    width: 50%;
+  }
+
+}
+
+@media only screen and (max-width: 1339.9px){
+  .blogs{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 0.5rem;
+  }
+
+  .blog{
+    width: 100%;
+  }
+
+  .blog span:first-child{
+    font-size: 13px;
+  }
+
+  .blog span:last-child{
+    font-size: 10px;
+  }
+
+}

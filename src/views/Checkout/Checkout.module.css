@@ -1,0 +1,260 @@
+.wrapper{
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
+.left{
+  width: 50%;
+  height: 100vh;
+  background-color: #ba3763;
+  position: relative;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+
+.goBack{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  z-index: 997;
+  cursor: pointer;
+}
+
+.goBack i{
+  color: whitesmoke;
+}
+
+.leftWe{
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.leftWe h3{
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 25px;
+  font-family: 'Merriweather', serif;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+
+.leftWelcome{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.leftWelcome i{
+  color: whitesmoke;
+}
+
+.leftWelcome span{
+  color: whitesmoke;
+  letter-spacing: 0.5px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 11px;
+  font-weight: 200;
+}
+
+
+.leftTotal{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+}
+
+.leftTotal span{
+  color: whitesmoke;
+  font-weight: 300;
+  font-size: 23px;
+}
+
+.leftSubTotal{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.leftSubTotal span{
+  font-size: 11px;
+  font-weight: 200;
+  color: whitesmoke;
+}
+
+
+.leftFooter{
+  position: absolute;
+  bottom: 30px;
+  left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.leftFooter span:first-child{
+  font-size: 11px;
+  color: whitesmoke;
+  letter-spacing: 0.5px;
+  padding-right: 2rem;
+  border-right: 1px solid whitesmoke;
+  cursor: pointer;
+}
+
+.leftFooter span:last-child{
+  font-size: 11px;
+  color: whitesmoke;
+  letter-spacing: 0.5px;
+  padding-left: 2rem;
+  cursor: pointer;
+}
+
+.leftItems{
+  height: 55vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  background-color: #b02e59;
+  border-radius: 0.2rem;
+  padding: 1.5rem;
+}
+
+.leftEachImg{
+  display: flex;
+  align-items: center;
+}
+
+.leftEachImg img{
+  background-color: whitesmoke;
+  width: 60%;
+  border-radius: 0.2rem;
+}
+
+.leftEachImg div{
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.leftEachImg div i{
+  color: whitesmoke;
+}
+
+
+.totalContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.grid{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.grid i{
+  color: whitesmoke;
+}
+
+
+
+.leftEachImgList{
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  transition: all 0.4s ease;
+}
+
+
+.leftEachImgList:hover{
+  background-color: #af355e;
+}
+
+.leftEachImgList img{
+  background-color: whitesmoke;
+  width: 60px;
+  border-radius: 0.2rem;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.leftEachImgList img:hover{
+  transform: scale(1.05);
+}
+
+.leftEachImgList i{
+  font-size: 20px;
+  color: whitesmoke;
+}
+
+.leftEachImgListSub{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.leftEachImgListSub2{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.leftEachImgListSub2 span:first-child{
+  font-size: 13.5px;
+  letter-spacing: 1px;
+  color: whitesmoke;
+}
+
+.leftEachImgListSub2 span:last-child{
+  font-size: 12px;
+  color: whitesmoke;
+}
+
+
+.leftEachImgListSub3{
+  color: whitesmoke;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+
+.right{
+  width: 50%;
+  background-color: #eaeaea;
+  height: 100vh;
+  position: relative;
+  overflow-y: auto;
+}
+
+.stripeDiv{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  flex-direction: column;
+  gap: 50px;
+  overflow-y: auto;
+  padding: 1.5rem 0rem;
+}
+
+

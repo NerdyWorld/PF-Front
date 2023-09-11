@@ -1,0 +1,114 @@
+.article{
+  position: fixed;
+  top: 0;
+  z-index: 3;
+  background-color: rgb(0, 0, 0, 0.13);
+  width: fit-content;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  transition: all 1s ease;
+  transition-timing-function: 1s ease-in;
+}
+
+.div{
+  height: 100vh;
+  overflow-y: auto;
+  background-color: rgb(0, 0, 0, 0.30);
+  width: 300px;
+  position: relative;
+}
+
+.container{
+  background-color: rgb(0, 0, 0, 0.30);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.collections{
+  width: 100%;
+  padding: 6rem 0rem;
+  padding-left: 2rem;
+  height: 90%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+  color: #1f1f1f;
+  font-family: LVRegular;
+}
+
+.collections h4{
+  position: relative;
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: white;
+  transition: all 0.5s ease-out;
+}
+
+.collections h4:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: -2.5px;
+  left: 0;
+  background-color:white;
+  transform-origin: bottom left;
+  transition: transform 0.25s ease-out;
+}
+
+.collections h4.active:after{
+  transform: scaleX(1);
+}
+
+
+.close{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  /* backdrop-filter: blur(10px); */
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+
+.close i{
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.close:active{
+  transform: scale(0.85);
+}
+
+
+.eachCollection{
+  padding: 1rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.eachCollection i{
+  color: white;
+  padding-right: 1rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.eachCollection:hover i{
+  opacity: 1;
+}

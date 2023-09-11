@@ -1,0 +1,108 @@
+.wrapper{
+  padding: 1rem 2rem;
+  height: 100vh;
+}
+
+h3{
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 5rem;
+  font-family: 'Quicksand', cursive;
+  text-decoration: underline;
+}
+
+
+.stepDiv{
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+
+.stepDiv span:last-child{
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+
+.step{
+  width: 16.5px;
+  height: 16.5px;
+  background-color: #ba3763c1;
+  color: whitesmoke;
+  border-radius: 50px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+  background-color: #e6e5e6;
+  padding: 1rem;
+  margin-bottom: 4rem;
+}
+
+.next{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  margin-right: 1rem;
+  margin-top: 2rem;
+}
+
+.next button{
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  background-color: #ba3763;
+  color: whitesmoke;
+}
+
+.prev{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.prev i{
+  color: #777777;
+  transition: scale 0.3s ease;
+}
+
+.prev i:hover{
+  scale: 1.1;
+}
+
+
+.form input{
+  font-size: 12px !important;
+  background-color: white;
+  font-weight: 400;
+}
+
+.form select{
+  font-size: 12px !important;
+}
+
+.form label{
+  font-size: 13px !important;
+  margin-top: 10px;
+}
+
+.form label::after{
+  background-color: transparent !important;
+}

@@ -132,7 +132,7 @@ const LandingFendi = ({ buttonText, onButtonClick, brandName }) => {
   }, []);
 
   return (
-    <>
+    <div className="landingClassForCarousel">
       <div className="brandContainer">
         <h2 className="brandName">{brandName}</h2>
       </div>
@@ -303,7 +303,7 @@ const LandingFendi = ({ buttonText, onButtonClick, brandName }) => {
           {buttonText}
         </button>
       </div>
-    </>
+    </div>
   );
 };
 

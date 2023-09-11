@@ -1,0 +1,331 @@
+.wrapper{
+  padding: 1rem 2rem;
+  height: 100vh;
+}
+
+.googleLogo{
+  width: 50%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #777777;
+  background-color: white;
+  box-shadow: 0 0 0.3rem lightgray;
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  transition: opacity 0.3s ease;
+  cursor: pointer;
+}
+
+
+.googleLogo.selected{
+  opacity: 1;
+}
+
+.googleLogo img{
+  width: 30px;
+}
+
+.googleLogo span{
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  width: 100%;
+  text-align: center;
+}
+
+.googleLogoImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.setAddress{
+  width: 50%;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: #777777;
+  box-shadow: 0 0 0.3rem lightgray;
+  padding: 0.5rem 1rem;
+  transition: opacity 0.3s ease;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.setAddress.selected{
+  opacity: 1;
+}
+
+.setAddress span{
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  width: 100%;
+  text-align: center;
+}
+
+.setAddressImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.setAddress img{
+  width: 30px;
+  border-radius: 50px;
+}
+
+
+.steps{
+  width: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.stepEach{
+  background-color: #ba3763;
+  color: whitesmoke;
+  width: 25px;
+  height: 25px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+.stepsContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.stepGrow{
+  height: 2px;
+  flex-grow: 1;
+  background-color: #ba3763;
+}
+
+.wrapper h3{
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 4rem;
+  margin-bottom: 2.7rem;
+  font-family: 'Quicksand', cursive;
+}
+
+
+.gLogoContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.setAddressContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.autocompleteInput{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.autocompleteInput input{
+  width: 50%;
+  border: none;
+  padding: 0.8rem 1rem;
+  text-align: center;
+  border-radius: 50px;
+  font-size: 12px !important;
+  letter-spacing: 1px !important;
+  transition: all 0.3s ease;
+}
+
+.autocompleteInput input::placeholder{
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.autocompleteInput input:focus{
+  outline: none;
+  width: 60%;
+}
+
+
+.autocompleteForm label{
+  margin-top: 10px !important;
+}
+.autocompleteForm{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  background-color: #e6e5e6;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.autocompleteFormForm{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.Form label{
+  margin-top: 10px !important;
+}
+
+.autocompleteFormForm label::after{
+  background-color: whitesmoke !important;
+}
+
+.autocompleteFormForm input{
+  background-color: whitesmoke;
+}
+
+.autocompleteFormForm input:focus{
+  background-color: whitesmoke !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid lightgray !important;
+}
+
+
+.formContainer{
+  background-color: #e6e5e6;
+  padding: 1rem;
+  position: relative;
+  margin-top: 2rem;
+}
+
+.formUser{
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+.formUser img{
+  border-radius: 50px;
+}
+
+.formWelcome{
+  text-align: center;
+  font-size: 13px;
+  color: #777777;
+  letter-spacing: 0.5px;
+}
+
+.Form{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.Form input{
+  background-color: white !important;
+}
+
+
+
+
+.Form input:focus{
+  background-color: white !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid lightgray !important;
+}
+
+.Form label::after{
+  background-color: transparent !important;
+}
+
+.infoZipCode{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 15px;
+}
+
+.autocompleteIcon{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.autocompleteInfo{
+  margin-bottom: 1.5rem;
+  font-size: 13px;
+  color: #777777;
+}
+
+.autocompleteInfo span:last-child{
+  color: #ba3763;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
+.goToStep2{
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  margin-right: 1rem;
+}
+
+.goToStep2 button{
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  background-color: #ba3763;
+  color: whitesmoke;
+}
+
+
+.stepDiv{
+  margin-top: 2rem;
+  display: flex;
+  width: 100%;
+  padding-left: 1rem;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+  padding: 0rem !important;
+  margin-bottom: 1rem;
+}
+
+.stepDiv span:last-child{
+  font-size: 12px;
+  letter-spacing: 0.5px;
+}
+
+.step{
+  width: 16.5px;
+  height: 16.5px;
+  background-color: #ba3763c1;
+  color: whitesmoke;
+  border-radius: 50px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
