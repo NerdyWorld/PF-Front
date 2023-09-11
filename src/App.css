@@ -928,7 +928,17 @@ input.form-control:focus {
   width: 100%;
   background: #0e0e0e;
 }
-
+.seeAll-collection{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.seeAll-collection:hover{
+ color: rgb(255, 150, 255);
+}
 .container-carousel-view {
   display: flex;
   position: relative;
