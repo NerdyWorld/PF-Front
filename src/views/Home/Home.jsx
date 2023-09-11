@@ -22,10 +22,11 @@ const Home = () => {
           titleLanding.current.style.transform = "translateX(0)";
           titleLanding.current.style.background = "#0e0e0e";
           titleLanding.current.style.color = "#fff";
-          titleLanding.current.style.paddingTop = "35px";
-          titleLanding.current.style.marginTop = "55px";
+          titleLanding.current.style.paddingTop = "120px";
+         
         } else if (scrolled >= 50 && scrolled < 150) {
           titleLanding.current.style.fontSize = "6rem";
+          titleLanding.current.style.paddingTop = "30px";
           titleLanding.current.style.background = "#0e0e0e";
           titleLanding.current.style.transform = "translateX(0)";
           titleLanding.current.style.marginTop = "0";
