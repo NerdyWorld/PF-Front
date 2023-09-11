@@ -22,7 +22,7 @@ const Router = () => {
           <Route path="collection/:name" element={<Collection />} />
           <Route path="seeAll/:collection" element={<SeeAll />} />
           <Route path="store" element={<Store />} />
-          <Route path="detail/:id" element={<Detail />} />
+          <Route path="products/:id" element={<Detail />} />
         </Route>
         <Route index element={<Landing />} />
         <Route path="/checkout" element={<Checkout />} />

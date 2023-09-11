@@ -3,10 +3,10 @@ import styles from "./Login.module.css";
 import axios from "axios"
 import { useGoogleLogin } from '@react-oauth/google';
 import { Translate } from 'react-auto-translate';
-import { GITHUB_CLIENT_ID } from '../../utils/utilities';
-import { clearUserMessage, githubAuth, googleLoginSlice, loginUser } from '../../features/user/userSlice';
+import { GITHUB_CLIENT_ID } from '../../../utils/utilities';
+import { clearUserMessage, githubAuth, googleLoginSlice, loginUser } from '../../../features/user/userSlice';
 import { useDispatch, useSelector } from 'react-redux';
-import { GlobalContext } from '../../context/globalContext';
+import { GlobalContext } from '../../../context/globalContext';
 import { Toast } from 'primereact/toast';
 import 'primereact/resources/themes/lara-light-indigo/theme.css';
 import "primereact/resources/primereact.min.css";                  //core css
@@ -19,7 +19,7 @@ const credentialsInitialState = {
   password: ""
 };
 
-const LoginModal = () => {
+const LoginModalN = () => {
   
   const refToast = useRef();
   const dispatch = useDispatch();
@@ -224,6 +224,7 @@ const LoginModal = () => {
         // Clear message state & close Login modal
         dispatch(clearUserMessage());
         setShowLoginModal(false);
+        navigate("/home");
       },2100);
     };
   }, [userMessage, user]);
@@ -297,4 +298,4 @@ const LoginModal = () => {
    );
 }
  
-export default LoginModal;
+export default LoginModalN;

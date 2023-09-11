@@ -1,9 +1,11 @@
 import React from "react";
 
 const CardCarousel = ({ categories = []}) => {
+  console.log(categories);
   return (
     <div className="card-carousel-container">
       {categories.map((category) => (
+        
         <div key={category.id} className="card card-view">
           <div
             id={`carousel${category.id}`}
@@ -15,7 +17,7 @@ const CardCarousel = ({ categories = []}) => {
                 <div
                   key={index}
                   className={`card-carousel-item carousel-item ${
-                    index === 0 ? "active" : ""
+                    index === 0 && "active"
                   }`}
                 >
                   <div className="background-card">

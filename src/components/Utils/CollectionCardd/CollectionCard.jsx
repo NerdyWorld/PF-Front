@@ -3,6 +3,7 @@ import ColCardSlider from '../ColCardSlider/ColCardSlider';
 import styles from "./CollectionCard.module.css";
 import { GlobalContext } from '../../../context/globalContext';
 import { useSelector } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
 
 const CollectionCard = ({el, index}) => {
 
@@ -11,6 +12,7 @@ const CollectionCard = ({el, index}) => {
   const { getPriceByCurrency } = globalContext;
   const state = useSelector(state => state);
   const { filterProducts } = state.products;
+  const navigate = useNavigate();
   
   const [color, setColor] = useState(el.colors[0]);
 
@@ -25,7 +27,7 @@ const CollectionCard = ({el, index}) => {
       <ColCardSlider el={el} index={index} color={color}/>
       <div className={styles.details}>
         <div className={styles.left}>
-          <span>{el.name}</span>
+          <span onClick={()=> navigate(`/products/${el.id}`)}>{el.name}</span>
           <span>{getPriceByCurrency(el.price)}</span>
         </div>
         <div className={styles.colors}>

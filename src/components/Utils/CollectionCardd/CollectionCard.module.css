@@ -16,6 +16,7 @@
 .left span:first-child{
   font-size: 13px;
   font-family: LVRegular;
+  cursor: pointer;
 }
 
 .left span:last-child{

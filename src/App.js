@@ -10,6 +10,7 @@ import jwt_decode from "jwt-decode";
 import { getUser } from "./features/user/userSlice";
 import { useDispatch } from "react-redux";
 import { getAllProducts, getColors } from "./features/products/productSlice";
+import LoginModal from "./components/Modals/LoginModal";
 
 
 
@@ -20,7 +21,7 @@ function App() {
 
   // CONTEXT API
   const context = useContext(GlobalContext);
-  const { setLogged, language, setLanguage, setCurrency, refAutocomplete, handleChangeAddress, refToastCheckoutAutocomplete } = context;
+  const { setLogged, language, setLanguage, setCurrency, refAutocomplete, handleChangeAddress, refToastCheckoutAutocomplete, showLoginModal } = context;
 
 
   // GOOGLE PLACES AUTOCOMPLETE
@@ -104,6 +105,7 @@ function App() {
 
   return (
     <div>
+      
       <Toast ref={refToastCheckoutAutocomplete} position='top-left'></Toast>
 
       {/* TRANSLATOR PROVIDER, TIENE QUE ESTAR EN APP.JS PORQUE NECESITA ACCESO AL CONTEXT API */}
