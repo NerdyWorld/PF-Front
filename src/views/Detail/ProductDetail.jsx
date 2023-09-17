@@ -4,9 +4,11 @@ import { SiAmericanexpress } from "react-icons/si";
 import { FaCcMastercard } from "react-icons/fa6";
 import { FaGooglePay } from "react-icons/fa6";
 import { useDispatch, useSelector } from "react-redux";
-import { getAllProducts } from "../../features/products/productSlice";
+import { getAllProducts  } from "../../features/products/productSlice";
+import  RatingComponent  from './RatingComponent';
 
 const ProductDetail = ({ productId }) => {
+  const [isReviewsOpen, setIsReviewsOpen] = useState(false);
   const [isMenuDetailOpen, setMenuDetailOpen] = useState(false);
   const [isMaterialOpen, setMaterialOpen] = useState(false);
   const [isPaymentOptionsOpen, setPaymentOptionsOpen] = useState(false);
@@ -24,7 +26,7 @@ const ProductDetail = ({ productId }) => {
 
   const [selectedColor, setSelectedColor] = useState(
     product && product.colors && product.colors.length > 0
-      ? product.colors[0] 
+      ? product.colors[0]
       : ""
   );
   const toggleMenu = () => {
@@ -38,11 +40,17 @@ const ProductDetail = ({ productId }) => {
     setPaymentOptionsOpen(!isPaymentOptionsOpen);
   };
 
+  const toggleReviewsOpen = () => {
+    setIsReviewsOpen(!isReviewsOpen);
+  };
+
   if (!product) {
     return <div>Loading...</div>;
   }
   const handleColorClick = (color) => {
     setSelectedColor(color);
+
+  
   };
   return (
     <div className={`detail-container ${isMenuDetailOpen ? "open" : ""}`}>
@@ -77,14 +85,13 @@ const ProductDetail = ({ productId }) => {
                 <li key={index}>{spec}</li>
               ))}
           </ul> */}
-            {product && product.colors && product.colors.length > 0 && (
+          {product && product.colors && product.colors.length > 0 && (
             <div className="colors-detail">
               {product.colors.map((color, index) => (
                 <span
                   key={index}
-                  className={`color-sample ${
-                    color === selectedColor ? "selected" : ""
-                  }`}
+                  className={`color-sample ${color === selectedColor ? "selected" : ""
+                    }`}
                   style={{ backgroundColor: color }}
                   onClick={() => handleColorClick(color)}
                 ></span>
@@ -178,6 +185,17 @@ const ProductDetail = ({ productId }) => {
               </div>
             </div>
           )}
+          <div className="section-toggle" onClick={toggleReviewsOpen}>
+            <h4 className="subtitle-detail">REVIEWS</h4>
+            <span className="toggle-icon">{isMaterialOpen ? "-" : "+"}</span>
+          </div>
+          {isReviewsOpen && (
+            <div className="reviews-container">
+              <RatingComponent/>
+              <p>Leave your comments</p>
+            </div>
+          )
+          }
         </div>
       )}
     </div>

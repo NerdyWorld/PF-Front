@@ -230,7 +230,7 @@ const LoginModalN = () => {
   }, [userMessage, user]);
 
   return ( 
-    <article className={`${styles.article} loginModalUtil`} style={{right: showLoginModal ? "0" : "-1500px"}}>
+    <article className={`${styles.article} loginModalUtil`} style={{right: showLoginModal ? "0" : "-300vw"}}>
       <Toast ref={refToast} position='top-left'></Toast>
       <div className={styles.div}>
         <div className={styles.container}>
