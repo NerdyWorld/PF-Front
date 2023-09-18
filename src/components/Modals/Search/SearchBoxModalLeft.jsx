@@ -1,10 +1,12 @@
 import React, { useContext } from 'react';
 import styles from "./SearchBoxModalLeft.module.css";
-import { GlobalContext } from '../../context/globalContext';
+import { GlobalContext } from '../../../context/globalContext';
+import { useNavigate } from 'react-router-dom';
 
 
 const SearchBoxModalLeft = () => {
 
+  const navigate = useNavigate();
   const globalContext = useContext(GlobalContext);
   const { showSearchModal } = globalContext;
 
@@ -17,16 +19,16 @@ const SearchBoxModalLeft = () => {
         <div className={styles.container}>
           <div className={styles.women}>
             <h6>WOMEN</h6>
-            <span>Bags</span>
-            <span>Heels</span>
-            <span>Sneakers</span>
-            <span>Sunglasses</span>
-            <span>Accesories</span>
+            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Bags")}>Bags</span>
+            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Heels")}>Heels</span>
+            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Sneakers")}>Sneakers</span>
+            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Sunglasses")}>Sunglasses</span>
+            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Accessories")}>Accessories</span>
           </div>
           <div className={styles.man}>
             <h6>MAN</h6>
             <span>Sneakers</span>
-            <span>Accesories</span>
+            <span>Accessories</span>
             <span>Sunglasses</span>
           </div>
         </div>

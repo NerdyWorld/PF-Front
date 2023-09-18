@@ -1120,7 +1120,7 @@ input.form-control:focus {
 .createAccount .p-toast-message{
   background-color: rgb(0, 0, 0, 0.50) !important;
   color: white !important;
-  font-family: LVRegular;
+  font-family: LVRegular !important;
   border-left: 6px solid #ffffff4e !important;
 }
 
@@ -1270,7 +1270,7 @@ input.form-control:focus {
 .createAccount .p-dropdown .p-dropdown-label{
   font-weight: 100 !important;
   letter-spacing: 1px !important;
-  font-family: LVRegular;
+  font-family: LVRegular !important;
   font-size: 11.5px !important;
   margin: 0 !important;
   padding: 2.09vh 1vw !important;
@@ -1475,9 +1475,60 @@ input.form-control:focus {
 /* NEW CHANGES */
 
 
-.carousel-inner.dolce{
-  height: 380px !important;
+
+.collection-card .carousel-control-prev-icon{
+  content: "<" !important;
+  height: 1.5vh;
+  opacity: 0;
+  transition: all 0.5s ease;
+  visibility: hidden;
 }
+
+.collection-card .carousel-control-next-icon{
+  content: ">" !important;
+  height: 1.5vh;
+  opacity: 0;
+  transition: all 0.5s ease;
+  visibility: hidden;
+}
+
+
+.collection-card:hover .carousel-control-prev-icon, .collection-card:hover .carousel-control-next-icon{
+  opacity: 1;
+  visibility: visible;
+}
+
+.collection-card .carousel-item{
+  
+  width: 100% !important;
+}
+
+.carousel-item.dolce{
+  height: 430px !important;
+}
+
+.carousel-item.lv img{
+  background-image: linear-gradient(
+  330deg,
+  hsl(0deg 0% 100%) 0%,
+  hsl(344deg 0% 99%) 16%,
+  hsl(344deg 0% 97%) 36%,
+  hsl(344deg 0% 96%) 49%,
+  hsl(344deg 0% 95%) 59%,
+  hsl(344deg 0% 93%) 68%,
+  hsl(344deg 0% 92%) 77%,
+  hsl(344deg 0% 91%) 85%,
+  hsl(344deg 0% 89%) 93%,
+  hsl(0deg 0% 88%) 100%
+);
+}
+.carousel-item.ourStore{
+  max-height: 350px !important;
+}
+.carousel-item.ourStore.dolce img{
+  margin-top: -99.24px;
+}
+
 
 
 
@@ -1522,6 +1573,59 @@ input.form-control:focus {
 }
 
 
+.createAccount .p-dropdown{
+  width: 100% !important;
+  border: 1px solid #eeeded !important;
+  border-radius: 0.1rem !important;
+  font-size: 13.5px !important;
+  letter-spacing: 0.5px !important;
+  font-family: LVRegular !important;
+  transition: border 0.4s ease !important;
+}
+
+.createAccount .p-dropdown:hover{
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.createAccount .p-focus{
+  outline: none !important;
+  border: 1px solid #e4e4e4 !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #1f1f1f !important;
+}
+
+.createAccount .p-dropdown .p-dropdown-label{
+  font-weight: 100 !important;
+  letter-spacing: 1px !important;
+  font-family: LVRegular !important;
+  font-size: 11.5px !important;
+  margin: 0 !important;
+  padding: 2.09vh 1vw !important;
+}
+
+
+.createAccount .p-dropdown .p-dropdown-trigger{
+  width: 1.5rem !important;
+  margin-right: 0.5vw;
+}
+
+.createAccount .p-dropdown .p-dropdown-trigger svg{
+  width: 10px !important;
+}
+
+.p-dropdown-item[aria-label="Male"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+.p-dropdown-item[aria-label="Female"]{
+  font-family: LVRegular !important;
+  font-size: 12px !important;
+  padding: 0.8rem 1rem !important;
+}
+
+
 .p-dropdown-item[aria-label="Bags"]{
   font-family: LVRegular !important;
   font-size: 12px !important;
@@ -1562,47 +1666,6 @@ input.form-control:focus {
 /* NEW CHANGES ENDS */
 
 
-/* FONT FACES */
-@font-face{
-  font-family: "Gucci";
-  src: local("Gucci"),
-  url("./Fonts/gucci/gucci.woff") format("woff")
-}
-
-@font-face{
-  font-family: "LVRegular";
-  src: local("LVRegular"),
-  url("./Fonts/lv/LouisVuitton-Regular.woff2") format("woff2")
-}
-
-
-@font-face{
-  font-family: "LVOblique";
-  src: local("LVOblique"),
-  url("./Fonts/lv/LouisVuitton-Oblique.woff2") format("woff2")
-}
-
-
-
-@font-face{
-  font-family: "OPTIMA";
-  src: local("OPTIMA"),
-  url("./Fonts/fearOfGod/OPTIMA.woff2") format("woff2")
-}
-
-
-@font-face{
-  font-family: "navBarTitle";
-  src: local("navBarTitle"),
-  url("./Fonts/fearOfGod/HelveticaNeueLTPro-Cn.woff2") format("woff2")
-}
-
-
-@font-face{
-  font-family: "navBarLinks";
-  src: local("navBarLinks"),
-  url("./Fonts/fearOfGod/HelveticaNeueLTPro-LtCn.woff2") format("woff2")
-}
 
 /* DETAIL  */
 
@@ -1807,4 +1870,59 @@ input.form-control:focus {
 .card-det{  
   color: rgb(0, 0, 0);
   font-size: 13px;
+}
+
+
+/* FONT FACES */
+@font-face{
+  font-family: "Gucci";
+  src: local("Gucci"),
+  url("./Fonts/gucci/gucci.woff") format("woff")
+}
+
+@font-face{
+  font-family: "LVRegular";
+  src: local("LVRegular"),
+  url("./Fonts/lv/LouisVuitton-Regular.woff2") format("woff2")
+}
+
+
+@font-face{
+  font-family: "LVOblique";
+  src: local("LVOblique"),
+  url("./Fonts/lv/LouisVuitton-Oblique.woff2") format("woff2")
+}
+
+@font-face{
+  font-family: "Louis Vuitton Web";
+  src: local("Louis Vuitton Web"),
+  url("./Fonts/lv/LouisVuitton-Light.woff2") format("woff2")
+}
+
+
+
+@font-face{
+  font-family: "OPTIMA";
+  src: local("OPTIMA"),
+  url("./Fonts/fearOfGod/OPTIMA.woff2") format("woff2")
+}
+
+
+@font-face{
+  font-family: "navBarTitle";
+  src: local("navBarTitle"),
+  url("./Fonts/fearOfGod/HelveticaNeueLTPro-Cn.woff2") format("woff2")
+}
+
+
+@font-face{
+  font-family: "navBarLinks";
+  src: local("navBarLinks"),
+  url("./Fonts/fearOfGod/HelveticaNeueLTPro-LtCn.woff2") format("woff2")
+}
+
+@font-face{
+  font-family: "Futura";
+  src: local("Futura"),
+  url("./Fonts/FuturaStd-Medium.woff2") format("woff2")
 }

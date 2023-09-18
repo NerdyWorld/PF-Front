@@ -1,0 +1,88 @@
+.footer{
+  padding: 0 120px 32px;
+  width: 100%;
+  height: 213px;
+  background-color: #19110b;
+}
+
+
+.footer h5{
+  padding: 32px 0px;
+  color: white;
+  font-family: LVRegular;
+  text-transform: uppercase;
+  font-size: 17px;
+  letter-spacing: 1px;
+  border-bottom: 1px solid #392d23;
+}
+
+.languageContainer{
+  margin-top: 1.8rem;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.world{
+  transition: opacity 0.4s ease;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.world i{
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.934);
+}
+
+.world i:hover{
+  color: rgba(255, 255, 255, 0.934);
+}
+
+.languages{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.language{
+  cursor: pointer;
+  font-family: navBarLinks;
+  font-size: 11.5px;
+  padding: 0rem 0.3rem;
+}
+
+.language span{
+  position: relative;
+  color: white;
+}
+
+.language .chosenLanguage::after{
+  left: 50%;
+  transform: translateX(-50%);
+  content: "";
+  height: 1px;
+  background-color: white;
+  position: absolute;
+  top: -5px;
+  width: 100%;
+}
+
+.language span::before{
+  content: "";
+  position: absolute;
+  bottom: -1.5px;
+  height: 1px;
+  width: 100%;
+  background: white;
+  transform: scaleX(0);
+  transition: transform 0.2s linear;
+}
+
+.language .active::before{
+  transform: scaleX(1);
+}
+
+.language span:hover::before{
+  transform: scaleX(1);
+}

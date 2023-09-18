@@ -1,0 +1,258 @@
+
+.content{
+  padding: 24px 120px;
+  background-color: #F6F5F3;
+  min-height: 100vh;
+}
+
+
+.content .title{
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.125rem;
+  line-height: 1.1428571428571428;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eae8e4;
+  flex: 1 1 100%;
+}
+
+
+.content .subTitle{
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.75rem;
+  line-height: 1.1428571428571428;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  padding: 32px 0px 24px;
+  flex: 1 1 100%;
+}
+
+.container{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 15px;
+  width: 100%;
+}
+
+
+.left{
+  width: 50%;
+}
+
+
+
+.right{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+
+
+.loginInput{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.loginInput span{
+  color: #666565;
+  font-family: LVRegular;
+  font-size: 14px;
+  margin-bottom: 0.5vh;
+}
+
+.loginInput input{
+  width: 100%;
+  border: 1px solid #eeeded;
+  border-radius: 0.1rem;
+  padding: 1.5vh 1vw;
+  font-size: 13.5px;
+  letter-spacing: 0.5px;
+  font-family: LVRegular;
+  transition: border 0.4s ease;
+}
+
+
+
+.loginInput input:hover{
+  border-bottom: 1px solid #1f1f1f;
+}
+
+.loginInput input::placeholder{
+  font-weight: 100;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.loginInput input:focus{
+  outline: none;
+  border: 1px solid #e4e4e4;
+  border-bottom: 1px solid #1f1f1f;
+}
+
+.leftContainer{
+  background-color: white;
+  padding: 24px 32px;
+}
+
+.leftContainer form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.requiredFields{
+  font-family: LVRegular;
+  font-size: 14px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 0 0 16px;
+}
+
+
+.sections{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+  transition: all 0.6s ease;
+  transition-timing-function: 0.6s ease;
+}
+
+.sections.fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 997;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3vw;
+  margin-right: 12vw;
+  font-family: navBarTitle;
+  letter-spacing: 2px;
+}
+
+.logo span{
+  font-family: LVOblique;
+  padding-right: 2px;
+}
+
+.logo h5{
+  margin: 0;
+  margin-top: 4px;
+}
+
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  border-right: 1px solid #eae8e4;
+  padding: 30px;
+  font-size: 14px;
+  font-family: LVRegular;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  border-bottom: 2.5px solid transparent;
+  transition: border 0.4s ease;
+  cursor: pointer;
+}
+
+.section:hover{
+  border-bottom: 2.5px solid #1f1f1f;
+}
+
+
+.validEmail{
+  position: absolute;
+  top: 50%;
+  right: 3%;
+  transform: translateY(-50%);
+  transition: opacity 0.4s ease;
+}
+
+.validEmail i{
+  color: #469246;
+  font-size: 12px;
+}
+
+.blackButton{
+  padding: 1rem 0rem;
+  width: 100%;
+  padding-bottom: 1.5rem;
+}
+
+.blackButton button{
+  background-color: #1f1f1f;
+  color: white;
+  font-family: LVRegular;
+  border: none;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  width: 100%;
+  border-radius: 1px;
+  padding: 1rem;
+}
+
+
+
+
+.rightContainer{
+  background-color: white;
+  padding: 24px 32px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.rightContainer span{
+  color: #1f1f1f !important;
+}
+
+
+.password{
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.password span{
+  font-family: LVRegular;
+  font-size: 14px;
+}
+
+.password button{
+  border: none;
+  background-color: #1f1f1f;
+  color: white;
+  width: fit-content;
+  font-family: LVRegular;
+  font-size: 13px;
+  letter-spacing: 1px;
+  padding: 0.8rem 1.5rem;
+  border-radius: 1px;
+}

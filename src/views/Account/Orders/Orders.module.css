@@ -1,0 +1,137 @@
+
+
+.sections{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+  transition: all 0.6s ease;
+  transition-timing-function: 0.6s ease;
+}
+
+.sections.fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 997;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3vw;
+  margin-right: 12vw;
+  font-family: navBarTitle;
+  letter-spacing: 2px;
+}
+
+.logo span{
+  font-family: LVOblique;
+  padding-right: 2px;
+}
+
+.logo h5{
+  margin: 0;
+  margin-top: 4px;
+}
+
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  border-right: 1px solid #eae8e4;
+  padding: 30px;
+  font-size: 14px;
+  font-family: LVRegular;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  border-bottom: 2.5px solid transparent;
+  transition: border 0.4s ease;
+  cursor: pointer;
+}
+
+.section:hover{
+  border-bottom: 2.5px solid #1f1f1f;
+}
+
+
+.content{
+  padding: 24px 120px;
+  padding-bottom: 80px;
+  min-height: 100vh;
+  background-color: #f6f5f3;
+  width: 100%;
+}
+
+
+.content .title{
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.125rem;
+  line-height: 1.1428571428571428;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eae8e4;
+  flex: 1 1 100%;
+}
+
+.content .subTitle{
+  font-weight: 400;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.75rem;
+  line-height: 1.1428571428571428;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  padding: 32px 0px 24px;
+  flex: 1 1 100%;
+  margin-top: 4rem;
+}
+
+.container{
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+.emptyOrders{
+  height: 80px;
+  padding: 24px 32px;
+  background-color: white;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+
+.emptyOrders p{
+  margin: 0;
+  font-family: Louis Vuitton Web;
+  color: #1f1f1f;
+  font-size: 13px;
+  letter-spacing: 0.8px;
+}
+
+
+.order{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background-color: #eae8e4;
+}

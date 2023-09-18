@@ -3,6 +3,7 @@
   width: 25%;
 }
 
+
 .details{
   position: relative;
   padding: 1.5rem 0.5rem 0.5rem 0.5rem;
@@ -16,7 +17,6 @@
 .left span:first-child{
   font-size: 13px;
   font-family: LVRegular;
-  cursor: pointer;
 }
 
 .left span:last-child{
@@ -64,3 +64,5 @@
 .activeSpan::after{
   transform: translateX(-50%) scaleX(1);
 }
+
+

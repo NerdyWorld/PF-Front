@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import styles from "./Language.module.css";     
-import { GlobalContext } from '../../context/globalContext';
+import { GlobalContext } from '../../../context/globalContext';
 
 const LanguageModal = () => {
 

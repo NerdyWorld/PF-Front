@@ -3,6 +3,7 @@ import { userService } from "./userService";
 
 const initialState = {
   user: null,
+  userOrders: [],
   isLoading: false,
   isError: false,
   isSuccess: false,
@@ -86,6 +87,33 @@ export const createUser = createAsyncThunk("createUser", async(data, thunkAPI)=>
   }
 })
 
+
+export const favToggle = createAsyncThunk("favToggle", async(data, thunkAPI)=>{
+  try{
+    return await userService.favToggle(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
+
+export const contactPreference = createAsyncThunk("contactPreference", async(data, thunkAPI)=>{
+  try{
+    return await userService.contactPreference(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
+
+export const getUserOrders = createAsyncThunk("getUserOrders", async(data, thunkAPI)=>{
+  try{
+    return await userService.getUserOrders(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
 export const clearUserMessage = createAction("create-user-message");
 
 
@@ -99,6 +127,7 @@ export const userSlice = createSlice({
           // LOGIN USER
           .addCase(loginUser.pending, (state, action) =>{
             state.isLoading = true;
+            state.message = "Logging in user";
           })
           .addCase(loginUser.fulfilled, (state, action)=>{
             state.isLoading = false;
@@ -179,13 +208,14 @@ export const userSlice = createSlice({
           // UPDATE USER
           .addCase(updateUser.pending, (state, action) =>{
             state.isLoading = true;
+            state.message = "Updating user";
           })
           .addCase(updateUser.fulfilled, (state, action)=>{
             state.isLoading = false;
             state.isSuccess = true;
             state.isError = false;
-            state.message = "User updated";
-            state.user = action.payload;
+            state.message = action.payload.msg;
+            state.user = action.payload.data ? action.payload.data : state.user;
           })
           .addCase(updateUser.rejected, (state, action) =>{
             state.isLoading = false;
@@ -224,7 +254,7 @@ export const userSlice = createSlice({
             state.isSuccess = true;
             state.isError = false;
             state.message = action.payload.msg;
-            state.user = action.payload.data[0];
+            state.user = action.payload.data;
           })
           .addCase(getUser.rejected, (state, action) =>{
             state.isLoading = false;
@@ -232,6 +262,65 @@ export const userSlice = createSlice({
             state.isError = true;
             state.message = "User not found";
             state.user = null;
+          })
+
+
+          // GET USER ORDERS
+          .addCase(getUserOrders.pending, (state, action) =>{
+            state.isLoading = true;
+          })
+          .addCase(getUserOrders.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+            state.userOrders = action.payload.data;
+          })
+          .addCase(getUserOrders.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = "User not found";
+            state.userOrders = [];
+          })
+
+
+          // CONTACT PREFERENCE
+          .addCase(contactPreference.pending, (state, action) =>{
+            state.isLoading = true;
+            state.message = `Updating preference ${action.meta.arg.contactPreference}`;
+          })
+          .addCase(contactPreference.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+            state.user = action.payload.data ? action.payload.data : state.user;
+          })
+          .addCase(contactPreference.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = "User not found";
+          })
+
+
+          // FAV TOGGLE
+          .addCase(favToggle.pending, (state, action) =>{
+            state.isLoading = true;
+          })
+          .addCase(favToggle.fulfilled, (state, action)=>{
+            state.isLoading = false;
+            state.isSuccess = true;
+            state.isError = false;
+            state.message = action.payload.msg;
+            state.user = action.payload.data;
+          })
+          .addCase(favToggle.rejected, (state, action) =>{
+            state.isLoading = false;
+            state.isSuccess = false;
+            state.isError = true;
+            state.message = "User not found";
           })
 
 

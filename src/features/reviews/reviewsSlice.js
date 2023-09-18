@@ -36,7 +36,7 @@ export const reviewsSlice = createSlice({
   extraReducers: (builder)=>{
     builder
           // GET ALL REVIEWS
-          .addCase(getAllReviews.loading, (state)=>{
+          .addCase(getAllReviews.pending, (state)=>{
             state.isLoading = true;
           })
           .addCase(getAllReviews.fulfilled, (state, action)=>{
@@ -56,7 +56,7 @@ export const reviewsSlice = createSlice({
 
 
           // CREATE REVIEW
-          .addCase(createReview.loading, (state)=>{
+          .addCase(createReview.pending, (state)=>{
             state.isLoading = true;
           })
           .addCase(createReview.fulfilled, (state, action)=>{
