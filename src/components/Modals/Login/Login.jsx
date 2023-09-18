@@ -12,6 +12,7 @@ import 'primereact/resources/themes/lara-light-indigo/theme.css';
 import "primereact/resources/primereact.min.css";                  //core css
 import "primeicons/primeicons.css"; 
 import { useNavigate } from 'react-router-dom';
+import { TailSpin } from 'react-loader-spinner';
 
 
 const credentialsInitialState = {
@@ -19,7 +20,7 @@ const credentialsInitialState = {
   password: ""
 };
 
-const LoginModalN = () => {
+const LoginModal = () => {
   
   const refToast = useRef();
   const dispatch = useDispatch();
@@ -47,6 +48,8 @@ const LoginModalN = () => {
     dispatch(loginUser(credentials));
   };
 
+  const [showPassword, setShowPassword] = useState(false);
+
   // GITHUB LOGIN
   const githubLogin = () =>{
     window.location.assign(`https://github.com/login/oauth/authorize?client_id=${GITHUB_CLIENT_ID}&scope=read:user,user:email`);
@@ -73,16 +76,14 @@ const LoginModalN = () => {
     // FOR GOOGLE LOGIN
     (async()=>{
       if(token){
-        const getData = await axios("https://people.googleapis.com/v1/people/me?personFields=names,emailAddresses,birthdays,genders", {
+        const getData = await axios("https://people.googleapis.com/v1/people/me?personFields=names,emailAddresses", {
           headers:{
             "Authorization": `Bearer ${token}`,
             "Accept":"application/json"
           }
         });
 
-
         // PETITION TO GOOGLE AUTH CONTROLLER IN THE BACK
-        
         dispatch(googleLoginSlice({
           email: getData.data.emailAddresses[0].value,
           userName: getData.data.names[0].givenName,
@@ -226,7 +227,6 @@ const LoginModalN = () => {
         // Clear message state & close Login modal
         dispatch(clearUserMessage());
         setShowLoginModal(false);
-        navigate("/home");
       },2100);
     };
   }, [userMessage, user]);
@@ -257,12 +257,36 @@ const LoginModalN = () => {
                 </div>
                 <div className={`${styles.loginInput} mt-3`}>
                   <span><Translate>Password</Translate></span>
-                  <input type="password" name='password' onChange={handleCredentials} value={credentials.password} />
+                  <div className='position-relative'>
+                    <input type={`${showPassword ? "text" : "password"}`} name='password' onChange={handleCredentials} value={credentials.password} />
+                    <div className={styles.showPassword}>
+                      {
+                        !showPassword ? <i className="fa-solid fa-eye-slash" onClick={()=> setShowPassword(!showPassword)}></i> : <i className="fa-solid fa-eye" onClick={()=> setShowPassword(!showPassword)}></i>
+                      }
+                    </div>
+                  </div>
                 </div>
 
                 <span className={styles.forgotPassword}><Translate>Forgot your password?</Translate></span>
 
-                <button type='submit' className={styles.loginButton}><Translate>Log in</Translate></button>
+                <button type='submit' className={`${styles.loginButton} d-flex align-items-center justify-content-center`}>
+                  {
+                    userMessage === "Logging in user" ? (
+                      <TailSpin
+                        height="20"
+                        width="20"
+                        color="white"
+                        ariaLabel="tail-spin-loading"
+                        radius="1"
+                        wrapperStyle={{}}
+                        wrapperClass=""
+                        visible={true}
+                      />
+                    ):(
+                      <Translate>Log in</Translate>
+                    )
+                  }
+                </button>
               </form>
 
               {/* Or */}
@@ -300,4 +324,4 @@ const LoginModalN = () => {
    );
 }
  
-export default LoginModalN;
+export default LoginModal;

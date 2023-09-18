@@ -19,11 +19,11 @@ const SearchBoxModalLeft = () => {
         <div className={styles.container}>
           <div className={styles.women}>
             <h6>WOMEN</h6>
-            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Bags")}>Bags</span>
-            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Heels")}>Heels</span>
-            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Sneakers")}>Sneakers</span>
-            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Sunglasses")}>Sunglasses</span>
-            <span onClick={()=> window.location.assign("http://localhost:3000/ourStore?category=Accessories")}>Accessories</span>
+            <span onClick={()=> window.location.assign("https://rivelle.netlify.app/ourStore?category=Bags")}>Bags</span>
+            <span onClick={()=> window.location.assign("https://rivelle.netlify.app/ourStore?category=Heels")}>Heels</span>
+            <span onClick={()=> window.location.assign("https://rivelle.netlify.app/ourStore?category=Sneakers")}>Sneakers</span>
+            <span onClick={()=> window.location.assign("https://rivelle.netlify.app/ourStore?category=Sunglasses")}>Sunglasses</span>
+            <span onClick={()=> window.location.assign("https://rivelle.netlify.app/ourStore?category=Accessories")}>Accessories</span>
           </div>
           <div className={styles.man}>
             <h6>MAN</h6>
