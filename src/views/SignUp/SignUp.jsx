@@ -20,7 +20,7 @@ const SignUp = () => {
 
   // CONTEXT API
   const globalContext = useContext(GlobalContext);
-  const { language, setLanguage } = globalContext;
+  const { language, setLanguage, setLogged } = globalContext;
 
   
   // TOAST REF
@@ -29,7 +29,7 @@ const SignUp = () => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const state = useSelector(state => state);
-  const { message } = state.user;
+  const { message, user } = state.user;
 
   const [section1, setSection1] = useState(true);
   const [section2, setSection2] = useState(false);
@@ -176,6 +176,15 @@ const SignUp = () => {
     };
 
     if(message === "User created"){
+      // Setear LS con userID encriptado
+      if(user && user.encodedId){
+        localStorage.setItem("nerdyUser", JSON.stringify({userId: user.encodedId}))
+      };
+
+      // setLogged to allow functionalities
+      setLogged({
+        userId: user.encodedId
+      })
       refToast.current.show({life: 2000, severity: "success", summary: `Welcome ${username}`, detail: `It's a pleasure to have you with us!`});
       setTimeout(()=>{
         dispatch(clearUserMessage());
@@ -357,7 +366,7 @@ const SignUp = () => {
     <div className={`${styles.wrapper} createAccount`}>
      <Toast ref={refToast} position='top-left'></Toast>
       <div className={styles.header}>
-        <h5>Rivélle</h5>
+        <h5>Made in Heaven</h5>
         <span>Create Account</span>
       </div>
       
@@ -615,7 +624,7 @@ const SignUp = () => {
                     </div>
                     <div className={`birthday ${styles.loginInput}`}>
                       <span><Translate>Birth date *</Translate></span>
-                      <Calendar value={originalDate} onChange={(e) => {setPersonalInformation({...personalInformation, birthday: new Date(e.value).getTime()}) ; setOriginalDate(e.value)}} />
+                      <Calendar value={originalDate} onChange={(e) => {setPersonalInformation({...personalInformation, birthday: e.value})}} />
                     </div>
                 </div>
               </form>
@@ -695,7 +704,7 @@ const SignUp = () => {
               </div>
               <div className={styles.adviceItem} style={{borderTop: "1px solid #eae8e4", paddingTop: "1rem"}}>
                 <i className='bx bx-envelope'></i>
-                <span>Receive Rivélle's digital communications</span>
+                <span>Receive Made in Heaven's digital communications</span>
               </div>
             </div>
             <div className={styles.callUs}>
@@ -706,7 +715,7 @@ const SignUp = () => {
               </div>
               <div className={styles.callUsItem}>
                 <i className='bx bx-envelope'></i>
-                <a href="mailto: rivélle@gmail.com" className={styles.mailLink}>rivélle@gmail.com</a>
+                <a href="mailto: madeinheaven@gmail.com" className={styles.mailLink}>madeinheaven@gmail.com</a>
               </div>
             </div>
           </div>
@@ -714,7 +723,7 @@ const SignUp = () => {
 
       </div>
       <div className={styles.footer}>
-          <h5>Rivélle</h5>
+          <h5>Made in Heaven</h5>
           <div className={styles.languageContainer}>
             <div className={styles.world}>
               <i className='bx bx-world'></i>

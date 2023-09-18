@@ -6,6 +6,7 @@ const initialState = {
   products: [],
   filterProducts: [],
   colors: [],
+  searched: [],
   productByName: null,
   isError: false,
   isSuccess: false,
@@ -22,6 +23,8 @@ export const getAllProducts = createAsyncThunk("getAllProducts", async(thunkAPI)
     return thunkAPI.rejectWithValue(error);
   }
 })
+
+
 
 // FILTER PRODUCTS
 export const filterProducts = createAsyncThunk("filterProducts", async(data, thunkAPI)=>{
@@ -41,9 +44,21 @@ export const getColors = createAsyncThunk("getColors", async(thunkAPI)=>{
   }
 })
 
+// SEARCH PRODUCT
+export const searchProducts = createAsyncThunk("searchProducts", async(data, thunkAPI)=>{
+  try{
+    return await productService.searchProducts(data);
+  }catch(error){
+    return thunkAPI.rejectWithValue(error);
+  }
+})
+
 
 
 export const clearProductMessages = createAction("clear-product-messages");
+export const filtersReseted = createAction("filters-reseted");
+
+
 
 
 
@@ -79,6 +94,7 @@ export const productSlice = createSlice({
               state.message = "Filtering products";
             })
             .addCase(filterProducts.fulfilled, (state, action)=>{
+              console.log(action.payload.data);
               state.isLoading = false;
               state.isSuccess = true;
               state.isError = false;
@@ -115,10 +131,34 @@ export const productSlice = createSlice({
             })
 
 
+            // SEARCH PRODUCTS
+            .addCase(searchProducts.pending, (state)=>{
+              state.isLoading = true;
+            })
+            .addCase(searchProducts.fulfilled, (state, action)=>{
+              state.isLoading = false;
+              state.isSuccess = true;
+              state.isError = false;
+              state.message = "Products found";
+              state.searched = action.payload.data;
+            })
+            .addCase(searchProducts.rejected, (state, action)=>{
+              state.isLoading = false;
+              state.isSuccess = false;
+              state.isError = true;
+              state.message = "Products not found";
+              state.searched = [];
+            })
+
+
             // CLEAR PRODUCT MESSAGES
             .addCase(clearProductMessages, (state)=>{
               state.message = "";
             })
 
+            // FILTERS RESETED
+            .addCase(filtersReseted, (state)=>{
+              state.message = "Filters reseted";
+            })
   }
 })

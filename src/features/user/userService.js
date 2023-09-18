@@ -27,9 +27,9 @@ const githubAuth = async(gitCode) =>{
 };
 
 
-const updateUser = async(newUser) =>{
+const updateUser = async(data) =>{
 
-  const response = await axios.put(`${base_url}/user/update`, newUser);
+  const response = await axios.put(`${base_url}/user/update/${data.userId}`, {newUser: data.newUser, oldPassword: data.oldPassword});
 
   return response.data;
 };
@@ -75,6 +75,28 @@ const createUser = async(data) =>{
 };
 
 
+const favToggle = async(data) =>{
+
+  const response = await axios.put(`${base_url}/user/fav-toggle/${data.userId}`, data.item);
+
+  return response.data;
+};
+
+const contactPreference = async(data) =>{
+
+  const response = await axios.post(`${base_url}/user/contactPreferences`, {contactPreference: data.contactPreference, userId: data.userId});
+
+  return response.data;
+};
+
+
+const getUserOrders = async(userId) =>{
+
+  const response = await axios.get(`${base_url}/orders/get-user-order/${userId}`);
+
+  return response.data;
+};
+
 
 
 export const userService = {
@@ -86,5 +108,8 @@ export const userService = {
   getUser,
   sendActivationCode,
   validateCredentials,
-  createUser
+  createUser,
+  favToggle,
+  contactPreference,
+  getUserOrders
 }

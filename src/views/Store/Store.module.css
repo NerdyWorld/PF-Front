@@ -1,97 +1,75 @@
 .container{
-  height: 100%;
-  width: 100vw;
+  min-height: 100vh;
 }
-
 
 .title{
-  position: relative;
-}
-
-.title h2{
   font-family: Futura;
   text-align: center;
   padding: 2rem 0rem;
-  background-color:white;
+  background-image: linear-gradient(
+  0deg,
+  hsl(27deg 24% 18%) 0%,
+  hsl(27deg 24% 17%) 20%,
+  hsl(26deg 24% 16%) 42%,
+  hsl(26deg 24% 14%) 54%,
+  hsl(25deg 25% 13%) 63%,
+  hsl(25deg 25% 12%) 71%,
+  hsl(24deg 25% 11%) 79%,
+  hsl(25deg 27% 10%) 86%,
+  hsl(26deg 31% 8%) 93%,
+  hsl(26deg 39% 7%) 100%
+);
   border-bottom: 1px solid whitesmoke;
-  color: #19110b;
-  letter-spacing: 3px;
+}
+
+.title h2{
+  color: whitesmoke;
+  letter-spacing: 5px;
   font-size: 1.3rem;
 }
 
-.subTitle{
+.subHeader{
+  display: flex;
+  align-items: center;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 10px 48px;
-  padding-bottom: 19px;
+  padding-bottom: 0px;
 }
-
-.subTitle span{
-  font-family: LVRegular;
-  font-size: 14.5px;
-}
-
-.subTitle .totalItems{
-  font-size: 12px;
-}
-
-.filterButton{
-  background-color: white;
-  display: flex;
-  justify-content: space-between;
-  align-items: end;
-}
-
-.filterButton button{
-  padding: 0.4rem 1rem;
-  border-radius: 50px;
-  height: fit-content;
+.subHeaderLeft{
   display: flex;
   align-items: center;
-  gap: 4px;
-  font-family: LVRegular;
-  font-size: 12.5px;
-  letter-spacing: 0.8px;
-  background-color: transparent;
-  border: 1px solid #1f1f1f;
+  width: 40%;
 }
 
-.items{
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  width: 100vw;
-  flex-wrap: wrap;
-  padding-bottom: 2rem;
-}
-
-
-.goBack{
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: 10px;
-  width: fit-content;
-  cursor: pointer;
-}
-
-.goBack i{
-  font-size: 22px;
+.dropdownDiv{
+  position: relative;
 }
 
 .filters{
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  padding-right: 0.3vw;
+  justify-content: flex-start;
   width: 35%;
+  padding: 0px 48px;
+  gap: 20px;
+}
+
+.filters2{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 35%;
+  padding: 0px 48px;
   gap: 20px;
 }
 
 .filterBy{
   white-space: nowrap;
   font-family: LVRegular;
+  font-size: 14px;
 }
 
 
@@ -138,13 +116,6 @@
   border-bottom: 1px solid #1f1f1f;
 }
 
-.tailSpin{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 70vh;
-  width: 100%;
-}
 
 .pagination{
   display: flex;
@@ -170,4 +141,60 @@
 .filterContainer{
   display: flex;
   align-items: center;
+}
+
+.filterButton{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.filterButton button{
+  padding: 0.4rem 1rem;
+  border-radius: 50px;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-family: LVRegular;
+  font-size: 12.5px;
+  letter-spacing: 0.8px;
+  background-color: transparent;
+  border: 1px solid #1f1f1f;
+}
+
+.subHeaderLeft .itemsLength{
+  font-family: LVRegular;
+  font-size: 14.5px;
+}
+
+.subHeaderLeft .totalItems{
+  font-size: 12px;
+}
+
+
+.sortBy{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.tailSpin{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  width: 100%;
+}
+
+
+.items{
+  padding: 1rem 0rem;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-bottom: 3rem;
 }

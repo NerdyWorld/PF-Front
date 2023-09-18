@@ -1,0 +1,498 @@
+
+
+.sections{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+  transition: all 0.6s ease;
+  transition-timing-function: 0.6s ease;
+}
+
+.sections.fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 997;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3vw;
+  margin-right: 12vw;
+  font-family: navBarTitle;
+  letter-spacing: 2px;
+}
+
+.logo span{
+  font-family: LVOblique;
+  padding-right: 2px;
+}
+
+.logo h5{
+  margin: 0;
+  margin-top: 4px;
+}
+
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  border-right: 1px solid #eae8e4;
+  padding: 30px;
+  font-size: 14px;
+  font-family: LVRegular;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  border-bottom: 2.5px solid transparent;
+  transition: border 0.4s ease;
+  cursor: pointer;
+}
+
+.section:hover{
+  border-bottom: 2.5px solid #1f1f1f;
+}
+
+.mainImg{
+  width: 100vw;
+  overflow: hidden;
+  height: 350px;
+}
+
+.mainImg img{
+  width: 100%;
+}
+
+
+.avatar{
+  position: absolute;
+  z-index: 101;
+  top: -50px;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  transform: translateX(-50%);
+  border-radius: 50px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0.3rem rgb(0, 0, 0, 0.10);
+}
+
+.avatar h3{
+  margin: 0;
+  font-size: 27px;
+  text-decoration: none;
+  font-family: LVRegular;
+  
+}
+
+.content{
+  position: relative;
+  background-color: #f6f5f3;
+  min-height: 100vh;
+  width: 100%;
+}
+
+
+.contentContainer{
+  padding-top: 6.5rem;
+}
+
+.contentContainer p{
+  text-align: center;
+  font-family: LVRegular;
+  color: #1f1f1f;
+  font-size: 16.5px;
+  letter-spacing: 1px;
+  font-weight: 900;
+}
+
+
+.eachCard h5{
+  width: 100%;
+  padding: 32px;
+  font-weight: 800;
+  font-size: 23px;
+  letter-spacing: 1px;
+  font-family: LVRegular;
+  border-bottom: 1px solid #eae8e4;
+}
+
+.orders{
+  min-height: 40px;
+  padding: 2rem;
+  font-family: LVRegular;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-height: 381.95px;
+  overflow-y: auto;
+}
+
+.orders::-webkit-scrollbar{
+  display: none;
+}
+
+.orders table{
+  width: 100%;
+}
+
+.orders table thead{
+  background-color: #eae8e4;
+  color: #1f1f1f;
+  font-family: LVRegular;
+  font-size: 13px;
+  letter-spacing: 1px;
+}
+
+.orders table thead th{
+  padding: 0.5rem;
+}
+
+.orders table tbody td{
+  padding: 0.5rem;
+  font-family: LVRegular;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+
+
+.wishlist{
+  min-height: 40px;
+  padding: 2rem;
+  font-family: LVRegular;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.blackButton{
+  padding: 1rem 2rem;
+  width: 100%;
+  padding-bottom: 1.5rem;
+}
+
+.blackButton button{
+  background-color: #1f1f1f;
+  color: white;
+  font-family: LVRegular;
+  border: none;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  width: 100%;
+  border-radius: 50px;
+  padding: 1rem;
+}
+
+.contactPreferences{
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.contactPreferencesContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.contactPreferences .eachContact:first-child{
+  border-left: 1px solid #eae8e4;
+}
+
+.eachContact{
+  border: 1px solid #eae8e4;
+  border-left: none;
+  border-right: 1px solid #eae8e4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 44px 8px 36px;
+  width: 25%;
+  cursor: pointer;
+}
+
+
+
+.eachContact span{
+  font-family: LVRegular;
+  font-size: 13px;
+  font-weight: 100;
+  letter-spacing: 0.5px;
+}
+
+.contactIcon{
+  position: relative;
+}
+
+.contactStatus{
+  position: absolute;
+  top: -20px;
+  right: -10px;
+}
+
+
+.eachCard .loginCredential{
+  font-family: LVRegular;
+  padding: 0rem 32px;
+  padding-top: 2rem;
+  margin-bottom: -0.3rem !important;
+  letter-spacing: 0.5px;
+  margin: 0;
+  font-size: 13px;
+  color: #1f1f1f;
+}
+
+
+.wishlist.active{
+  min-height: 40px;
+  padding: 2rem;
+  font-family: LVRegular;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 3%;
+  max-height: 381.95px;
+  overflow-y: auto;
+}
+
+.wishlist.active::-webkit-scrollbar{
+  display: none;
+}
+
+.wishlistItem{
+  width: 48.5%;
+  background-color: white;
+}
+
+.wItemImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+
+.wItemImg img{
+  width: 100%;
+  background-image: linear-gradient(
+  320deg,
+  hsl(0deg 0% 96%) 0%,
+  hsl(344deg 0% 95%) 11%,
+  hsl(344deg 0% 95%) 22%,
+  hsl(344deg 0% 94%) 34%,
+  hsl(344deg 0% 94%) 45%,
+  hsl(344deg 0% 93%) 56%,
+  hsl(344deg 0% 92%) 67%,
+  hsl(344deg 0% 92%) 78%,
+  hsl(344deg 0% 91%) 89%,
+  hsl(0deg 0% 91%) 100%
+);
+}
+
+.wItemDetails{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0.5rem 0.2rem;
+}
+
+.wItemDetails span:first-child{
+  font-family: LVRegular;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+
+.wItemDetails span:last-child{
+  font-family: LVRegular;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+
+.scrollTop{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 998;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.4s ease;
+}
+
+.scrollTop button{
+  background-color: transparent;
+  backdrop-filter: blur(10px);
+  border: 1px solid #1f1f1f;
+  border-radius: 50px;
+  padding: 0.4rem 1.2rem;
+  font-family: LVRegular;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  transition: color 0.5s ease, border-color 0.5s ease;
+}
+
+/* .scrollTop button:hover{
+  border-width: 1.5px;
+} */
+
+.scrollTop button.light{
+  color: white;
+  border-color: white;
+}
+
+.scrollTop button.light i{
+  color: white;
+}
+
+.scrollTop i{
+  font-size: 18px;
+  padding-top: 2px;
+}
+
+
+.scrollTop.show{
+  opacity: 1;
+  visibility: visible;
+}
+
+
+
+.signOff{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px 120px;
+  padding-top: 60px;
+}
+
+.signOff button{
+  background-color: transparent;
+  border-radius: 50px;
+  border: 1px solid #1f1f1f;
+  font-family: LVRegular;
+  padding: 0.3rem 1.2rem;
+  letter-spacing: 0.7px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  z-index: 2;
+  position: relative;
+  overflow: hidden;
+}
+
+.signOff button::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: scaleY(0);
+  transform-origin: top center;
+  background: #1f1f1f;
+  transition: transform 0.3s;
+  z-index: -1;
+}
+
+.signOff button:hover{
+  color: white;
+}
+
+.signOff button:hover::after{
+  transform: scaleY(1);
+}
+
+
+
+/* EACH CARD MEDIAQUERIES */
+/* FULL SCREEN APROX */
+@media only screen and (min-width: 1021px){
+  .cardsTop{
+    padding: 40px 120px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 15px;
+  }
+  .cardsBottom{
+    padding: 40px 120px;
+    padding-top: 0px !important;
+    margin-top: -24px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 15px;
+  }
+  .eachCard{
+    border-radius: 0.2rem;
+    background-color: white;
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+
+/* SMALL SCREEN APROX */
+@media only screen and (max-width: 1021px){
+  .cardsTop{
+    padding: 40px 120px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .cardsBottom{
+    padding: 40px 120px;
+    margin-top: -64px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .eachCard{
+    border-radius: 0.2rem;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+
+

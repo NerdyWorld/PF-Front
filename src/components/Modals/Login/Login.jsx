@@ -73,14 +73,16 @@ const LoginModalN = () => {
     // FOR GOOGLE LOGIN
     (async()=>{
       if(token){
-        const getData = await axios("https://people.googleapis.com/v1/people/me?personFields=names,emailAddresses", {
+        const getData = await axios("https://people.googleapis.com/v1/people/me?personFields=names,emailAddresses,birthdays,genders", {
           headers:{
             "Authorization": `Bearer ${token}`,
             "Accept":"application/json"
           }
         });
 
+
         // PETITION TO GOOGLE AUTH CONTROLLER IN THE BACK
+        
         dispatch(googleLoginSlice({
           email: getData.data.emailAddresses[0].value,
           userName: getData.data.names[0].givenName,

@@ -1,7 +1,6 @@
 import { createContext, useEffect, useRef, useState } from "react";
 
 
-
 export const GlobalContext = createContext();
 
 export const GlobalProvider = ({children}) =>{
@@ -10,6 +9,36 @@ export const GlobalProvider = ({children}) =>{
   // FUNCTIONS
   const getPriceByCurrency = (price) =>{
     return currency === "EUR" ? `EUR ${Math.floor(price * 0.93)}` : currency === "CAD" ? `CAD ${Math.floor(price * 1.36)}` : currency === "ARS" ? `ARS ${Math.floor(price * 750)}` : currency === "AUD" ? `AUD ${Math.floor(price * 1.57)}` : `USD ${price}`
+  };
+
+  const sortByName = (a, b) =>{
+    if(a.name.trimStart() < b.name.trimStart()){
+      return -1
+    };
+    if(a.name.trimStart() > b.name.trimStart()){
+      return 1;
+    };
+    return 0
+  };
+
+  const sortByPriceDecrease = (a, b) =>{
+    if(Number(a.price) < Number(b.price)){
+      return 1
+    };
+    if(Number(a.price) > Number(b.price)){
+      return -1;
+    };
+    return 0
+  };
+
+  const sortByPriceIncrease = (a, b) =>{
+    if(Number(a.price) < Number(b.price)){
+      return -1
+    };
+    if(Number(a.price) > Number(b.price)){
+      return 1;
+    };
+    return 0
   };
 
   // LANDING
@@ -23,6 +52,11 @@ export const GlobalProvider = ({children}) =>{
     };
   }, [currency]);
 
+
+  // FILTERS
+  const [showFilterModal, setShowFilterModal] = useState(false);
+  const [showFilteredProducts, setShowFilteredProducts] = useState(false);
+  const [finalFilteredProducts, setFinalFilteredProducts] = useState([]);
 
   // HEADER
   const refHeader = useRef();
@@ -234,11 +268,6 @@ export const GlobalProvider = ({children}) =>{
   }, [autocompleteShippingInfo]);
 
 
-  // SHOW FILTERED PRODUCTS
-  const [showFilterModal, setShowFilterModal] = useState(false);
-  const [showFilteredProducts, setShowFilteredProducts] = useState(false);
-  const [finalFilteredProducts, setFinalFilteredProducts] = useState([]);
-
   const data = {
     logged,
     setLogged,
@@ -293,10 +322,13 @@ export const GlobalProvider = ({children}) =>{
     showLanguageModal,
     setShowLanguageModal,
     getPriceByCurrency,
-    showFilteredProducts,
-    setShowFilteredProducts,
+    sortByName,
+    sortByPriceDecrease,
+    sortByPriceIncrease,
     showFilterModal,
     setShowFilterModal,
+    showFilteredProducts,
+    setShowFilteredProducts,
     finalFilteredProducts,
     setFinalFilteredProducts,
     refLV,

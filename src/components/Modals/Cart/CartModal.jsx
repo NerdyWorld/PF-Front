@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import styles from "./CartModal.module.css";
 import { Translate } from 'react-auto-translate';
-import { GlobalContext } from '../../context/globalContext';
+import { GlobalContext } from '../../../context/globalContext';
 
 
 const dummy = [1]

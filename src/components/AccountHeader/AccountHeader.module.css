@@ -1,0 +1,230 @@
+.wrapper{
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  height: 85px;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1f1f1f;
+  z-index: 3;
+  transition: all 0.4s ease;
+  transition-timing-function: 0.4s ease-in;
+}
+
+.wrapper.dark{
+  background-color: #19110b !important;
+  color: white;
+}
+
+
+.header{
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 5rem;
+  border-bottom: 1px solid #eae8e4;
+}
+
+
+.header h2{
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: 3px;
+  font-weight: 900;
+  font-family: navBarTitle;
+  cursor: pointer;
+}
+
+
+
+
+.currency{
+  position: relative;
+  width: fit-content;
+  margin-right: 0.7rem;
+  transition: all 0.4s ease-in;
+}
+
+.currency span{
+  font-size: 11.5px;
+  font-family: navBarLinks;
+  letter-spacing: 1px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.4s ease;
+}
+
+.currentCurrency{
+  width: 21.68px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.currentCurrency .currencySpan{
+  position: relative;
+}
+
+.currentCurrency .currencySpan::before{
+  content: "";
+  position: absolute;
+  background-color: white;
+  bottom: 0px;
+  height: 1px;
+  width: 100%;
+  transform: scaleX(1);
+}
+
+.currencyToggle{
+  margin-top: -1px;
+  position: absolute;
+  right: -15px;
+  cursor: pointer;
+}
+
+
+.currencyToggle i{
+  transition: transform 0.5s ease;
+}
+
+
+.currencyDropdown{
+  margin-top: 5px;
+  transition: all 0.5s ease;
+  transition-timing-function: 0.5s ease;
+  overflow: hidden;
+  position: absolute;
+  background-color: rgb(0, 0, 0, 0.13);
+  /* border-bottom: 1px solid rgb(0, 0, 0, 0.20); */
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: navBarLinks;
+  letter-spacing: 1px;
+  font-size: 12px;
+}
+
+.currencyDropdown ul{
+  width: fit-content;
+  margin: 0;
+  padding: 0;
+}
+
+.currencyDropdown li{
+  list-style-type: none;
+  padding: 3px 10px;
+  cursor: pointer;
+}
+
+
+.currencyDropdown li:hover{
+  background-color: rgb(0, 0, 0, 0.13);
+}
+
+
+.left{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.left .linkSpan{
+  position: relative;
+  font-size: 11.5px;
+  font-family: navBarLinks;
+  letter-spacing: 1px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.left .linkSpan::before{
+  content: "";
+  position: absolute;
+  bottom: -1.5px;
+  height: 1px;
+  width: 100%;
+  background: white;
+  transform: scaleX(0);
+  transition: transform 0.2s linear;
+}
+
+.left .linkSpan:hover::before{
+  transform: scaleX(1);
+}
+
+.left i{
+  font-size: 25px;
+}
+
+.middle{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.right span{
+  position: relative;
+  font-family: navBarLinks;
+  font-size: 11.5px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.right span::before{
+  content: "";
+  position: absolute;
+  bottom: -1.5px;
+  height: 1px;
+  width: 100%;
+  background: white;
+  transform: scaleX(0);
+  transition: transform 0.2s linear;
+}
+
+.right span:hover::before{
+  transform: scaleX(1);
+}
+
+
+.world{
+  margin-top: -1.5px;
+  margin-left: -2rem;
+  transition: opacity 0.4s ease;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.world i{
+  font-size: 16px;
+}
+
+.world i:hover{
+  color: rgba(255, 255, 255, 0.934);
+}
+
+
+/* SEARCH LINK */
+
+span[data-search]{
+  z-index: 5;
+}
+

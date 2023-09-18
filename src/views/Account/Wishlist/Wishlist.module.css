@@ -1,0 +1,322 @@
+.wrapper{
+  min-height: 100vh;
+  position: relative;
+}
+
+.content{
+  background-color: #f6f5f3;
+  min-height: 100vh;
+}
+
+.sections{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+  transition: all 0.6s ease;
+  transition-timing-function: 0.6s ease;
+}
+
+.sections.fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 997;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: white;
+  border-bottom: 1px solid #eae8e4;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3vw;
+  margin-right: 12vw;
+  font-family: navBarTitle;
+  letter-spacing: 2px;
+}
+
+.logo span{
+  font-family: LVOblique;
+  padding-right: 2px;
+}
+
+.logo h5{
+  margin: 0;
+  margin-top: 4px;
+}
+
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  border-right: 1px solid #eae8e4;
+  padding: 30px;
+  font-size: 14px;
+  font-family: LVRegular;
+  font-weight: 900;
+  letter-spacing: 0.5px;
+  border-bottom: 2.5px solid transparent;
+  transition: border 0.4s ease;
+  cursor: pointer;
+}
+
+.section:hover{
+  border-bottom: 2.5px solid #1f1f1f;
+}
+
+
+.cards{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 0.3%;
+}
+
+
+.wItemImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+
+.wItemImg img{
+  width: 100%;
+  background-image: linear-gradient(
+  320deg,
+  hsl(0deg 0% 96%) 0%,
+  hsl(344deg 0% 95%) 11%,
+  hsl(344deg 0% 95%) 22%,
+  hsl(344deg 0% 94%) 34%,
+  hsl(344deg 0% 94%) 45%,
+  hsl(344deg 0% 93%) 56%,
+  hsl(344deg 0% 92%) 67%,
+  hsl(344deg 0% 92%) 78%,
+  hsl(344deg 0% 91%) 89%,
+  hsl(0deg 0% 91%) 100%
+);
+}
+
+.wItemDetails{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 24px 32px 0px;
+  height: 93px;
+  cursor: default;
+}
+
+.wItemDetails span:first-child{
+  font-family: LVRegular;
+  margin-bottom: 5px;
+  font-size: 1.125rem;
+  letter-spacing: .025rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+}
+
+.wItemDetails span:last-child{
+  font-family: LVRegular;
+  font-size: .875rem;
+  letter-spacing: .025rem;
+  line-height: 1.25rem;
+  font-weight: 400;
+}
+
+.close{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  font-weight: 300;
+  font-size: 19px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+}
+
+.wishlistItem{
+  position: relative;
+}
+
+.flip{
+  position: absolute;
+  bottom: 1%;
+  right: 1%;
+  cursor: pointer;
+}
+
+.flip img{
+  width: 20px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+
+.loginInput{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+
+.loginInput span{
+  color: #666565;
+  font-family: LVRegular;
+  font-size: 14px;
+  margin-bottom: 0.5vh;
+}
+
+.loginInput input{
+  width: 100%;
+  border: 1px solid #eeeded;
+  border-radius: 0.1rem;
+  padding: 1.5vh 1vw;
+  font-size: 13.5px;
+  letter-spacing: 0.5px;
+  font-family: LVRegular;
+  transition: border 0.4s ease;
+}
+
+
+
+.loginInput input:hover{
+  border-bottom: 1px solid #1f1f1f;
+}
+
+.loginInput input::placeholder{
+  font-weight: 100;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.loginInput input:focus{
+  outline: none;
+  border: 1px solid #e4e4e4;
+  border-bottom: 1px solid #1f1f1f;
+}
+
+
+.top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+}
+
+
+.filters{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 0.3vw;
+  width: 35%;
+  gap: 20px;
+}
+
+.itemsTitle{
+  width: 65%;
+}
+
+.itemsTitle h2{
+  font-family: LVRegular;
+  margin-bottom: 5px;
+  font-size: 1.525rem;
+  letter-spacing: .025rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+}
+
+.filterBy{
+  white-space: nowrap;
+  font-family: LVRegular;
+}
+
+
+
+.empty{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f6f5f3;
+  height: 55vh;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.empty p{
+  font-family: LVRegular;
+  color: #1f1f1f;
+  letter-spacing: 0.8px;
+  font-size: 15.5px;
+  font-weight: 800;
+}
+
+.empty button{
+  border: 1.4px solid #1f1f1f;
+  background-color: #1f1f1f;
+  color: white;
+  padding: 0.5rem 2rem;
+  border-radius: 50px;
+  font-family: LVRegular;
+  font-size: 14.5px;
+  transition: opacity 0.4s ease;
+}
+
+
+/* .empty button:hover{
+  opacity: 0.98;
+} */
+
+/* CARDS QUERIES */
+
+
+@media screen and (min-width: 48rem) {
+  .content{
+    padding: 48px 3.125vw 80px;
+  }
+
+  .wishlistItem{
+    width: 49%;
+    background-color: white;
+    margin-bottom: 0.3%;
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .content{
+    padding: 48px 4.6875vw 80px;
+  }
+
+  .wishlistItem{
+    width: 49%;
+    background-color: white;
+    margin-bottom: 0.5%;
+    position: relative;
+  }
+}
+
+
+@media screen and (min-width: 90rem) {
+  .content{
+    padding: 48px 8.33vw 80px;
+  }
+
+  .wishlistItem{
+    width: 33%;
+    background-color: white;
+    margin-bottom: 0.3%;
+    position: relative;
+  }
+}
