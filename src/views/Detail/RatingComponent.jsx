@@ -2,12 +2,14 @@ import React, { useState, useEffect } from 'react';
 import StarRatingComponent from 'react-star-rating-component';
 import axios from "axios";
 import { useDispatch, useSelector } from "react-redux";
-
+import { createReview } from "../.././features/reviews/reviewsSlice";
 
 
 function RatingComponent() {
   const [rating, setRating] = useState(0);
-  const [comment, setComment] = useState('');
+  const [review, setComment] = useState('');
+
+  const dispatch = useDispatch(); // Obtiene la función dispatch
 
   const onStarClick = (nextRating) => {
     setRating(nextRating);
@@ -20,8 +22,9 @@ function RatingComponent() {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Aquí puedes hacer algo con el rating y el comentario, como enviarlos a un servidor o realizar una acción específica.
+    dispatch(createReview({ rating, review }));
     console.log('Calificación:', rating);
-    console.log('Comentario:', comment);
+    console.log('Comentario:', review);
   };
 
   return (
@@ -41,7 +44,7 @@ function RatingComponent() {
             name="comment"
             rows="4"
             cols="50"
-            value={comment}
+            value={review}
             onChange={handleCommentChange}
           />
         </div>
