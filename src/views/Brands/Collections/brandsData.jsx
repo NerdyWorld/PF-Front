@@ -1,5 +1,11 @@
-export const brandsData = {
 
+ export const categoryMapping = {
+    "WOMEN'S HANDBAGS": "Bags",
+    "WOMEN'S HEELS": "Heels",
+    "WOMEN'S SNEAKERS": "Sneakers",
+    "WOMEN'S ACCESSORIES": "Accessories",
+    "Women's Eyewear": "Sunglasses",
+  
  gucci: {
     brandName:"GUCCI",
     name: "Fall-Winter 2023 collection",    
@@ -45,7 +51,7 @@ export const brandsData = {
     ]
   },
   {
-    title: "WOMEN'S ACCESORIES",
+    title: "WOMEN'S ACCESSORIES",
     subTitle:"Distinctive emblems and timeless motifs intertwine. Gucci's women's accessories collection revisits House classics, crafting an ensemble of modern opulence where every detail tells a story.",
     carousel1: ["/images/gacce1.webp", "/images/gacce3.webp"],
     carousel2: ["/images/gacce2.webp", "/images/gacce4.webp"],
@@ -83,13 +89,6 @@ fendi: {
     subTitle: "Discover the world of bags by Silvia Venturini Fendi, from the iconic Peekaboo and Baguette to the new Fendi Origami convertible tote and a complete range of styles expressing the Maison's DNA.",
     carousel1: ["/images/bagsfendi1.jpg", "/images/bagsfendi5.avif"],
     carousel2: ["/images/bagsfendi2.avif", "/images/bagsfendi3.avif"],
-    cardCategories: [
-        {id: 1, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 2, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 3, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 4, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 5, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
   },
 
  {
@@ -97,52 +96,28 @@ fendi: {
     subTitle:"Crafted with precision in the heart of Italy, Fendi's women's heels epitomize timeless allure. Every step taken reveals a narrative of elegance and avant-garde design.",
     carousel1: ["/images/fendih1.jpg", "/images/fendih5.jpg"],
     carousel2: ["/images/fendih4.jpg", "/images/fendiheels4.avif"],
-    cardCategories: [
-        {id: 6, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 7, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 8, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 9, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 10, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+   
   },
   {
     title: "WOMEN'S SNEAKERS",
     subTitle:"Blending Italian craftsmanship with urban aesthetics, Fendi's women's sneakers are the essence of modern luxury. Each pair, a testament to innovative design and timeless appeal.",
     carousel1: ["/images/fendis1.jpg", "/images/fendis3.avif"],
     carousel2: ["/images/fendis2.jpg", "/images/fendis4.jpg"],
-    cardCategories: [
-        {id: 11, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 12, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 13, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 14, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 15, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+   
   },
   {
-    title: "WOMEN'S ACCESORIES",
+    title: "WOMEN'S ACCESSORIES",
     subTitle:"Infused with Italian elegance, Fendi's women's accessories redefine contemporary luxury. A harmonious blend of craftsmanship and flair.",
     carousel1: ["/images/fendiacc1.jpeg", "/images/fendiacc3.avif"],
     carousel2: ["/images/fendiacc2.avif", "/images/fendiacc4.avif"],
-    cardCategories: [
-        {id: 16, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 17, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 18, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 19, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 20, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+   
   },
   {
     title: "Women's Eyewear",
     subTitle:"Embodying elegance through every curve, Fendi's sunglasses radiate modern sophistication, encapsulating the essence of timeless Italian craftsmanship.",
     carousel1: ["/images/fendisun1.avif", "/images/fendisun2.avif"],
     carousel2: ["/images/fendisun3.avif", "/images/fendisun4.jpeg"],
-    cardCategories: [
-        {id: 21, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 22, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 23, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 24, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 25, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+  
   },
 ]
 },
@@ -156,69 +131,40 @@ louisvuitton: {
     subTitle: "Meticulously crafted, our newest collection melds the iconic allure of timeless designs with modern, audacious twists, redefining the essence of contemporary elegance.",
     carousel1: ["/images/lvbags3.avif", "/images/lvbags1.avif"],
     carousel2: ["/images/lvbags2.avif", "/images/lvbags5.avif"],
-    cardCategories: [
-        {id: 1, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 2, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 3, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 4, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 5, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+   
   },
 
  {
     title: "WOMEN'S HEELS",
     subTitle:"Capturing the essence of sophistication, our latest heel collection mirrors timeless elegance, transforming each stride into a statement of grace and poise.",
     carousel1: ["/images/lvheels4.jpg", "/images/lvheels1.jpg"],
-    carousel2: ["/images/lvheels5.jpg", "/images/lvheels2.avif"],
-    cardCategories: [
-        {id: 6, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 7, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 8, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 9, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 10, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+    carousel2: ["/images/lvheels16.jpg", "/images/lvheels15.jpg"],
+   
   },
   {
     title: "WOMEN'S SNEAKERS",
     subTitle:"Capturing the essence of sophistication, our women's sneaker line seamlessly blends innovative design with timeless appeal, making every stride a testament to the Maison’s impeccable craftsmanship",
     carousel1: ["/images/lvsne8.jpg", "/images/lvsne1.avif"],
     carousel2: ["/images/lvsne3.jpg", "/images/lvsne4.avif"],
-    cardCategories: [
-        {id: 11, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 12, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 13, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 14, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 15, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+   
   },
   {
-    title: "WOMEN'S ACCESORIES",
+    title: "WOMEN'S ACCESSORIES",
     subTitle:"Craftsmanship and audacity unite in our latest women's accessory ensemble, embodying elegance in each detail.",
     carousel1: ["/images/lvacce8.avif", "/images/lvacce9.avif"],
     carousel2: ["/images/lvacce5.webp", "/images/lvacce2.avif"],
-    cardCategories: [
-        {id: 16, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 17, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 18, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 19, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 20, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+   
   },
   {
     title: "Women's Eyewear",
     subTitle:"Visionary designs meet unparalleled craftsmanship in our latest sunglasses collection, reflecting elegance with every glance.",
     carousel1: ["/images/lvsun1.avif", "/images/lvsun2.avif"],
     carousel2: ["/images/lvsun4.avif", "/images/lvsun3.avif"],
-    cardCategories: [
-        {id: 21, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 22, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 23, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 24, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-        {id: 25, images:["/images/imgGucci.webp", "/images/imgGucci2.webp"]},
-    ]
+    
   },
 ]
 },
+
 dolcegabbana: {
     brandName:"DOLCE & GABBANA",
     name: "Fall-Winter 2023 collection",
@@ -265,7 +211,7 @@ dolcegabbana: {
     ]
   },
   {
-    title: "WOMEN'S ACCESORIES",
+    title: "WOMEN'S ACCESSORIES",
     subTitle:"Lustrous details, timeless glamour. Our newest accessories define the Dolce & Gabbana legacy.",
     carousel1: ["/images/dgacc1.jpg", "/images/dgacc5.jpg"],
     carousel2: ["/images/dgacc3.jpg", "/images/dgacc4.jpg"],
@@ -338,7 +284,7 @@ jimmychoo: {
     ]
   },
   {
-    title: "WOMEN'S ACCESORIES",
+    title: "WOMEN'S ACCESSORIES",
     subTitle:"The finishing touch to your wardrobe discover our collection of covetable women’s accessories sure to complement looks throughout the seasons.",
     carousel1: ["/images/jcacc1.webp", "/images/jcacc4.jpg"],
     carousel2: ["/images/jcacc2.jpg", "/images/jcacc5.jpg"],

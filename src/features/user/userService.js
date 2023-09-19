@@ -97,6 +97,12 @@ const getUserOrders = async(userId) =>{
   return response.data;
 };
 
+const toggleCartItem = async(data) => {
+  
+  const response = await axios.put(`${base_url}/user/cart-toggle/${data.userId}`, data.item);
+  return response.data;
+};
+
 
 
 export const userService = {
@@ -111,5 +117,6 @@ export const userService = {
   createUser,
   favToggle,
   contactPreference,
-  getUserOrders
+  getUserOrders,
+  toggleCartItem
 }

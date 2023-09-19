@@ -3,6 +3,7 @@ import { userService } from "./userService";
 
 const initialState = {
   user: null,
+  cart: [],
   userOrders: [],
   isLoading: false,
   isError: false,
@@ -113,6 +114,16 @@ export const getUserOrders = createAsyncThunk("getUserOrders", async(data, thunk
     return thunkAPI.rejectWithValue(error);
   }
 })
+
+export const toggleCartItem = createAsyncThunk("toggleCartItem", async(data, thunkAPI) => {
+  try {
+    const response = await userService.toggleCartItem(data);
+    return response;
+  } catch (error) {
+    return thunkAPI.rejectWithValue(error);
+  }
+});
+
 
 export const clearUserMessage = createAction("create-user-message");
 
@@ -360,7 +371,20 @@ export const userSlice = createSlice({
             state.message = action.payload.msg;
           })
 
-
+          
+          .addCase(toggleCartItem.pending, (state) => {
+            state.isLoading = true;
+          })
+          .addCase(toggleCartItem.fulfilled, (state, action) => {
+            state.isLoading = false;
+            state.cart = action.payload.data.cart.filter(item => item && Object.keys(item).length);
+          })
+          .addCase(toggleCartItem.rejected, (state, action) => {
+            state.isLoading = false;
+            state.isError = true;
+            state.message = action.error.message;
+          })
+ 
           // ACTIONS
           .addCase(clearUserMessage, (state)=>{
             state.message = "";

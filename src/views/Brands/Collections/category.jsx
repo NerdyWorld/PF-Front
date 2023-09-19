@@ -3,7 +3,7 @@ import CategoryCarousel from "./categoryCarousel";
 import CardCarousel from "./cardCarousel";
 
 
-const Category = ({ brandName, title, subTitle, name, carousel1, carousel2, cardCategories }) => {
+const Category = ({ title, subTitle, carousel1, carousel2, cardCategories, productsByCategory }) => {
   return (
     <div className="category-section">
       <div className="container-carousel-view">       
@@ -14,9 +14,9 @@ const Category = ({ brandName, title, subTitle, name, carousel1, carousel2, card
           <p>{subTitle}</p>
         </div>       
       </div>
-      <div className="card-category">
-      {/* <CardCarousel categories={cardCategories} /> */}
-      </div>
+      {/* <div className="card-category">
+      <CardCarousel  productsByCategory={productsByCategory} />
+      </div> */}
     </div>
   );
 };

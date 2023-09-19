@@ -7,7 +7,7 @@ import { getAllProducts } from '../../features/products/productSlice';
 const Detail = () => {
   const dispatch = useDispatch();
   const products = useSelector((state) => state.products.products);
-  const { id } = useParams();
+  const { id, colors } = useParams();
 
   useEffect(() => {
     if (products.length === 0) {
@@ -20,7 +20,7 @@ const Detail = () => {
 
   return (
     <div>
-       {productToDisplay ? <ProductDetail productId={id} /> : <div>Loading...</div>}
+       {productToDisplay ? <ProductDetail productId={id} initialSelectedColor={colors}/> : <div>Loading...</div>}
     </div>
   );
 }
