@@ -1,13 +1,14 @@
 import React from "react";
-
-function VideoPlayer(props) {
+import styles from "./louisvuitonvideo.module.css";
+function Reproductor(props) {
+  console.log(props);
   return (
-    <div className="video-player">
-      <video autoplay loop playsinline muted controls>
-        <source src={props.videoSrc} type="video/mp4" />
+    <div className={styles.videoplayer}>
+      <video autoPlay loop playsInline muted controls style={{ width: "100%" }}>
+        <source src={props.video} type="video/mp4" />
       </video>
     </div>
   );
 }
 
-export default VideoPlayer;
+export default Reproductor;

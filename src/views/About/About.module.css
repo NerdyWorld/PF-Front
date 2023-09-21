@@ -1,0 +1,79 @@
+/* AboutUs.module.css */
+@import url("https://fonts.googleapis.com/css2?family=Phudu:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,600;1,700&display=swap");
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  background-color: rgb(240, 238, 238);
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+.fixedHeader {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  align-items: center;
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 20px;
+  z-index: 1;
+  background-color: #fff;
+  transition: transform 0.3s ease-in-out;
+}
+
+.member {
+  margin: 9px;
+  min-width: 217px;
+}
+.team {
+  display: flex;
+  flex-direction: row;
+}
+.fixedParagraph {
+  font-family: "Playfair Display", serif;
+  bottom: 10%;
+  width: 50%;
+  left: 25%;
+  color: #0073e6;
+  transform: translateX(-50%, 50%);
+  background-color: #fff;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  bottom: 40%;
+  z-index: 1;
+}
+
+.teamHeader {
+  font-size: 24px;
+  color: #333;
+  margin-top: 220px; /* Ajusta la altura desde arriba de la página */
+}
+
+.teamButton {
+  background-color: #0073e6;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  margin: 20px auto;
+  cursor: pointer;
+  z-index: 10;
+}
+.mainImg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40%;
+  object-fit: cover;
+}

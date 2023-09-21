@@ -7,12 +7,11 @@ const Footer = () => {
   const navigate = useNavigate();
   const refToast = useRef();
   const state = useSelector((state) => state);
-  const { user } = state;
-  console.log(user);
+  const { user } = state.user;
 
   const handleNavigate = (e) => {
     console.log(user);
-    if (user.message === "User not found") {
+    if (user === undefined) {
       refToast.current.show({
         life: 3000,
         severity: "info",

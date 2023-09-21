@@ -48,9 +48,7 @@ const Lvcomponent = () => {
   ];
 
   const video1 =
-    "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/i%C3%B1aki/master+(2).m3u8";
-  // const video2 =
-  //   "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/LV/i%C3%B1aki/video2.mp4";
+    "https://nerdy-my-ecommerce.s3.us-east-2.amazonaws.com/Fendi/Inaki/videoLV/SaveTube.io-Rosal%C3%ADa+Performing+%E2%80%9CCandy%E2%80%9D+Live+in+Paris+for+.mp4";
 
   return (
     <div className={styles.wrapperAll}>
@@ -99,7 +97,6 @@ const Lvcomponent = () => {
           golden stamens rising dramatically into the Parisian sky.
         </span>
         <Reproductor video={video1} />
-        {/* <Reproductor video={video2} /> */}
       </div>
     </div>
   );
