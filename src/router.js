@@ -14,7 +14,7 @@ import Account from "./views/Account/Account";
 import Profile from "./views/Account/Profile/Profile";
 import Orders from "./views/Account/Orders/Orders";
 import Wishlist from "./views/Account/Wishlist/Wishlist";
-
+import Lvcomponent from "./views/louisvuitton/louisvuitonvista";
 
 const Router = () => {
   return (
@@ -25,15 +25,20 @@ const Router = () => {
           <Route path="about" element={<About />} />
           <Route path="collection/:name" element={<Collection />} />
           <Route path="products/:id/:colors" element={<Detail />} />
+          <Route path="lv" element={<Lvcomponent />} />
         </Route>
 
         <Route path="seeAll/:collection" element={<SeeAll />} />
-        <Route exact path="/seeAll/:collection/:category" element={<SeeAll/>}/>
-        <Route exact path="/ourStore" element={<OurStore/>}/>
-        <Route exact path="/account" element={<Account/>}/>       
-        <Route exact path="/account/profile" element={<Profile/>}/>
-        <Route exact path="/account/wishlist" element={<Wishlist/>}/>
-        <Route exact path="/account/orders" element={<Orders/>}/>
+        <Route
+          exact
+          path="/seeAll/:collection/:category"
+          element={<SeeAll />}
+        />
+        <Route exact path="/ourStore" element={<OurStore />} />
+        <Route exact path="/account" element={<Account />} />
+        <Route exact path="/account/profile" element={<Profile />} />
+        <Route exact path="/account/wishlist" element={<Wishlist />} />
+        <Route exact path="/account/orders" element={<Orders />} />
         <Route index element={<Landing />} />
         <Route path="/checkout" element={<Checkout />} />
         <Route path="/signUp" element={<SignUp />} />

@@ -1,0 +1,128 @@
+.contenedor video {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: 20px;
+  background-color: transparent;
+  border: none;
+}
+
+.videocontrol button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  position: absolute;
+  border: none;
+  bottom: 35px;
+  right: 2vw;
+  z-index: 10;
+  background: transparent;
+}
+.pauseplay button {
+  display: flex;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  position: absolute;
+  bottom: 35px;
+  left: 2vw;
+  z-index: 10;
+  background: transparent;
+}
+
+.imagegallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(40vh, 1fr));
+  gap: 10px;
+  margin: 1vh 0;
+  width: 100%;
+}
+
+.imagegallery img {
+  max-width: 100%;
+  height: auto;
+}
+
+.btnSeeMore {
+  background-color: black;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px 10px 10px 10px;
+  cursor: pointer;
+  margin: 5vh;
+  width: 19%;
+  transition: background-color 0.3s, color 0.3s;
+}
+.btnSeeMore:hover {
+  background-color: rgb(67, 66, 66);
+}
+/* louisvuitonvideo.module.css */
+
+/* Contenedor principal */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+
+  margin-top: 90vh;
+  margin-bottom: 5vh;
+  text-align: center;
+}
+
+.wrapper h2 {
+  margin: 1vh;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.reproductor video {
+  width: 100%;
+}
+.wrapper h3,
+.wrapper h4 {
+  margin-top: 3vh;
+  font-size: 20px;
+}
+
+.span1 {
+  max-width: 50%;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+.span2 {
+  letter-spacing: 1px;
+  font-size: 14px;
+  max-width: 33%;
+}
+.cards2 {
+  margin-top: 4vh;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.cards2container {
+  flex: 1; /* Las imágenes ocuparán un espacio igual */
+  overflow: hidden;
+}
+.wide {
+  flex-basis: calc(40% - 10px);
+  height: 362px;
+}
+.narrow {
+  flex-basis: calc(25% - 10px);
+}
+.narrowconwide {
+  flex-basis: calc(25% - 10px);
+  max-width: 290px;
+}
+.cards2 img {
+  height: 100%;
+  width: 100%; /* Las imágenes llenarán su contenedor */
+  height: auto;
+  display: block;
+}

@@ -1,0 +1,213 @@
+.wrapper{
+  background-color: #1c1b1b;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: start;
+  height: 100%;
+  width: 100%;
+  padding: 2rem;
+  position: relative;
+  min-height: 1000px;
+}
+
+.wrapper h1{
+  color: lightgray;
+  letter-spacing: 5px;
+  margin-bottom: 2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 21px;
+  font-weight: 300;
+  font-family: "Raleway";
+  margin-top: 1rem;
+}
+
+.wrapper section{
+  margin-bottom: 3rem;
+}
+
+.wrapper h2{
+  color: lightgray;
+  font-family: "Barlow";
+  letter-spacing: 3px;
+  font-size: 14px;
+  margin-bottom: 1rem;
+  background-color: #1c1b1b;
+  text-align: center;
+  padding: 0.8rem 0rem;
+  border-radius: 0.3rem;
+}
+
+
+
+.wrapper p{
+  font-size: 13px;
+  color: whitesmoke;
+  letter-spacing: 1px;
+  line-height: 30px;
+  padding: 1rem;
+}
+
+
+.logo{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.logo img{
+  width: 70px;
+  height: auto;
+}
+
+.back i{
+  color: whitesmoke;
+}
+
+.wrapper li{
+  color: lightgray;
+  font-size: 12px;
+  letter-spacing: 1px;
+  margin-bottom: 0.9rem;
+}
+
+.privacyPolicyDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+
+.privacyPolicyDet{
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 300;
+  width: 50%;
+  background-color: #1f1f1f;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.privacyPolicy{
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+
+.refundPolicyDiv{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.refundPolicyDet{
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 300;
+  width: 50%;
+  background-color: #1f1f1f;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.refundPolicy{
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+
+
+.shippingPolicyDiv{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.shippingPolicyDet{
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 300;
+  width: 50%;
+  background-color: #1f1f1f;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.shippingPolicy{
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+
+.termsAndConditionsDiv{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.termsAndConditionsDet{
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 300;
+  width: 50%;
+  background-color: #1f1f1f;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.termsAndConditions{
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+
+.faqsDiv{
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+.faqsDet{
+  color: whitesmoke;
+  letter-spacing: 2px;
+  font-size: 14px;
+  font-weight: 300;
+  width: 50%;
+  background-color: #1f1f1f;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.faqs{
+  margin-top: 1rem;
+  padding: 1rem;
+}
