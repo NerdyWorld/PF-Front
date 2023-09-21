@@ -15,6 +15,7 @@ import Profile from "./views/Account/Profile/Profile";
 import Orders from "./views/Account/Orders/Orders";
 import Wishlist from "./views/Account/Wishlist/Wishlist";
 import Lvcomponent from "./views/louisvuitton/louisvuitonvista";
+import PrivacyPolicy from "./views/Policies/PrivacyPolicy";
 
 const Router = () => {
   return (
@@ -36,6 +37,7 @@ const Router = () => {
         />
         <Route exact path="/ourStore" element={<OurStore />} />
         <Route exact path="/account" element={<Account />} />
+        <Route path="information/:section" element={<PrivacyPolicy />} />
         <Route exact path="/account/profile" element={<Profile />} />
         <Route exact path="/account/wishlist" element={<Wishlist />} />
         <Route exact path="/account/orders" element={<Orders />} />

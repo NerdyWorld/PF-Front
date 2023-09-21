@@ -1,57 +1,72 @@
 import { createContext, useEffect, useRef, useState } from "react";
 
-
 export const GlobalContext = createContext();
 
-export const GlobalProvider = ({children}) =>{
-
+export const GlobalProvider = ({ children }) => {
+  const refPrivacyPolicy = useRef();
+  const refRefundPolicy = useRef();
+  const refShippingPolicy = useRef();
+  const refTermsCond = useRef();
+  const refFAQS = useRef();
+  const refFAQS1 = useRef();
+  const refFAQS2 = useRef();
+  const refFAQS3 = useRef();
+  const refFAQS4 = useRef();
+  const refFAQS5 = useRef();
 
   // FUNCTIONS
-  const getPriceByCurrency = (price) =>{
-    return currency === "EUR" ? `EUR ${Math.floor(price * 0.93)}` : currency === "CAD" ? `CAD ${Math.floor(price * 1.36)}` : currency === "ARS" ? `ARS ${Math.floor(price * 750)}` : currency === "AUD" ? `AUD ${Math.floor(price * 1.57)}` : `USD ${price}`
+  const getPriceByCurrency = (price) => {
+    return currency === "EUR"
+      ? `EUR ${Math.floor(price * 0.93)}`
+      : currency === "CAD"
+      ? `CAD ${Math.floor(price * 1.36)}`
+      : currency === "ARS"
+      ? `ARS ${Math.floor(price * 750)}`
+      : currency === "AUD"
+      ? `AUD ${Math.floor(price * 1.57)}`
+      : `USD ${price}`;
   };
 
-  const sortByName = (a, b) =>{
-    if(a.name.trimStart() < b.name.trimStart()){
-      return -1
-    };
-    if(a.name.trimStart() > b.name.trimStart()){
-      return 1;
-    };
-    return 0
-  };
-
-  const sortByPriceDecrease = (a, b) =>{
-    if(Number(a.price) < Number(b.price)){
-      return 1
-    };
-    if(Number(a.price) > Number(b.price)){
+  const sortByName = (a, b) => {
+    if (a.name.trimStart() < b.name.trimStart()) {
       return -1;
-    };
-    return 0
+    }
+    if (a.name.trimStart() > b.name.trimStart()) {
+      return 1;
+    }
+    return 0;
   };
 
-  const sortByPriceIncrease = (a, b) =>{
-    if(Number(a.price) < Number(b.price)){
-      return -1
-    };
-    if(Number(a.price) > Number(b.price)){
+  const sortByPriceDecrease = (a, b) => {
+    if (Number(a.price) < Number(b.price)) {
       return 1;
-    };
-    return 0
+    }
+    if (Number(a.price) > Number(b.price)) {
+      return -1;
+    }
+    return 0;
+  };
+
+  const sortByPriceIncrease = (a, b) => {
+    if (Number(a.price) < Number(b.price)) {
+      return -1;
+    }
+    if (Number(a.price) > Number(b.price)) {
+      return 1;
+    }
+    return 0;
   };
 
   // LANDING
   const [currency, setCurrency] = useState("USD");
-  
+
   const [showCurrencyDropdown, setShowCurrencyDropdown] = useState(false);
 
   useEffect(() => {
-    if(currency.length){
+    if (currency.length) {
       localStorage.setItem("nerdyCurrency", currency);
-    };
+    }
   }, [currency]);
-
 
   // FILTERS
   const [showFilterModal, setShowFilterModal] = useState(false);
@@ -60,7 +75,7 @@ export const GlobalProvider = ({children}) =>{
 
   // HEADER
   const refHeader = useRef();
-  
+
   // HOME VIDEOS REFS
   const refLV = useRef();
   const refLVVideo = useRef();
@@ -80,15 +95,15 @@ export const GlobalProvider = ({children}) =>{
   const [showSearchModal, setShowSearchModal] = useState(false);
   const [showLanguageModal, setShowLanguageModal] = useState(false);
 
-
   // GOOGLE AUTOCOMPLETE
   const refAutocomplete = useRef();
   const refToastCheckoutAutocomplete = useRef();
 
-  const [autocompleteShippingInfo, setAutocompleteShippingInfo] = useState(null);
+  const [autocompleteShippingInfo, setAutocompleteShippingInfo] =
+    useState(null);
   const [zipCodeRequired, setZipCodeRequired] = useState(false);
 
-  const handleChangeAddress = (autocomplete) =>{
+  const handleChangeAddress = (autocomplete) => {
     const location = autocomplete.getPlace();
     console.log(location);
 
@@ -97,61 +112,52 @@ export const GlobalProvider = ({children}) =>{
       streetNumber: "",
       zipCode: "",
       city: "",
-      state:"",
-      country: ""
+      state: "",
+      country: "",
     };
-  
 
-    if(!location.address_components){
+    if (!location.address_components) {
       // Toast - Invalid Address
-    };
+    }
 
-    location.address_components.forEach(component => {
+    location.address_components.forEach((component) => {
       const types = component.types;
       const value = component.long_name;
       const shortValue = component.short_name;
-      
 
-      if(types.includes("locality")){
+      if (types.includes("locality")) {
         locObj.city = value;
       }
 
-      if(types.includes("administrative_area_level_1")){
+      if (types.includes("administrative_area_level_1")) {
         locObj.state = value;
       }
 
-      if(types.includes("postal_code")){
+      if (types.includes("postal_code")) {
         locObj.zipCode = value;
       }
 
-      if(types.includes("country")){
-        locObj.country = shortValue; 
+      if (types.includes("country")) {
+        locObj.country = shortValue;
       }
 
-      if(types.includes("route")){
-        locObj.street = value; 
+      if (types.includes("route")) {
+        locObj.street = value;
       }
 
-      if(types.includes("street_number")){
-        locObj.streetNumber = value; 
+      if (types.includes("street_number")) {
+        locObj.streetNumber = value;
       }
-
     });
 
     setAutocompleteShippingInfo(locObj);
-
   };
-
-
 
   // LOGIN & LANGUAGE
   const [logged, setLogged] = useState(false);
   const [language, setLanguage] = useState("en");
 
-
-
-
-// ------ CHECKOUT STARTS ------>
+  // ------ CHECKOUT STARTS ------>
   // Initial States
   const shippingInfoInitialState = {
     firstName: "",
@@ -161,9 +167,9 @@ export const GlobalProvider = ({children}) =>{
     streetNumber: "",
     zipCode: "",
     city: "",
-    state:"",
-    country: "US"
-  }
+    state: "",
+    country: "US",
+  };
   const billingInfoInitialState = {
     firstName: "",
     lastName: "",
@@ -173,16 +179,15 @@ export const GlobalProvider = ({children}) =>{
     streetNumber: "",
     zipCode: "",
     city: "",
-    state:"",
-    country: "US"
-  }
+    state: "",
+    country: "US",
+  };
 
   // ZipCode Input Modal Activator Ref
   const refZipCode = useRef();
-  
-  // BreadCrumb Ref, to scroll to the top in the first load 
-  const refTop = useRef();
 
+  // BreadCrumb Ref, to scroll to the top in the first load
+  const refTop = useRef();
 
   // Shipping & Billing Info State ->
   const [shippingInfo, setShippingInfo] = useState(shippingInfoInitialState);
@@ -195,52 +200,55 @@ export const GlobalProvider = ({children}) =>{
   const [showShipping, setShowShipping] = useState(false);
   const [showPayment, setShowPayment] = useState(false);
 
-
   // PAY WITH STRIPE
   const [payWithStripe, setPayWithStripe] = useState();
-
 
   const [showProductModal, setShowProductModal] = useState(false);
   const [showLearnMoreModal, setShowLearnMoreModal] = useState(false);
   const [showZipCodeModal, setShowZipCodeModal] = useState(false);
   const [showZoomProduct, setShowZoomProduct] = useState(false);
 
-// ------ CHECKOUT ENDS ------>
-
-
-
-
+  // ------ CHECKOUT ENDS ------>
 
   // LANGUAGE PERSISTANCE
   useEffect(() => {
     localStorage.setItem("nerdyLanguage", language);
   }, [language]);
 
-
   // LOGIN PERSISTANCE
   useEffect(() => {
-    if(logged){
+    if (logged) {
       const getUserFromLocalStorage = localStorage.getItem("nerdyUser");
-      if(!getUserFromLocalStorage){
+      if (!getUserFromLocalStorage) {
         localStorage.setItem("nerdyUser", JSON.stringify(logged));
-      };
-    }else{
+      }
+    } else {
       const getUserFromLocalStorage = localStorage.getItem("nerdyUser");
-      if(getUserFromLocalStorage){
+      if (getUserFromLocalStorage) {
         localStorage.removeItem("nerdyUser");
-      };
+      }
     }
   }, [logged]);
-
 
   // GOOGLE AUTOCOMPLETE
   useEffect(() => {
     console.log(autocompleteShippingInfo);
-    if(autocompleteShippingInfo){
-      if(!autocompleteShippingInfo.street || !autocompleteShippingInfo.streetNumber || !autocompleteShippingInfo.city || !autocompleteShippingInfo.state || !autocompleteShippingInfo.country){
+    if (autocompleteShippingInfo) {
+      if (
+        !autocompleteShippingInfo.street ||
+        !autocompleteShippingInfo.streetNumber ||
+        !autocompleteShippingInfo.city ||
+        !autocompleteShippingInfo.state ||
+        !autocompleteShippingInfo.country
+      ) {
         // TOAST - INVALID ADDRESS
-        return refToastCheckoutAutocomplete.current.show({life: 5000, severity: "warn", summary: "We're sorry!", detail: "Please provide us an address with more information"});
-      }else if(!autocompleteShippingInfo.zipCode){
+        return refToastCheckoutAutocomplete.current.show({
+          life: 5000,
+          severity: "warn",
+          summary: "We're sorry!",
+          detail: "Please provide us an address with more information",
+        });
+      } else if (!autocompleteShippingInfo.zipCode) {
         // DIRECCION VALIDA, PERO FALTA ZIPCODE.
         setZipCodeRequired(true);
         setShippingInfo({
@@ -250,9 +258,9 @@ export const GlobalProvider = ({children}) =>{
           city: autocompleteShippingInfo.city,
           state: autocompleteShippingInfo.state,
           zipCode: autocompleteShippingInfo.zipCode,
-          country: autocompleteShippingInfo.country
-        })
-      }else{
+          country: autocompleteShippingInfo.country,
+        });
+      } else {
         // DIRECCION VALIDA
         setShippingInfo({
           ...shippingInfo,
@@ -261,12 +269,11 @@ export const GlobalProvider = ({children}) =>{
           city: autocompleteShippingInfo.city,
           state: autocompleteShippingInfo.state,
           zipCode: autocompleteShippingInfo.zipCode,
-          country: autocompleteShippingInfo.country
-        })
+          country: autocompleteShippingInfo.country,
+        });
       }
     }
   }, [autocompleteShippingInfo]);
-
 
   const data = {
     logged,
@@ -333,15 +340,27 @@ export const GlobalProvider = ({children}) =>{
     setFinalFilteredProducts,
     refLV,
     refLVVideo,
-    refGucci, 
+    refGucci,
     refGucciVideo,
     refFendi,
     refFendiVideo,
     refDolce,
     refDolceVideo,
     refJimmy,
-    refJimmyVideo
+    refFAQS,
+    refPrivacyPolicy,
+    refRefundPolicy,
+    refShippingPolicy,
+    refTermsCond,
+    refFAQS1,
+    refFAQS2,
+    refFAQS3,
+    refFAQS4,
+    refFAQS5,
+    refJimmyVideo,
   };
 
-  return <GlobalContext.Provider value={data}>{children}</GlobalContext.Provider>
+  return (
+    <GlobalContext.Provider value={data}>{children}</GlobalContext.Provider>
+  );
 };
