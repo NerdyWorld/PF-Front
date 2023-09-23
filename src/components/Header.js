@@ -2,10 +2,10 @@ import React, { useContext, useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { GlobalContext } from "../context/globalContext";
 import LoginModalN from "./Modals/Login/Login.jsx";
-
+import { useSelector } from "react-redux";
 const Header = () => {
   const globalContext = useContext(GlobalContext);
-  const {setShowLoginModal } = globalContext;
+  const { setShowLoginModal } = globalContext;
   const navigate = useNavigate();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [subMenuOpen, setSubMenuOpen] = useState(false);
@@ -14,6 +14,8 @@ const Header = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const menuRef = useRef(null);
   const closeRef = useRef(null);
+  const state = useSelector((state) => state);
+  const { user } = state.user;
 
   const toggleMenu = () => {
     setIsMenuOpen((prevMenu) => {
@@ -71,14 +73,15 @@ const Header = () => {
 
   return (
     <header className="App-header">
-      <LoginModalN/>
-      <div className={isMenuOpen ? "overlay open" : "overlay"}></div>     
+      <LoginModalN />
+      <div className={isMenuOpen ? "overlay open" : "overlay"}></div>
       <div ref={closeRef} onClick={toggleMenu} className="menu-toggle">
         {isMenuOpen ? "Close" : "Menu"}
-        </div>     
+      </div>
       <div
         ref={menuRef}
-        className={`toggleMenuHome ${isMenuOpen ? "open" : ""}`}>      
+        className={`toggleMenuHome ${isMenuOpen ? "open" : ""}`}
+      >
         {showLogin && (
           <>
             <div className="containerLogin">
@@ -88,15 +91,26 @@ const Header = () => {
             </div>
           </>
         )}
+        {user.admin ? (
+          <div className="containerLogin">
+            <h4 className="menuAdmin" onClick={() => navigate("/")}>
+              Admin
+            </h4>
+          </div>
+        ) : null}
         <div className="textMenu">
           <p className="nameToggleSub" onClick={toggleSubMenuOpen}>
             Woman
           </p>
           <div className={`submenu ${subMenuOpen ? "open" : ""}`}>
-            <p onClick={() => navigate("/collection/louisvuitton")}>Louis Vuitton</p>
+            <p onClick={() => navigate("/collection/louisvuitton")}>
+              Louis Vuitton
+            </p>
             <p onClick={() => navigate("/collection/gucci")}>Gucci</p>
             <p onClick={() => navigate("/collection/jimmychoo")}>Jimmy Choo</p>
-            <p onClick={() => navigate("/collection/dolcegabbana")}>Dolce & Gabanna</p>
+            <p onClick={() => navigate("/collection/dolcegabbana")}>
+              Dolce & Gabanna
+            </p>
             <p onClick={() => navigate("/collection/fendi")}>Fendi</p>
           </div>
           <p className="nameToggleSub" onClick={toggleSubMenuMenOpen}>
@@ -111,17 +125,17 @@ const Header = () => {
           </div>
           <p onClick={() => navigate("/")}>Back</p>
         </div>
-      </div>        
-      <div className="header d-flex w-100"> 
+      </div>
+      <div className="header d-flex w-100">
         <div className="d-flex align-items-center justify-content-center text-white">
-          <div className="header-links">         
+          <div className="header-links">
             <p className="me-5" onClick={() => handleNavigation("home")}>
               Home
             </p>
             <p className="me-5" onClick={() => handleNavigation("about")}>
               About
             </p>
-            <p onClick={() => handleNavigation("Checkout")}>Checkout</p>    
+            <p onClick={() => handleNavigation("Checkout")}>Checkout</p>
           </div>
         </div>
       </div>
